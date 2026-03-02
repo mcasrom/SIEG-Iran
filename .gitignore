@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+venv/
+*.sqlite3
+
+# Streamlit / Data
+data/live/
+data/archive/
+*.log
+
+# OS / Editor
+.DS_Store
+.vscode/
+*.swp
