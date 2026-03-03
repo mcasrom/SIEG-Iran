@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772541902.3083587,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "US Ambassador Huckabee advises US citizens in Israel to evacuate via Egypt",
+    "trigger": "warship",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772538302.9787345,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
