@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772563502.0410087,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Israel strikes Iranian clerics gathering to elect new supreme leader",
+    "trigger": "israel strikes iran",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772556302.7821195,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
