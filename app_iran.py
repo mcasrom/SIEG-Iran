@@ -398,15 +398,30 @@ def render_sidebar(vectores, summary):
 def render_overview(vectores, summary, df_history):
     crisis = summary.get("crisis_score", 65)
 
-    # Hero
+    # Hero + título cabecera
     ts = summary.get("timestamp", time.time())
     dt_str = datetime.fromtimestamp(ts).strftime("%d/%m/%Y %H:%M") if ts else "—"
+    # Calcular tiempo transcurrido desde última captura
+    mins_ago = int((time.time() - ts) / 60) if ts else 0
+    if mins_ago < 2:       freshness = "● EN VIVO"
+    elif mins_ago < 90:    freshness = f"● hace {mins_ago} min"
+    else:                  freshness = f"● hace {mins_ago // 60}h {mins_ago % 60}min"
+
     st.markdown(f"""
     <div class='crisis-hero'>
         <div class='crisis-title'>🔴 S.I.E.G. IRAN — SALA DE CRISIS</div>
-        <div class='crisis-sub'>
-            Iran-Israel Conflict Monitor · {dt_str} UTC ·
-            Scanner {SCANNER_VERSION} · {len(vectores)} vectores activos
+        <div style='display:flex;justify-content:space-between;align-items:center;
+                    margin-top:8px;flex-wrap:wrap;gap:8px;'>
+            <div class='crisis-sub'>
+                Iran-Israel Conflict Intelligence Monitor &nbsp;·&nbsp;
+                Scanner {SCANNER_VERSION} &nbsp;·&nbsp;
+                {len(vectores)} vectores activos
+            </div>
+            <div style='font-family:Share Tech Mono;font-size:0.75em;
+                        color:#ff6600;letter-spacing:0.08em;'>
+                {freshness} &nbsp;·&nbsp;
+                <span style='color:#775544;'>Última captura: {dt_str}</span>
+            </div>
         </div>
     </div>
     """, unsafe_allow_html=True)
@@ -506,34 +521,43 @@ def render_overview(vectores, summary, df_history):
         )
         st.plotly_chart(fig, use_container_width=True, config={"displayModeBar": False})
 
-    # Exportar
+    # Exportar — botón siempre visible
     st.divider()
-    st.subheader("📥 Exportar")
+    st.subheader("📥 Exportar Datos")
     c1, c2, c3 = st.columns(3)
     with c1:
         days = st.selectbox("Periodo", [7, 30, 90, 0],
-            format_func=lambda x: f"Últimos {x}d" if x else "Todo",
+            format_func=lambda x: f"Últimos {x}d" if x else "Todo el histórico",
             key="iran_exp")
     with c2:
         if not df_history.empty:
             df_e = df_history if days == 0 else df_history[
                 df_history["dt"] >= pd.Timestamp.now() - pd.Timedelta(days=days)
             ]
-            csv = df_e[["dt","vector","score"]].rename(
-                columns={"dt":"datetime","vector":"vector","score":"score_pct"}
-            ).to_csv(index=False).encode()
-            st.download_button(
-                f"⬇ CSV ({len(df_e)} filas)",
-                csv,
-                f"sieg_iran_{datetime.now().strftime('%Y-%m-%d')}.csv",
-                "text/csv",
-            )
+        else:
+            # Sin histórico — generar CSV mínimo con scores actuales
+            rows = [{"datetime": datetime.now().isoformat(),
+                     "vector": v["key"], "score_pct": v["score"]}
+                    for v in vectores]
+            df_e = pd.DataFrame(rows)
+        csv_bytes = df_e.rename(
+            columns={"dt": "datetime", "vector": "vector", "score": "score_pct"}
+        ).to_csv(index=False).encode("utf-8")
+        st.download_button(
+            label=f"⬇ Descargar CSV ({len(df_e)} filas)",
+            data=csv_bytes,
+            file_name=f"sieg_iran_{datetime.now().strftime('%Y-%m-%d')}.csv",
+            mime="text/csv",
+        )
     with c3:
         if not df_history.empty:
             st.caption(
                 f"Total: {len(df_history):,} registros · "
-                f"Desde {df_history['dt'].min().strftime('%d/%m/%Y')}"
+                f"Desde: {df_history['dt'].min().strftime('%d/%m/%Y')} · "
+                f"Hasta: {df_history['dt'].max().strftime('%d/%m/%Y')}"
             )
+        else:
+            st.caption("Histórico en construcción — primer ciclo de datos activo")
 
 
 # ─── TAB 2: TEATRO DE OPERACIONES ────────────────────────────────
@@ -1158,18 +1182,39 @@ def render_docs():
 
     with d1:
         st.markdown("### 📘 Guia de Usuario / User Guide")
-        col1, col2 = st.columns([3, 1])
+        st.info(
+            "Manual completo: metodología · niveles de alerta · calidad de fuentes · "
+            "actores clave · glosario ES/EN · FAQ. Disponible para descarga directa."
+        )
+        col1, col2 = st.columns(2)
         with col1:
-            st.markdown(
-                f"""<iframe src="{PDF_URL}" width="100%" height="700"
-                style="border:1px solid #2a1518;border-radius:6px;background:#0a0a0a;">
-                </iframe>""",
-                unsafe_allow_html=True,
-            )
-        with col2:
-            st.markdown("**Acceso directo:**")
-            st.markdown(f"[⬇ Descargar PDF]({PDF_URL})")
+            st.markdown(f"[📘 Abrir PDF en nueva pestaña]({PDF_URL})")
             st.markdown(f"[🌐 Ver en GitHub](https://github.com/mcasrom/SIEG-Core/blob/main/docs/user_guide.pdf)")
+        with col2:
+            try:
+                import requests as _rq2
+                r2 = _rq2.get(PDF_URL, timeout=8)
+                if r2.status_code == 200:
+                    st.download_button(
+                        "⬇ Descargar user_guide.pdf",
+                        data=r2.content,
+                        file_name="sieg_user_guide.pdf",
+                        mime="application/pdf",
+                    )
+            except Exception:
+                st.markdown(f"[⬇ Descargar PDF]({PDF_URL})")
+        st.divider()
+        st.markdown("""
+**Contenido del manual:**
+- Introducción y dashboards disponibles
+- Niveles de alerta (CRÍTICO / ALTO / MEDIO / NORMAL)
+- Indicador de calidad de fuentes 🟢🔵🟡🟠🔴
+- SIEG Core — 14 actores geopolíticos
+- SIEG Atlas — 6 ejes de infraestructura crítica
+- Metodología OSINT y limitaciones
+- Exportación de datos para analistas
+- Glosario bilingüe ES/EN · FAQ
+        """)
 
     with d2:
         st.markdown("### 🔧 Referencia Tecnica")
@@ -1203,6 +1248,15 @@ def main():
     df_hist  = load_history()
 
     render_sidebar(vectores, summary)
+
+    st.markdown(
+        "<div style='font-family:Rajdhani,sans-serif;font-size:2em;font-weight:700;"
+        "color:#ff3300;letter-spacing:0.08em;margin-bottom:0.2rem;'>"
+        "🔴 S.I.E.G. IRAN &nbsp;"
+        "<span style='font-size:0.55em;color:#775544;font-weight:400;'>"
+        "Iran-Israel Crisis Room · Geopolitical Intelligence</span></div>",
+        unsafe_allow_html=True,
+    )
 
     (tab_overview, tab_teatro, tab_alianzas, tab_nuclear,
      tab_energia, tab_economia, tab_global, tab_docs) = st.tabs([
