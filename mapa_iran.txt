@@ -1,68 +1,84 @@
-# SIEG-Iran — Mapa de Fuentes V1.0
+# SIEG-Iran — Mapa de Fuentes V2.0
+# Verificado: 2026-03-03 | Fuentes muertas eliminadas | Nuevas fuentes añadidas
 # Formato: VECTOR | URL | CF | TIPO | DESCRIPCION
-# CF: Coeficiente de Fiabilidad 0.0-1.0
-# TIPO: rss
 
-# ─── CONFLICTO DIRECTO ───────────────────────────────────────────
+# ─── CONFLICTO_DIRECTO ──────────────────────────────────────────
 Conflicto_Directo | https://www.timesofisrael.com/feed/ | 0.8 | rss | Times of Israel
 Conflicto_Directo | https://feeds.bbci.co.uk/news/world/middle_east/rss.xml | 0.9 | rss | BBC Middle East
 Conflicto_Directo | https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml | 0.9 | rss | NYT Middle East
 Conflicto_Directo | https://www.aljazeera.com/xml/rss/all.xml | 0.7 | rss | Al Jazeera
 Conflicto_Directo | https://foreignpolicy.com/feed/ | 0.9 | rss | Foreign Policy
-Conflicto_Directo | https://www.defensenews.com/rss/ | 0.8 | rss | Defense News
 Conflicto_Directo | https://www.jpost.com/rss/rssfeedsfrontpage.aspx | 0.8 | rss | Jerusalem Post
+Conflicto_Directo | https://www.middleeasteye.net/rss | 0.7 | rss | Middle East Eye
 
-# ─── PROXIES REGIONALES ──────────────────────────────────────────
+# ─── PROXIES_REGIONALES ─────────────────────────────────────────
 Proxies_Regionales | https://feeds.bbci.co.uk/news/world/middle_east/rss.xml | 0.9 | rss | BBC Middle East
 Proxies_Regionales | https://www.aljazeera.com/xml/rss/all.xml | 0.7 | rss | Al Jazeera
 Proxies_Regionales | https://foreignpolicy.com/feed/ | 0.9 | rss | Foreign Policy
 Proxies_Regionales | https://www.middleeasteye.net/rss | 0.7 | rss | Middle East Eye
 Proxies_Regionales | https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml | 0.9 | rss | NYT Middle East
-Proxies_Regionales | https://www.defensenews.com/rss/ | 0.8 | rss | Defense News
+Proxies_Regionales | https://www.timesofisrael.com/feed/ | 0.8 | rss | Times of Israel
+Proxies_Regionales | https://www.jpost.com/rss/rssfeedsfrontpage.aspx | 0.8 | rss | Jerusalem Post
 
-# ─── NUCLEAR ─────────────────────────────────────────────────────
+# ─── NUCLEAR ────────────────────────────────────────────────────
+# IAEA 404, ArmsControl XML roto, Bulletin 403 — eliminados
 Nuclear | https://feeds.bbci.co.uk/news/world/middle_east/rss.xml | 0.9 | rss | BBC Middle East
-Nuclear | https://www.iaea.org/feeds/topnews.xml | 1.0 | rss | IAEA Official
 Nuclear | https://foreignpolicy.com/feed/ | 0.9 | rss | Foreign Policy
 Nuclear | https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml | 0.9 | rss | NYT Middle East
-Nuclear | https://www.armscontrol.org/rss.xml | 1.0 | rss | Arms Control Association
-Nuclear | https://thebulletin.org/feed/ | 0.9 | rss | Bulletin of Atomic Scientists
+Nuclear | https://nonproliferation.org/feed/ | 1.0 | rss | James Martin CNS — No Proliferation
+Nuclear | https://feeds.skynews.com/feeds/rss/world.xml | 0.8 | rss | Sky News World
+Nuclear | https://www.jpost.com/rss/rssfeedsfrontpage.aspx | 0.8 | rss | Jerusalem Post
+Nuclear | https://www.timesofisrael.com/feed/ | 0.8 | rss | Times of Israel
+Nuclear | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml | 0.9 | rss | BBC Science/Environment
+Nuclear | https://www.middleeasteye.net/rss | 0.7 | rss | Middle East Eye
+Nuclear | https://www.aljazeera.com/xml/rss/all.xml | 0.7 | rss | Al Jazeera
 
-# ─── ENERGIA HORMUZ ──────────────────────────────────────────────
+# ─── ENERGIA_HORMUZ ─────────────────────────────────────────────
+# NYT Energy 404, EIA timeout — eliminados
 Energia_Hormuz | https://feeds.bbci.co.uk/news/business/rss.xml | 0.9 | rss | BBC Business
 Energia_Hormuz | https://www.aljazeera.com/xml/rss/all.xml | 0.7 | rss | Al Jazeera
 Energia_Hormuz | https://feeds.skynews.com/feeds/rss/world.xml | 0.8 | rss | Sky News World
-Energia_Hormuz | https://rss.nytimes.com/services/xml/rss/nyt/Energy.xml | 0.9 | rss | NYT Energy
-Energia_Hormuz | https://www.eia.gov/rss/latest_articles.xml | 1.0 | rss | EIA Official
 Energia_Hormuz | https://www.gcaptain.com/feed/ | 0.8 | rss | gCaptain Maritime
+Energia_Hormuz | https://oilprice.com/rss/main | 0.8 | rss | OilPrice.com
+Energia_Hormuz | https://www.rigzone.com/news/rss/rigzone_latest.aspx | 0.8 | rss | Rigzone
+Energia_Hormuz | https://www.offshore-technology.com/feed/ | 0.8 | rss | Offshore Technology
+Energia_Hormuz | https://www.seatrade-maritime.com/rss.xml | 0.8 | rss | Seatrade Maritime
+Energia_Hormuz | https://www.hellenicshippingnews.com/feed/ | 0.8 | rss | Hellenic Shipping News
+Energia_Hormuz | https://splash247.com/feed/ | 0.8 | rss | Splash247 Maritime
+Energia_Hormuz | https://feeds.bbci.co.uk/news/world/middle_east/rss.xml | 0.9 | rss | BBC Middle East
+Energia_Hormuz | https://foreignpolicy.com/feed/ | 0.9 | rss | Foreign Policy
 
-# ─── TEATRO REGIONAL ─────────────────────────────────────────────
+# ─── TEATRO_REGIONAL ────────────────────────────────────────────
 Teatro_Regional | https://feeds.bbci.co.uk/news/world/middle_east/rss.xml | 0.9 | rss | BBC Middle East
 Teatro_Regional | https://www.aljazeera.com/xml/rss/all.xml | 0.7 | rss | Al Jazeera
 Teatro_Regional | https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml | 0.9 | rss | NYT Middle East
 Teatro_Regional | https://www.middleeasteye.net/rss | 0.7 | rss | Middle East Eye
 Teatro_Regional | https://foreignpolicy.com/feed/ | 0.9 | rss | Foreign Policy
 Teatro_Regional | https://www.timesofisrael.com/feed/ | 0.8 | rss | Times of Israel
+Teatro_Regional | https://www.jpost.com/rss/rssfeedsfrontpage.aspx | 0.8 | rss | Jerusalem Post
 
-# ─── POSICION GLOBAL ─────────────────────────────────────────────
+# ─── POSICION_GLOBAL ────────────────────────────────────────────
+# DefenseNews 404 — eliminado
 Posicion_Global | https://feeds.bbci.co.uk/news/world/rss.xml | 0.9 | rss | BBC World
 Posicion_Global | https://rss.nytimes.com/services/xml/rss/nyt/World.xml | 0.9 | rss | NYT World
 Posicion_Global | https://foreignpolicy.com/feed/ | 0.9 | rss | Foreign Policy
 Posicion_Global | https://thediplomat.com/feed/ | 0.8 | rss | The Diplomat
 Posicion_Global | https://feeds.skynews.com/feeds/rss/world.xml | 0.8 | rss | Sky News World
-Posicion_Global | https://www.defensenews.com/rss/ | 0.8 | rss | Defense News
 
-# ─── SANCIONES ECONOMIA ──────────────────────────────────────────
+# ─── SANCIONES_ECONOMIA ─────────────────────────────────────────
 Sanciones_Economia | https://feeds.bbci.co.uk/news/business/rss.xml | 0.9 | rss | BBC Business
 Sanciones_Economia | https://rss.nytimes.com/services/xml/rss/nyt/Business.xml | 0.9 | rss | NYT Business
 Sanciones_Economia | https://foreignpolicy.com/feed/ | 0.9 | rss | Foreign Policy
 Sanciones_Economia | https://feeds.skynews.com/feeds/rss/business.xml | 0.8 | rss | Sky News Business
 Sanciones_Economia | https://www.ft.com/rss/home | 0.9 | rss | Financial Times
+Sanciones_Economia | https://oilprice.com/rss/main | 0.8 | rss | OilPrice.com
+Sanciones_Economia | https://www.aljazeera.com/xml/rss/all.xml | 0.7 | rss | Al Jazeera
 
-# ─── DIPLOMATICO ─────────────────────────────────────────────────
+# ─── DIPLOMATICO ────────────────────────────────────────────────
 Diplomatico | https://feeds.bbci.co.uk/news/world/middle_east/rss.xml | 0.9 | rss | BBC Middle East
 Diplomatico | https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml | 0.9 | rss | NYT Middle East
 Diplomatico | https://foreignpolicy.com/feed/ | 0.9 | rss | Foreign Policy
 Diplomatico | https://www.aljazeera.com/xml/rss/all.xml | 0.7 | rss | Al Jazeera
 Diplomatico | https://www.middleeasteye.net/rss | 0.7 | rss | Middle East Eye
 Diplomatico | https://thediplomat.com/feed/ | 0.8 | rss | The Diplomat
+Diplomatico | https://www.jpost.com/rss/rssfeedsfrontpage.aspx | 0.8 | rss | Jerusalem Post

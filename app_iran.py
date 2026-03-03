@@ -211,6 +211,74 @@ h1, h2, h3 {
 }
 .iran-footer a { color: var(--orange); text-decoration: none; }
 .iran-footer a:hover { text-decoration: underline; }
+/* ── TICKER DE FLASHES ─────────────────────────────────────── */
+.flash-ticker-wrap {
+    width: 100%; overflow: hidden;
+    background: #1a0000;
+    border-top: 1px solid #ff2200;
+    border-bottom: 1px solid #ff2200;
+    padding: 6px 0;
+    margin-bottom: 8px;
+    position: relative;
+}
+.flash-ticker-label {
+    display: inline-block;
+    background: #ff2200;
+    color: #ffffff;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 0.72em;
+    font-weight: bold;
+    padding: 2px 10px;
+    letter-spacing: 0.12em;
+    position: absolute; left: 0; top: 0; bottom: 0;
+    z-index: 2;
+    display: flex; align-items: center;
+}
+.flash-ticker-track {
+    display: inline-block;
+    white-space: nowrap;
+    animation: ticker-scroll 40s linear infinite;
+    padding-left: 120px;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 0.75em;
+    color: #ffaa88;
+}
+.flash-ticker-track:hover { animation-play-state: paused; }
+.flash-item {
+    display: inline-block;
+    margin-right: 60px;
+    color: #ffaa88;
+}
+.flash-item .fi-icon { color: #ff4400; margin-right: 4px; }
+.flash-item .fi-vec  { color: #775544; font-size: 0.88em; }
+.flash-item .fi-age  { color: #553322; font-size: 0.82em; margin-left: 6px; }
+@keyframes ticker-scroll {
+    0%   { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+}
+
+/* ── SIDEBAR FLASHES ───────────────────────────────────────── */
+.flash-card {
+    background: #1a0005;
+    border-left: 3px solid #ff2200;
+    border-radius: 0 4px 4px 0;
+    padding: 6px 10px;
+    margin: 4px 0;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 0.68em;
+    line-height: 1.4;
+}
+.flash-card-title { color: #ffaa88; }
+.flash-card-meta  { color: #553322; font-size: 0.88em; margin-top: 2px; }
+.flash-card-new {
+    display: inline-block;
+    background: #ff2200;
+    color: white;
+    font-size: 0.7em;
+    padding: 1px 5px;
+    border-radius: 3px;
+    margin-right: 4px;
+}
 </style>
 """
 st.markdown(CRISIS_CSS, unsafe_allow_html=True)
@@ -271,6 +339,29 @@ def load_history() -> pd.DataFrame:
         return df.sort_values("dt")
     except Exception:
         return pd.DataFrame(columns=["timestamp", "vector", "score", "dt"])
+
+
+@st.cache_data(ttl=120)
+def load_flashes() -> list:
+    flashes_file = os.path.join(DATA_DIR, "iran_flashes.json")
+    try:
+        if os.path.exists(flashes_file):
+            flashes = json.load(open(flashes_file))
+            # Purgar expirados (48h)
+            ahora  = time.time()
+            ttl_s  = 48 * 3600
+            activos = [f for f in flashes if (ahora - f.get("ts", 0)) < ttl_s]
+            return activos
+    except (OSError, json.JSONDecodeError):
+        pass
+    return []
+
+
+def flash_age_str(ts: float) -> str:
+    mins = int((time.time() - ts) / 60)
+    if mins < 60:   return f"hace {mins}m"
+    if mins < 1440: return f"hace {mins//60}h"
+    return f"hace {mins//1440}d"
 
 
 @st.cache_data(ttl=300)
@@ -339,8 +430,39 @@ def make_gauge(valor, titulo, height=180):
     )
     return fig
 
+# ─── TICKER DE FLASHES ───────────────────────────────────────────
+def render_ticker(flashes: list) -> None:
+    if not flashes:
+        return
+
+    # Construir items del ticker — duplicados para loop continuo
+    items_html = ""
+    for f in flashes[:15]:
+        age  = flash_age_str(f.get("ts", time.time()))
+        vec  = f.get("vector","").replace("_"," ")
+        ico  = f.get("icono","🔴")
+        tit  = f.get("titulo","")[:110]
+        items_html += (
+            f"<span class='flash-item'>"
+            f"<span class='fi-icon'>{ico}</span>"
+            f"<span class='fi-vec'>[{vec}]</span> "
+            f"<span class='flash-card-title'>{tit}</span>"
+            f"<span class='fi-age'>{age}</span>"
+            f"</span>"
+        )
+    # Duplicar para scroll continuo sin salto
+    items_html_double = items_html + items_html
+
+    st.markdown(f"""
+    <div class='flash-ticker-wrap'>
+        <div class='flash-ticker-label'>⚡ FLASH</div>
+        <div class='flash-ticker-track'>{items_html_double}</div>
+    </div>
+    """, unsafe_allow_html=True)
+
+
 # ─── SIDEBAR ─────────────────────────────────────────────────────
-def render_sidebar(vectores, summary):
+def render_sidebar(vectores, summary, flashes):
     with st.sidebar:
         st.markdown(
             "<div style='font-family:Rajdhani,sans-serif;color:#ff3300;"
@@ -356,6 +478,36 @@ def render_sidebar(vectores, summary):
             f"color:#775544;'>{score_label(crisis)}</span></div>",
             unsafe_allow_html=True,
         )
+        st.divider()
+
+        # ── FLASHES en sidebar ──
+        if flashes:
+            ahora = time.time()
+            nuevos_24h = [f for f in flashes if (ahora - f.get("ts",0)) < 86400]
+            label = f"⚡ FLASHES ({len(flashes)})"
+            if nuevos_24h:
+                label += f" · {len(nuevos_24h)} nuevos"
+            st.markdown(
+                f"<span style='font-family:Share Tech Mono;color:#ff3300;"
+                f"font-size:0.75em;font-weight:bold;'>{label}</span>",
+                unsafe_allow_html=True,
+            )
+            for f in flashes[:8]:
+                age     = flash_age_str(f.get("ts", ahora))
+                es_nuevo = (ahora - f.get("ts", 0)) < 86400
+                nuevo_tag = "<span class='flash-card-new'>NEW</span>" if es_nuevo else ""
+                tit = f.get("titulo","")[:90]
+                vec = f.get("vector","").replace("_"," ")
+                ico = f.get("icono","🔴")
+                st.markdown(
+                    f"<div class='flash-card'>"
+                    f"{nuevo_tag}"
+                    f"<span class='flash-card-title'>{ico} {tit}</span>"
+                    f"<div class='flash-card-meta'>{vec} · {age}</div>"
+                    f"</div>",
+                    unsafe_allow_html=True,
+                )
+            st.divider()
         st.divider()
 
         st.markdown(
@@ -1246,8 +1398,12 @@ def main():
     vectores = load_vectores()
     summary  = load_crisis_summary()
     df_hist  = load_history()
+    flashes  = load_flashes()
 
-    render_sidebar(vectores, summary)
+    render_sidebar(vectores, summary, flashes)
+
+    # Ticker — siempre visible sobre los tabs
+    render_ticker(flashes)
 
     st.markdown(
         "<div style='font-family:Rajdhani,sans-serif;font-size:2em;font-weight:700;"

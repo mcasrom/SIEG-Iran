@@ -23,11 +23,15 @@ DATA_DIR      = BASE_DIR / "data" / "live"
 MAPA_FUENTES  = BASE_DIR / "mapa_iran.txt"
 HISTORY_CSV   = DATA_DIR / "history_iran.csv"
 LEARNED_FILE  = DATA_DIR / "iran_learned_sources.json"
+FLASHES_FILE  = DATA_DIR / "iran_flashes.json"
 
 RSS_ITEMS     = 25
 TIMEOUT       = 10
-VERSION       = "V1.0"
+VERSION       = "V1.1"
 MIN_NOTICIAS  = 50
+FLASH_TTL_H   = 48          # horas que permanece un flash visible
+FLASH_SCORE   = 75          # score mínimo de oracion para generar flash
+FLASH_MAX     = 20          # máximo flashes almacenados
 
 logging.basicConfig(level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s", datefmt="%H:%M:%S")
@@ -221,6 +225,121 @@ def guardar_aprendidas(d: dict) -> None:
     except OSError as e:
         log.warning("No se pudo guardar fuentes aprendidas: %s", e)
 
+# ─── SISTEMA DE FLASHES ──────────────────────────────────────────
+# Palabras clave que elevan una noticia a FLASH URGENTE
+FLASH_TRIGGERS = [
+    # Cierre Hormuz / energía crítica
+    "hormuz closed", "hormuz blocked", "hormuz closure",
+    "strait closed", "oil embargo", "oil blockade",
+    "pipeline attack", "pipeline explosion", "gas cut",
+    # Ataques directos Iran-Israel
+    "iran launches", "iran fires", "iran attacks",
+    "israel strikes iran", "israel bombs iran",
+    "idf strikes", "ballistic missile iran",
+    "iran missile barrage", "mass missile attack",
+    # Nuclear crítico
+    "nuclear device", "nuclear test", "enriched to 90",
+    "bomb-grade", "weaponize", "nuclear breakout",
+    "iaea emergency", "iaea inspectors expelled",
+    # Proxies crítico
+    "hezbollah declares war", "full scale attack",
+    "houthi closes", "red sea closed",
+    "israel ground invasion", "iran declares war",
+    # Ataques activos
+    "shot down", "fighter jet downed", "warship sunk",
+    "aircraft carrier", "drone swarm", "mass casualty",
+    "hundreds killed", "city under fire",
+]
+
+FLASH_ICONOS = {
+    "Conflicto_Directo":  "⚔️",
+    "Proxies_Regionales": "🕸",
+    "Nuclear":            "⚛️",
+    "Energia_Hormuz":     "🛢",
+    "Teatro_Regional":    "🗺",
+    "Posicion_Global":    "🌍",
+    "Sanciones_Economia": "💰",
+    "Diplomatico":        "🕊",
+}
+
+def cargar_flashes() -> list:
+    try:
+        if FLASHES_FILE.exists():
+            return json.load(open(FLASHES_FILE))
+    except (OSError, json.JSONDecodeError):
+        pass
+    return []
+
+def guardar_flashes(flashes: list) -> None:
+    try:
+        json.dump(flashes, open(FLASHES_FILE, "w"), indent=2, ensure_ascii=False)
+    except OSError as e:
+        log.warning("Error guardando flashes: %s", e)
+
+def purgar_flashes_expirados(flashes: list, ahora: float) -> list:
+    ttl_s = FLASH_TTL_H * 3600
+    return [f for f in flashes if (ahora - f.get("ts", 0)) < ttl_s]
+
+def extraer_flashes(noticias: list, vector: str, score_vector: int,
+                    ahora: float) -> list:
+    """
+    Extrae titulares flash de las noticias del ciclo actual.
+    Criterios:
+      1. El score del vector es >= FLASH_SCORE, Y
+      2. El titular contiene al menos uno de los FLASH_TRIGGERS
+    Devuelve lista de dicts flash nuevos (sin duplicar existentes).
+    """
+    if score_vector < FLASH_SCORE:
+        return []
+
+    nuevos = []
+    vistos = set()
+
+    for n in noticias:
+        texto = n.get("text", "").lower()
+        # Extraer solo el titular (antes del primer espacio extra largo)
+        titulo_raw = n.get("text", "").split("  ")[0].strip()
+        titulo = titulo_raw[:140]  # truncar a 140 chars
+
+        if not titulo or titulo in vistos:
+            continue
+
+        # Verificar si contiene trigger de flash
+        trigger_hit = next((t for t in FLASH_TRIGGERS if t in texto), None)
+        if not trigger_hit:
+            continue
+
+        vistos.add(titulo)
+        nuevos.append({
+            "ts":      ahora,
+            "vector":  vector,
+            "icono":   FLASH_ICONOS.get(vector, "🔴"),
+            "titulo":  titulo,
+            "trigger": trigger_hit,
+            "score":   score_vector,
+            "cf":      n.get("cf", 0.7),
+        })
+
+        if len(nuevos) >= 3:  # máximo 3 flashes por vector por ciclo
+            break
+
+    return nuevos
+
+def actualizar_flashes(nuevos: list, existentes: list,
+                       ahora: float) -> list:
+    """Purga expirados, evita duplicados por titulo, limita a FLASH_MAX."""
+    resultado = purgar_flashes_expirados(existentes, ahora)
+
+    titulos_existentes = {f["titulo"] for f in resultado}
+    for f in nuevos:
+        if f["titulo"] not in titulos_existentes:
+            resultado.append(f)
+            titulos_existentes.add(f["titulo"])
+
+    # Más recientes primero, máximo FLASH_MAX
+    resultado.sort(key=lambda x: x["ts"], reverse=True)
+    return resultado[:FLASH_MAX]
+
 # ─── FETCH RSS ───────────────────────────────────────────────────
 def fetch_rss(fuentes: list, vector: str) -> tuple:
     headers  = {"User-Agent": "Mozilla/5.0 (compatible; SIEG-Iran/1.0)"}
@@ -381,10 +500,12 @@ def scan() -> None:
 
     ts = time.time()
     print(f"--- S.I.E.G. IRAN SCANNER {VERSION} | {datetime.now().strftime('%H:%M:%S')} ---")
-    print(f"    Vectores: {len(VECTORES)} | Umbral: {MIN_NOTICIAS} noticias")
+    print(f"    Vectores: {len(VECTORES)} | Umbral: {MIN_NOTICIAS} noticias | Flash TTL: {FLASH_TTL_H}h")
     print()
 
     scores_globales = []
+    flashes_existentes = cargar_flashes()
+    flashes_nuevos_ciclo = []
 
     for vector in VECTORES:
         file_path = DATA_DIR / f"iran_{vector.lower()}.json"
@@ -398,6 +519,10 @@ def scan() -> None:
             vector, primarias.get(vector, []), aprendidas
         )
         score, dison = calcular_triaje(noticias, vector, old_score, historico)
+
+        # ── Extracción de flashes ──
+        nuevos_flash = extraer_flashes(noticias, vector, score, ts)
+        flashes_nuevos_ciclo.extend(nuevos_flash)
 
         try:
             json.dump({
@@ -423,12 +548,22 @@ def scan() -> None:
         ds    = f"+{delta}" if delta > 0 else str(delta)
         fb    = " [FB]"  if calidad["uso_fallback"] else ""
         web   = " [WEB]" if calidad["uso_web"]      else ""
+        flash_tag = f" ⚡{len(nuevos_flash)}" if nuevos_flash else ""
         icono = "☢️ " if score >= 90 else "🔥 " if score >= 75 else "⚠️ " if score >= 60 else "⚖️ "
         print(f"[{icono}] {vector:22} | Score: {score:3}% ({ds:>4}) | "
               f"Noticias: {len(noticias):3} | "
-              f"Calidad: {calidad['emoji']} {calidad['nivel']}{fb}{web}")
+              f"Calidad: {calidad['emoji']} {calidad['nivel']}{fb}{web}{flash_tag}")
 
     guardar_aprendidas(aprendidas)
+
+    # ── Persistir flashes actualizados ──
+    flashes_final = actualizar_flashes(flashes_nuevos_ciclo, flashes_existentes, ts)
+    guardar_flashes(flashes_final)
+    if flashes_nuevos_ciclo:
+        print(f"\n    ⚡ FLASHES NUEVOS: {len(flashes_nuevos_ciclo)} | "
+              f"Total activos: {len(flashes_final)}")
+        for f in flashes_nuevos_ciclo[:5]:
+            print(f"       {f['icono']} [{f['vector']}] {f['titulo'][:80]}")
 
     # Score global de crisis (media ponderada)
     crisis_score = int(sum(

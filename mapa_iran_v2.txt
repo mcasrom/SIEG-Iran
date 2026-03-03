@@ -1,0 +1,73 @@
+# SIEG-Iran — Mapa de Fuentes V2.0 (verificado)
+# Generado: 2026-03-03 08:42
+# Formato: VECTOR | URL | CF | TIPO | DESCRIPCION
+
+# ─── CONFLICTO_DIRECTO ─────────────────────────────────
+Conflicto_Directo | https://www.timesofisrael.com/feed/ | 0.8 | rss | 15 items/ciclo
+Conflicto_Directo | https://feeds.bbci.co.uk/news/world/middle_east/rss.xml | 0.9 | rss | 34 items/ciclo
+Conflicto_Directo | https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml | 0.9 | rss | 46 items/ciclo
+Conflicto_Directo | https://www.aljazeera.com/xml/rss/all.xml | 0.7 | rss | 25 items/ciclo
+Conflicto_Directo | https://foreignpolicy.com/feed/ | 0.9 | rss | 25 items/ciclo
+Conflicto_Directo | https://www.jpost.com/rss/rssfeedsfrontpage.aspx | 0.8 | rss | 26 items/ciclo
+
+# ─── PROXIES_REGIONALES ────────────────────────────────
+Proxies_Regionales | https://feeds.bbci.co.uk/news/world/middle_east/rss.xml | 0.9 | rss | 34 items/ciclo
+Proxies_Regionales | https://www.aljazeera.com/xml/rss/all.xml | 0.7 | rss | 25 items/ciclo
+Proxies_Regionales | https://foreignpolicy.com/feed/ | 0.9 | rss | 25 items/ciclo
+Proxies_Regionales | https://www.middleeasteye.net/rss | 0.7 | rss | 20 items/ciclo
+Proxies_Regionales | https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml | 0.9 | rss | 46 items/ciclo
+
+# ─── NUCLEAR ───────────────────────────────────────────
+Nuclear | https://feeds.bbci.co.uk/news/world/middle_east/rss.xml | 0.9 | rss | 34 items/ciclo
+Nuclear | https://foreignpolicy.com/feed/ | 0.9 | rss | 25 items/ciclo
+Nuclear | https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml | 0.9 | rss | 46 items/ciclo
+Nuclear | https://nonproliferation.org/feed/ | 1.0 | rss | NUEVO: James Martin CNS (10 items)
+Nuclear | https://feeds.skynews.com/feeds/rss/world.xml | 0.8 | rss | NUEVO: Sky News World (10 items)
+Nuclear | https://www.jpost.com/rss/rssfeedsfrontpage.aspx | 0.8 | rss | NUEVO: Jerusalem Post (26 items)
+Nuclear | https://www.timesofisrael.com/feed/ | 0.8 | rss | NUEVO: Times of Israel (15 items)
+Nuclear | https://feeds.bbci.co.uk/news/science_and_environment/rss.xml | 0.9 | rss | NUEVO: BBC Science/Environment (37 items)
+Nuclear | https://www.middleeasteye.net/rss | 0.7 | rss | NUEVO: Middle East Eye (20 items)
+Nuclear | https://www.aljazeera.com/xml/rss/all.xml | 0.7 | rss | NUEVO: Al Jazeera (25 items)
+
+# ─── ENERGIA_HORMUZ ────────────────────────────────────
+Energia_Hormuz | https://feeds.bbci.co.uk/news/business/rss.xml | 0.9 | rss | 56 items/ciclo
+Energia_Hormuz | https://www.aljazeera.com/xml/rss/all.xml | 0.7 | rss | 25 items/ciclo
+Energia_Hormuz | https://feeds.skynews.com/feeds/rss/world.xml | 0.8 | rss | 10 items/ciclo
+Energia_Hormuz | https://www.gcaptain.com/feed/ | 0.8 | rss | 12 items/ciclo
+Energia_Hormuz | https://oilprice.com/rss/main | 0.8 | rss | NUEVO: OilPrice.com (15 items)
+Energia_Hormuz | https://www.rigzone.com/news/rss/rigzone_latest.aspx | 0.8 | rss | NUEVO: Rigzone (20 items)
+Energia_Hormuz | https://www.offshore-technology.com/feed/ | 0.8 | rss | NUEVO: Offshore Technology (10 items)
+Energia_Hormuz | https://www.seatrade-maritime.com/rss.xml | 0.8 | rss | NUEVO: Seatrade Maritime (50 items)
+Energia_Hormuz | https://www.hellenicshippingnews.com/feed/ | 0.8 | rss | NUEVO: Hellenic Shipping News (20 items)
+Energia_Hormuz | https://splash247.com/feed/ | 0.8 | rss | NUEVO: Splash247 Maritime (10 items)
+Energia_Hormuz | https://feeds.bbci.co.uk/news/world/middle_east/rss.xml | 0.9 | rss | NUEVO: BBC Middle East (34 items)
+
+# ─── TEATRO_REGIONAL ───────────────────────────────────
+Teatro_Regional | https://feeds.bbci.co.uk/news/world/middle_east/rss.xml | 0.9 | rss | 34 items/ciclo
+Teatro_Regional | https://www.aljazeera.com/xml/rss/all.xml | 0.7 | rss | 25 items/ciclo
+Teatro_Regional | https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml | 0.9 | rss | 46 items/ciclo
+Teatro_Regional | https://www.middleeasteye.net/rss | 0.7 | rss | 20 items/ciclo
+Teatro_Regional | https://foreignpolicy.com/feed/ | 0.9 | rss | 25 items/ciclo
+Teatro_Regional | https://www.timesofisrael.com/feed/ | 0.8 | rss | 15 items/ciclo
+
+# ─── POSICION_GLOBAL ───────────────────────────────────
+Posicion_Global | https://feeds.bbci.co.uk/news/world/rss.xml | 0.9 | rss | 31 items/ciclo
+Posicion_Global | https://rss.nytimes.com/services/xml/rss/nyt/World.xml | 0.9 | rss | 60 items/ciclo
+Posicion_Global | https://foreignpolicy.com/feed/ | 0.9 | rss | 25 items/ciclo
+Posicion_Global | https://thediplomat.com/feed/ | 0.8 | rss | 96 items/ciclo
+Posicion_Global | https://feeds.skynews.com/feeds/rss/world.xml | 0.8 | rss | 10 items/ciclo
+
+# ─── SANCIONES_ECONOMIA ────────────────────────────────
+Sanciones_Economia | https://feeds.bbci.co.uk/news/business/rss.xml | 0.9 | rss | 56 items/ciclo
+Sanciones_Economia | https://rss.nytimes.com/services/xml/rss/nyt/Business.xml | 0.9 | rss | 50 items/ciclo
+Sanciones_Economia | https://foreignpolicy.com/feed/ | 0.9 | rss | 25 items/ciclo
+Sanciones_Economia | https://feeds.skynews.com/feeds/rss/business.xml | 0.8 | rss | 10 items/ciclo
+Sanciones_Economia | https://www.ft.com/rss/home | 0.9 | rss | 12 items/ciclo
+
+# ─── DIPLOMATICO ───────────────────────────────────────
+Diplomatico | https://feeds.bbci.co.uk/news/world/middle_east/rss.xml | 0.9 | rss | 34 items/ciclo
+Diplomatico | https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml | 0.9 | rss | 46 items/ciclo
+Diplomatico | https://foreignpolicy.com/feed/ | 0.9 | rss | 25 items/ciclo
+Diplomatico | https://www.aljazeera.com/xml/rss/all.xml | 0.7 | rss | 25 items/ciclo
+Diplomatico | https://www.middleeasteye.net/rss | 0.7 | rss | 20 items/ciclo
+Diplomatico | https://thediplomat.com/feed/ | 0.8 | rss | 96 items/ciclo
