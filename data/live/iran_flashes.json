@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772577902.6981158,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Syria deploys thousands of troops to border with Lebanon, officials say",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772563502.0410087,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
