@@ -1,0 +1,13 @@
+{
+  "score": 50,
+  "disonancia": false,
+  "timestamp": 1772524592.2417846,
+  "noticias": 137,
+  "fuentes_activas": 7,
+  "version": "V1.1",
+  "calidad_nivel": "VERDE",
+  "calidad_emoji": "\ud83d\udfe2",
+  "calidad_css": "green",
+  "uso_fallback": false,
+  "uso_web": false
+}

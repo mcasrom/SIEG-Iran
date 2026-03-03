@@ -1,0 +1,15 @@
+{
+  "crisis_score": 60,
+  "timestamp": 1772524592.2417846,
+  "version": "V1.1",
+  "vectores": {
+    "Conflicto_Directo": 72,
+    "Proxies_Regionales": 65,
+    "Nuclear": 58,
+    "Energia_Hormuz": 55,
+    "Teatro_Regional": 62,
+    "Posicion_Global": 45,
+    "Sanciones_Economia": 50,
+    "Diplomatico": 35
+  }
+}
