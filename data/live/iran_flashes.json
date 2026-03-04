@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772595902.031514,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF carries out ‘broad wave of attacks’ across Iran overnight; Iranian missiles lobbed at Israel",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772592302.3570158,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
