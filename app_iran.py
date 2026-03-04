@@ -134,7 +134,7 @@ h1, h2, h3 {
 }
 .crisis-title {
     color: var(--red);
-    font-size: 1.6em;
+    font-size: 2.1em;
     font-weight: bold;
     letter-spacing: 0.15em;
     font-family: 'Rajdhani', sans-serif;
@@ -1406,10 +1406,10 @@ def main():
     render_ticker(flashes)
 
     st.markdown(
-        "<div style='font-family:Rajdhani,sans-serif;font-size:2em;font-weight:700;"
+        "<div style='font-family:Rajdhani,sans-serif;font-size:2.6em;font-weight:700;"
         "color:#ff3300;letter-spacing:0.08em;margin-bottom:0.2rem;'>"
         "🔴 S.I.E.G. IRAN &nbsp;"
-        "<span style='font-size:0.55em;color:#775544;font-weight:400;'>"
+        "<span style='font-size:0.58em;color:#775544;font-weight:400;'>"
         "Iran-Israel Crisis Room · Geopolitical Intelligence</span></div>",
         unsafe_allow_html=True,
     )
