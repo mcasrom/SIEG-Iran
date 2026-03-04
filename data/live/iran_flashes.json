@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772592302.3570158,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah fires on Tel Aviv as Israel threatens Iranian officers in Lebanon",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772585102.1627893,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
