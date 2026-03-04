@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772628302.1809244,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iranian warship sinks after apparent submarine attack near Sri Lanka; 101 said missing",
+    "trigger": "warship",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772624702.5052967,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "🕸",
     "titulo": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "trigger": "shot down",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1772538302.9787345,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Ayatollah Khamenei's iron grip on power in Iran comes to an end Iranian state TV confirms the supreme leader has been killed on the first da",
-    "trigger": "air strike",
     "score": 65,
     "cf": 0.9
   }
