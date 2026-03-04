@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772613902.2087271,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Funerals held for students and staff after strike on Iran school Iranian authorities say they were killed in a US-Israeli strike in the city",
+    "trigger": "killed in",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1772599502.4988549,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
