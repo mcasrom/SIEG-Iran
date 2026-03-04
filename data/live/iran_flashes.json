@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772599502.4988549,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "First US soldiers to die in Iran conflict are identified Four of the six - ranging in age from 20 to 42 - have been named after the drone st",
+    "trigger": "drone strike",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1772595902.031514,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
