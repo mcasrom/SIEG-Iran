@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772634890.1174197,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "‘Quiet Death’: US submarine sinks Iranian warship off Sri Lanka, in first since WWII",
+    "trigger": "warship",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772628302.1809244,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "🕸",
     "titulo": "Israel strikes Lebanon after Hezbollah rocket fire as Iran conflict widens Lebanese officials say 52 people were killed by Israeli strikes, ",
     "trigger": "hezbollah",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1772538302.9787345,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
-    "trigger": "shot down",
     "score": 65,
     "cf": 0.9
   }
