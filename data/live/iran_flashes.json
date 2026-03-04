@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772585102.1627893,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Khamenei’s son Mojtaba said to emerge as leading candidate for new supreme leader",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772577902.6981158,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
