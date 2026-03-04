@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1772657102.8045952,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah, Iran launch simultaneous strikes on Israel; 2 soldiers wounded in Lebanon",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1772657102.8045952,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah wades into Israel-Iran conflict, but calculated restraint may wane",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772639102.2194045,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "US Ambassador Huckabee advises US citizens in Israel to evacuate via Egypt",
     "trigger": "warship",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772538302.9787345,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF sends troops further into south Lebanon and strikes Beirut amid Hezbollah attacks",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772538302.9787345,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Kuwaitis seen helping US fighter pilot after plane shot down",
-    "trigger": "shot down",
     "score": 72,
     "cf": 0.8
   }
