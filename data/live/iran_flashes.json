@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1772721902.7269697,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "As rate of Iranian missile fire slows, IDF assesses Hezbollah attacks may increase",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1772721902.7269697,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "US sub sinks Iranian warship in Indian Ocean, Hegseth says More than 100 personnel were thought to be aboard the vessel, which went down to ",
+    "trigger": "warship",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1772718301.95648,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF carries out ‘broad wave of attacks’ across Iran overnight; Iranian missiles lobbed at Israel",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772592302.3570158,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah fires on Tel Aviv as Israel threatens Iranian officers in Lebanon",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772585102.1627893,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Khamenei’s son Mojtaba said to emerge as leading candidate for new supreme leader",
-    "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
   }
