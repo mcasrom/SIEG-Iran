@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772675102.2738476,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran threatens to target Dimona nuclear site if Israel, US seek to topple Islamic Republic",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772671502.2311428,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Growing Iranian drone strikes drive slump in global shares, spike in crude prices",
     "trigger": "drone strike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772552702.9517982,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF hits Iran’s ‘leadership complex’ in Tehran; 12 Israelis hurt in Iran missile strikes",
-    "trigger": "missile strike",
     "score": 72,
     "cf": 0.8
   }
