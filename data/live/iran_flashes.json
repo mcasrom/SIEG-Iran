@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772718301.95648,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iranian warship was returning from naval exercises hosted by India when hit by US torpedo",
+    "trigger": "warship",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772707502.8505254,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Khamenei’s son Mojtaba said to emerge as leading candidate for new supreme leader",
     "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772577902.6981158,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Syria deploys thousands of troops to border with Lebanon, officials say",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
