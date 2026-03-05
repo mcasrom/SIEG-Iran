@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772747102.6561575,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Afraid and angry, Lebanese gather on a Beirut beach after fleeing suburbs en masse",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772739902.1822135,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF carries out ‘extensive’ strikes on regime targets; Iran fires missiles at Israeli towns",
     "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772617502.605549,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Israeli F-35 shoots down Iranian jet in air-to-air combat over Tehran as fighting enters 5th day",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
