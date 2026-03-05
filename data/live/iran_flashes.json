@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772671502.2311428,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah chief: Attacks on Israel a response to truce violations, ‘unrelated to any other battle’",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772657102.8045952,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF hits Iran’s ‘leadership complex’ in Tehran; 12 Israelis hurt in Iran missile strikes",
     "trigger": "missile strike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772541902.3083587,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "US Ambassador Huckabee advises US citizens in Israel to evacuate via Egypt",
-    "trigger": "warship",
     "score": 72,
     "cf": 0.8
   }
