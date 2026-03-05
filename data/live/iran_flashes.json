@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772736302.3159301,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Israeli evacuation order for Beirut's southern suburbs sparks panic Huge traffic jams form after the unprecedented warning for people to lea",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
     "ts": 1772729102.4599833,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "🕸",
     "titulo": "Funerals held for students and staff after strike on Iran school Iranian authorities say they were killed in a US-Israeli strike in the city",
     "trigger": "killed in",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1772599502.4988549,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "First US soldiers to die in Iran conflict are identified Four of the six - ranging in age from 20 to 42 - have been named after the drone st",
-    "trigger": "drone strike",
     "score": 65,
     "cf": 0.9
   }
