@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772786702.2170267,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF hits Hezbollah targets in Beirut overnight as group taunts Israel with evacuation order",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772775902.2992446,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Hezbollah chief: Attacks on Israel a response to truce violations, ‘unrelated to any other battle’",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772657102.8045952,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah, Iran launch simultaneous strikes on Israel; 2 soldiers wounded in Lebanon",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
