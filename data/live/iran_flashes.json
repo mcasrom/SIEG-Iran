@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772790302.5932019,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Beit Shemesh family clings to God after 3 kids killed by Iran: ‘Faith isn’t built in a day’",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772786702.2170267,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Iran threatens to target Dimona nuclear site if Israel, US seek to topple Islamic Republic",
     "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772671502.2311428,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah chief: Attacks on Israel a response to truce violations, ‘unrelated to any other battle’",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
