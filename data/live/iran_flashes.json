@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1772757902.054537,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iranian ballistic missile attacks down 90% since start of war, says US CENTCOM chief",
+    "trigger": "drone strike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1772757902.054537,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Officer seriously wounded in Lebanon as strikes pound Hezbollah bastion near Beirut",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772750702.255187,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "rocket attack",
     "score": 72,
     "cf": 0.9
-  },
-  {
-    "ts": 1772634890.1174197,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "‘Quiet Death’: US submarine sinks Iranian warship off Sri Lanka, in first since WWII",
-    "trigger": "warship",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772628302.1809244,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iranian warship sinks after apparent submarine attack near Sri Lanka; 101 said missing",
-    "trigger": "warship",
-    "score": 72,
-    "cf": 0.8
   }
 ]
