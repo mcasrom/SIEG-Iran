@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1772775902.2992446,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Trump: Invading Iran would be a ‘waste,’ but ‘we want to go in and clean out’ leadership",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1772775902.2992446,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Israel tells people in large parts of southern Lebanon to leave ahead of attacks Civilians are being displaced, taking shelter in tents, par",
+    "trigger": "rocket attack",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1772772302.4281394,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "Hezbollah, Iran launch simultaneous strikes on Israel; 2 soldiers wounded in Lebanon",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772657102.8045952,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah wades into Israel-Iran conflict, but calculated restraint may wane",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772639102.2194045,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "‘Quiet Death’: Hegseth says US submarine sinks Iranian warship off Sri Lanka, in first since WWII",
-    "trigger": "warship",
     "score": 72,
     "cf": 0.8
   }
