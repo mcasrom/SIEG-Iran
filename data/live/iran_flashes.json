@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772916302.0348463,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "2 soldiers hurt in Hezbollah missile attack; IDF says it hit 600 of terror group’s targets",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772898302.0565794,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Iran fires eight missile salvos at Israel on war’s sixth day as IAF jets pound Tehran",
     "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772747102.6561575,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Afraid and angry, Lebanese gather on a Beirut beach after fleeing suburbs en masse",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
