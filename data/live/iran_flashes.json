@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772898302.0565794,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "India letting Iran warship dock after US sank another off Sri Lanka, officials say",
+    "trigger": "warship",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772883902.0290997,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Afraid and angry, Lebanese gather on a Beirut beach after fleeing suburbs en masse",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772739902.1822135,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran fires seven missile salvos at Israel on war’s sixth day as IAF jets pound Tehran",
-    "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
   }
