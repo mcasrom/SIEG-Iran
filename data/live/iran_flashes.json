@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772862302.4191632,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran lobs missiles at Israel as IDF launches ‘extensive’ strikes on regime targets",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772858701.9534016,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1772721902.7269697,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "US sub sinks Iranian warship in Indian Ocean, Hegseth says More than 100 personnel were thought to be aboard the vessel, which went down to ",
-    "trigger": "warship",
-    "score": 65,
-    "cf": 0.9
   }
 ]
