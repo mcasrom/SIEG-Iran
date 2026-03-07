@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1772847902.5990825,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Heartbreak in Kuwait as 11-year-old Iranian girl killed in Iran drone attack",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1772847902.5990825,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "‘Knew they were next’: Hezbollah rearmed for months after concluding war inevitable",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772835415.5266721,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "warship",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1772707502.8505254,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "As pace of Iran missile fire slows down, IDF expects Hezbollah attacks to accelerate",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772707502.8505254,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "US sub sinks Iranian warship in Indian Ocean, Hegseth says Sri Lanka's navy says around 140 people are feared missing after a military vesse",
-    "trigger": "warship",
-    "score": 72,
-    "cf": 0.9
   }
 ]
