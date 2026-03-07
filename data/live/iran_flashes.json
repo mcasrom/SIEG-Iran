@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772865902.431335,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran fires missiles at Israel throughout the night; IDF launches ‘extensive’ strikes on regime",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772862302.4191632,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "IDF assesses Hezbollah attacks may ramp up, urges evacuation of terror group’s Beirut stronghold",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772721902.7269697,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "As rate of Iranian missile fire slows, IDF assesses Hezbollah attacks may increase",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
