@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772883902.0290997,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Israel says commando raid deep in Lebanon failed to find remains of Ron Arad",
+    "trigger": "airstrike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772876702.3287568,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1772736302.3159301,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Israeli evacuation order for Beirut's southern suburbs sparks panic Huge traffic jams form after the unprecedented warning for people to lea",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.9
   }
 ]
