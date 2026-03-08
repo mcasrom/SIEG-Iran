@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1772934302.75165,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Cracks emerge in Iran’s leadership as it reels under a war seen as existential",
+    "trigger": "airstrike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1772934302.75165,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Israel strikes Beirut after evacuation warning sparks panic Huge traffic jams form after the unprecedented warning for people to leave the H",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1772930702.6177676,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1772775902.2992446,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump: Invading Iran would be a ‘waste,’ but ‘we want to go in and clean out’ leadership",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772775902.2992446,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Israel tells people in large parts of southern Lebanon to leave ahead of attacks Civilians are being displaced, taking shelter in tents, par",
-    "trigger": "rocket attack",
-    "score": 65,
-    "cf": 0.9
   }
 ]
