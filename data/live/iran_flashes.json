@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1772977502.773373,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Luton Airport apologizes, promises enhanced staff training after alleged antisemitism",
+    "trigger": "hamas attack",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1772977502.773373,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "6 wounded by shrapnel, 1 seriously, as Iran fires suspected cluster warhead missile at Israel",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772966702.032733,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "Reported Israeli commando raid deep in Lebanon said aimed at recovering remains of Ron Arad",
     "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772865902.431335,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran fires missiles at Israel throughout the night; IDF launches ‘extensive’ strikes on regime",
-    "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772862302.4191632,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran lobs missiles at Israel as IDF launches ‘extensive’ strikes on regime targets",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
