@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772930702.6177676,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Netanyahu tells Iranians freedom is near as Israel hits country’s oil depots for first time",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772927102.062602,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -168,15 +177,6 @@
     "titulo": "Israel tells people in large parts of southern Lebanon to leave ahead of attacks Civilians are being displaced, taking shelter in tents, par",
     "trigger": "rocket attack",
     "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1772772302.4281394,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Israel strikes Beirut after evacuation warning sparks panic Huge traffic jams form after the unprecedented warning for people to leave the H",
-    "trigger": "hezbollah",
-    "score": 72,
     "cf": 0.9
   }
 ]
