@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1772955902.3195095,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Two Palestinians reported killed in fresh settler attack in West Bank",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1772955902.3195095,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "4 Iranian missile salvos fired at Israel since midnight; IDF destroys F-14s in Isfahan strikes",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772948702.5581453,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1772835415.5266721,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Israeli troops push into Lebanon for yet another war with Iran's proxy Hezbollah The BBC sees troops and tanks massing near the border, as s",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.9
-  },
-  {
-    "ts": 1772835415.5266721,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "'We couldn't sleep because of fear': Residents flee as Israel pounds south Beirut",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.9
   }
 ]
