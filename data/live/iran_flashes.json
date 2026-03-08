@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772945102.377099,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF says it hit key commanders of IRGC’s Quds Force in Beirut",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772934302.75165,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Beit Shemesh family clings to God after 3 kids killed by Iran: ‘Faith isn’t built in a day’",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772786702.2170267,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF hits Hezbollah targets in Beirut overnight as group taunts Israel with evacuation order",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
