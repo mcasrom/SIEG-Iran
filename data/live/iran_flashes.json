@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772999102.843068,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "4 killed in Saudi Arabia, Kuwait as Iran keeps up relentless attacks on Gulf states",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772988302.4569159,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "2 soldiers hurt in Hezbollah missile attack; IDF says it hit 600 of terror group’s targets",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772898302.0565794,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "India letting Iran warship dock after US sank another off Sri Lanka, officials say",
-    "trigger": "warship",
     "score": 72,
     "cf": 0.8
   }
