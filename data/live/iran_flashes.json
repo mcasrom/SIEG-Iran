@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773013502.2183645,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "4 killed in Saudi Arabia, Kuwait as Iran says it’s attacking Gulf because it can’t reach US",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773009902.678183,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Trump joins grieving families for return of US soldiers killed in war in Middle East",
-    "trigger": "drone strike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772919902.0859134,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump joining grieving families for return of US soldiers killed in war in Middle East",
     "trigger": "drone strike",
     "score": 72,
     "cf": 0.8
