@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772984702.1979988,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Two IDF soldiers killed in Hezbollah attack in southern Lebanon",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772977502.773373,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Israel says commando raid deep in Lebanon failed to find remains of Ron Arad",
-    "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772876702.3287568,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Reported Israeli commando raid deep in Lebanon said aimed at recovering remains of Ron Arad",
     "trigger": "airstrike",
     "score": 72,
     "cf": 0.8
