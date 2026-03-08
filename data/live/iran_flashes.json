@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1772959501.9612253,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Israeli troops push into Lebanon for yet another war with Iran's proxy Hezbollah The BBC sees troops and tanks massing near the border, as s",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
+    "ts": 1772959501.9612253,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "'We couldn't sleep because of fear': Residents flee as Israel pounds south Beirut",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1772955902.3195095,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "Heartbreak in Kuwait as 11-year-old Iranian girl killed in Iran drone attack",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772847902.5990825,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "‘Knew they were next’: Hezbollah rearmed for months after concluding war inevitable",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772835415.5266721,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Five soldiers seriously wounded by Hezbollah rocket as Air Force pounds Beirut",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
