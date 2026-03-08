@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772966702.032733,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "New Iranian supreme leader picked by clerical body, name to be announced later",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772963102.3597496,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Iran lobs missiles at Israel as IDF launches ‘extensive’ strikes on regime targets",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772858701.9534016,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Air force launches ‘extensive’ strikes on regime targets as Iran lobs missiles at Israel",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
