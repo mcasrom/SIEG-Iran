@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1772988302.4569159,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iranian soccer team exits Women’s Asian Cup and faces the prospect of a return home",
+    "trigger": "israel attacked",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1772984702.1979988,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "India letting Iran warship dock after US sank another off Sri Lanka, officials say",
     "trigger": "warship",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772883902.0290997,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Israel says commando raid deep in Lebanon failed to find remains of Ron Arad",
-    "trigger": "airstrike",
     "score": 72,
     "cf": 0.8
   }
