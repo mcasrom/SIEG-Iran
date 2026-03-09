@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773042302.4224453,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iranian missiles target northern Israel, drones strike Bahrain’s only oil refinery",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773042302.4224453,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "The final voyage of the Iranian warship sunk by the US The sinking of an Iranian ship by the US near Sri Lanka brings the conflict uncomfort",
+    "trigger": "warship",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1773024302.2833052,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "hezbollah",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1772930702.6177676,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Netanyahu tells Iranians freedom is near as Israel hits country’s oil depots for first time",
-    "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772927102.062602,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Families of US detainees in Iran fear they risk becoming collateral damage in war",
-    "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
   }
 ]
