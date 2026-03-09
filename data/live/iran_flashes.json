@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773085503.5714724,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran war puts at risk key pipelines, terminals, refineries that supply world’s oil and gas",
+    "trigger": "drone strike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773081902.833812,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Luton Airport apologizes, promises enhanced staff training after alleged antisemitism",
     "trigger": "hamas attack",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772977502.773373,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "6 wounded by shrapnel, 1 seriously, as Iran fires suspected cluster warhead missile at Israel",
-    "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
   }
