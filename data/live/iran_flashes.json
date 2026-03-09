@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773074702.3760104,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Israeli troops push into Lebanon for yet another war with Iran's proxy Hezbollah The BBC sees troops and tanks massing near the border, as s",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1773071102.7314963,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "New Iranian supreme leader picked by clerical body, name to be announced later",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772963102.3597496,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Heavy smoke over Tehran hours after strikes on oil sites; 4 Iranian missile salvos fired at Israel since midnight",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
