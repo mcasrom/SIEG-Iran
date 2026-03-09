@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773081902.833812,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran war puts at risk key infrastructure that supplies world’s oil and gas",
+    "trigger": "drone strike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773074702.3760104,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "6 wounded by shrapnel, 1 seriously, as Iran fires suspected cluster warhead missile at Israel",
     "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772966702.032733,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "New Iranian supreme leader picked by clerical body, name to be announced later",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
