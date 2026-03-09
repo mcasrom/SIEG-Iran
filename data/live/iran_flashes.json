@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773060302.8014286,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF pushes deeper into south Lebanon amid incessant Hezbollah rocket fire on Israeli towns",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773060302.8014286,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF launches ‘extensive’ airstrikes in three separate areas of Iran, says military",
+    "trigger": "airstrike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773056702.8403215,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "hezbollah",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1772955902.3195095,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Two Palestinians reported killed in fresh settler attack in West Bank",
-    "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772955902.3195095,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "4 Iranian missile salvos fired at Israel since midnight; IDF destroys F-14s in Isfahan strikes",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
