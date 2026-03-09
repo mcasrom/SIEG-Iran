@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773024302.2833052,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Woman injured from flying debris in central Israel as Iran keeps up missile fire",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773013502.2183645,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Families of US detainees in Iran fear they risk becoming collateral damage in war",
     "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772927102.062602,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump joins grieving families for return of US soldiers killed in war in Middle East",
-    "trigger": "drone strike",
     "score": 72,
     "cf": 0.8
   }
