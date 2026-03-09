@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773096302.8265367,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah missile fire wounds 16; damages daycare, ‘infrastructure’ in central Israel",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773085503.5714724,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Two IDF soldiers killed in Hezbollah attack in southern Lebanon",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772977502.773373,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Luton Airport apologizes, promises enhanced staff training after alleged antisemitism",
-    "trigger": "hamas attack",
     "score": 72,
     "cf": 0.8
   }
