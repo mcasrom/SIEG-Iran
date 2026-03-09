@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773053102.6643164,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "1 dead, 2 seriously wounded in central Israel after Iranian cluster bomb impact",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773049502.5984423,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "IDF says it hit key commanders of Iran’s Revolutionary Guard’s Quds Force in Beirut",
-    "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772945102.377099,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF says it hit key commanders of IRGC’s Quds Force in Beirut",
     "trigger": "killed in",
     "score": 72,
     "cf": 0.8
