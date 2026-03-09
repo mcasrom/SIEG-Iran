@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773045902.7291272,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "G7 nations to hold emergency meeting on oil as stock markets sink Chancellor Rachel Reeves will join talks amid reports that oil reserves co",
+    "trigger": "emergency meeting",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
     "ts": 1773042302.4224453,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "airstrike",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1772934302.75165,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Israel strikes Beirut after evacuation warning sparks panic Huge traffic jams form after the unprecedented warning for people to leave the H",
-    "trigger": "hezbollah",
-    "score": 65,
-    "cf": 0.9
   }
 ]
