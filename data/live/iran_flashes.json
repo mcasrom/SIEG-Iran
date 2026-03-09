@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773049502.5984423,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iranian missiles target northern, southern Israel, drones strike Bahrain’s only oil refinery",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773045902.7291272,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF says it hit key commanders of IRGC’s Quds Force in Beirut",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772934302.75165,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Cracks emerge in Iran’s leadership as it reels under a war seen as existential",
-    "trigger": "airstrike",
     "score": 72,
     "cf": 0.8
   }
