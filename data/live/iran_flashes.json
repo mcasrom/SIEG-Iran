@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773056702.8403215,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "1 dead, 2 seriously wounded as Iranian cluster bomb warhead hits central Israel",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773053102.6643164,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "4 Iranian missile salvos fired at Israel since midnight; IDF destroys F-14s in Isfahan strikes",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772948702.5581453,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF says it hit key commanders of Iran’s Revolutionary Guard’s Quds Force in Beirut",
-    "trigger": "killed in",
     "score": 72,
     "cf": 0.8
   }
