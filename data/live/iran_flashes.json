@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773161102.502863,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "War expands to central Beirut as Israel says Iranians hit in luxury hotel The Israeli military says it targeted a meeting of Quds Force oper",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1773150302.6764073,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "1 dead, 2 seriously wounded in central Israel after Iranian cluster bomb impact",
-    "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773049502.5984423,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iranian missiles target northern, southern Israel, drones strike Bahrain’s only oil refinery",
     "trigger": "idf strikes",
     "score": 72,
     "cf": 0.8
