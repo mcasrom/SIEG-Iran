@@ -1,5 +1,32 @@
 [
   {
+    "ts": 1773168302.035383,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF: ‘Isolated failure’ allowed Hezbollah missiles to strike satellite station, Ramle",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773168302.035383,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "War expands to central Beirut as Israeli strike kills Iranians in luxury hotel Israel's military says it targeted Quds Force operatives afte",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
+    "ts": 1773168302.035383,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Air strikes cause black rain and 'unprecedented' pollution in Tehran, scientists say Air strikes have damaged at least four oil facilities s",
+    "trigger": "air strike",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1773164702.752033,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -151,32 +178,5 @@
     "trigger": "emergency meeting",
     "score": 72,
     "cf": 0.9
-  },
-  {
-    "ts": 1773060302.8014286,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF pushes deeper into south Lebanon amid incessant Hezbollah rocket fire on Israeli towns",
-    "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773060302.8014286,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF launches ‘extensive’ airstrikes in three separate areas of Iran, says military",
-    "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773056702.8403215,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "1 dead, 2 seriously wounded as Iranian cluster bomb warhead hits central Israel",
-    "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
   }
 ]
