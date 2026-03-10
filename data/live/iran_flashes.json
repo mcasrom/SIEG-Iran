@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773125102.0741117,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran’s foreign minister: We’ll continue missile attacks for ‘as long as it takes’",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773096302.8265367,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Iranian soccer team exits Women’s Asian Cup and faces the prospect of a return home",
     "trigger": "israel attacked",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772984702.1979988,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Two IDF soldiers killed in Hezbollah attack in southern Lebanon",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
