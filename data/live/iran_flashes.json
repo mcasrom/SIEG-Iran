@@ -1,5 +1,41 @@
 [
   {
+    "ts": 1773146702.378372,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran vows to fight ‘as long as it takes,’ threatens Trump with ‘elimination’",
+    "trigger": "oil blockade",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773146702.378372,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Second victim dies after Monday’s Iranian cluster missile strike in central Israel",
+    "trigger": "missile strike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773146702.378372,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Lebanon calls for talks with Israel on plan to end Hezbollah conflict President Aoun outlines a path towards \"permanent security and stabili",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
+    "ts": 1773146702.378372,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains Overnight, one Israeli operation saw at least",
+    "trigger": "dozens killed",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1773139502.9248059,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -142,41 +178,5 @@
     "trigger": "emergency meeting",
     "score": 72,
     "cf": 0.9
-  },
-  {
-    "ts": 1773042302.4224453,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iranian missiles target northern Israel, drones strike Bahrain’s only oil refinery",
-    "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773042302.4224453,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "The final voyage of the Iranian warship sunk by the US The sinking of an Iranian ship by the US near Sri Lanka brings the conflict uncomfort",
-    "trigger": "warship",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1773024302.2833052,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Woman injured from flying debris in central Israel as Iran keeps up missile fire",
-    "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773013502.2183645,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "4 killed in Saudi Arabia, Kuwait as Iran says it’s attacking Gulf because it can’t reach US",
-    "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
   }
 ]
