@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773132302.4292037,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "War with Iran delivers another shock to the global economy",
+    "trigger": "hormuz closure",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773132302.4292037,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "PM: End of Iran’s regime depends on Iranian people’s will to ‘throw off the yoke of tyranny’",
+    "trigger": "airstrike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773125102.0741117,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "dozens killed",
     "score": 72,
     "cf": 0.9
-  },
-  {
-    "ts": 1772999102.843068,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "4 killed in Saudi Arabia, Kuwait as Iran keeps up relentless attacks on Gulf states",
-    "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1772988302.4569159,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iranian soccer team exits Women’s Asian Cup and faces the prospect of a return home",
-    "trigger": "israel attacked",
-    "score": 72,
-    "cf": 0.8
   }
 ]
