@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773164702.752033,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Germany jails Lebanese-born man for supplying Hezbollah with drone equipment",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773161102.502863,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "1 dead, 2 seriously wounded as Iranian cluster bomb warhead hits central Israel",
     "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773053102.6643164,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "1 dead, 2 seriously wounded in central Israel after Iranian cluster bomb impact",
-    "trigger": "idf strikes",
     "score": 72,
     "cf": 0.8
   }
