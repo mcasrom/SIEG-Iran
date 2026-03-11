@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773215102.6954083,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran’s new leader said ‘safe and sound’ despite reports of injury on war’s first day",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773211502.9086704,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Iran’s foreign minister: We’ll continue missile attacks for ‘as long as it takes’",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773096302.8265367,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah missile fire wounds 16; damages daycare, ‘infrastructure’ in central Israel",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
