@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773211502.9086704,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Pope mourns Lebanese priest reportedly killed by IDF while aiding wounded villagers",
+    "trigger": "evacuation",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773200702.2976782,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Hezbollah missile fire wounds 16; damages daycare, ‘infrastructure’ in central Israel",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773085503.5714724,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran war puts at risk key pipelines, terminals, refineries that supply world’s oil and gas",
-    "trigger": "drone strike",
     "score": 72,
     "cf": 0.8
   }
