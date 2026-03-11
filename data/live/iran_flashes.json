@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773218702.3289404,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF targets Hezbollah command centers, weapons sites in strikes on Beirut suburbs",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773215102.6954083,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "PM: End of Iran’s regime depends on Iranian people’s will to ‘throw off the yoke of tyranny’",
     "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773125102.0741117,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran’s foreign minister: We’ll continue missile attacks for ‘as long as it takes’",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
