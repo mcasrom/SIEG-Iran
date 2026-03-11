@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773272702.7809908,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Parts of Beirut will ‘look like Gaza’ if Lebanon doesn’t stop Hezbollah, warns senior official",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773272702.7809908,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah fires at least 150 rockets at north, Iran launches missiles in ‘integrated operation’",
+    "trigger": "iran launches",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773254702.160042,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "missile strike",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1773146702.378372,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Lebanon calls for talks with Israel on plan to end Hezbollah conflict President Aoun outlines a path towards \"permanent security and stabili",
-    "trigger": "hezbollah",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1773146702.378372,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains Overnight, one Israeli operation saw at least",
-    "trigger": "dozens killed",
-    "score": 65,
-    "cf": 0.9
   }
 ]
