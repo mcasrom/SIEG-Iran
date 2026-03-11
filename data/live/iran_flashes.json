@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773197102.5072725,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran fires overnight missile volleys at Israel; IDF hits Hezbollah’s Beirut stronghold",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773189902.584357,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "drone strike",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1773074702.3760104,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Israeli troops push into Lebanon for yet another war with Iran's proxy Hezbollah The BBC sees troops and tanks massing near the border, as s",
-    "trigger": "hezbollah",
-    "score": 65,
-    "cf": 0.9
   }
 ]
