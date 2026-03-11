@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773200702.2976782,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran fires 3 overnight missile salvos at Israel; IDF hits Hezbollah’s Beirut stronghold",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773197102.5072725,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Iran war puts at risk key pipelines, terminals, refineries that supply world’s oil and gas",
-    "trigger": "drone strike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773081902.833812,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran war puts at risk key infrastructure that supplies world’s oil and gas",
     "trigger": "drone strike",
     "score": 72,
     "cf": 0.8
