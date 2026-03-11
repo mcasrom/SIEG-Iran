@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773254702.160042,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Backlash against Hezbollah grows as still-reeling Lebanon again battered by war",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773233102.2354972,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "dozens killed",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1773139502.9248059,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF hits Hezbollah command centers and finance body as rockets fly at northern Israel",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
