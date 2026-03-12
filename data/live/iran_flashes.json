@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773301502.2008214,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "‘We don’t see a future’: Northern farmers again find themselves under Hezbollah fire",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773283502.2494469,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "air strike",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1773164702.752033,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Germany jails Lebanese-born man for supplying Hezbollah with drone equipment",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
