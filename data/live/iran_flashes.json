@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773355501.9235172,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Why air strikes on Tehran oil facilities are causing black rain Air strikes have damaged at least four oil facilities since US-Israeli attac",
+    "trigger": "air strike",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1773351902.1724226,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Backlash against Hezbollah grows as still-reeling Lebanon again battered by war",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773233102.2354972,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Daily Briefing Mar. 11 – War by the numbers: Iran, Hezbollah and Hamas",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
