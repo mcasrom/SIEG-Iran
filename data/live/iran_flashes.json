@@ -1,5 +1,32 @@
 [
   {
+    "ts": 1773326702.5121648,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Joining Iran’s war, Hezbollah opens up a rift with its Lebanese Shiite base",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773326702.5121648,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran said to hit 2 oil tankers in Gulf as IDF reports striking ‘critical’ nuclear site near Tehran",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773326702.5121648,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Israel pounds Beirut suburbs after Hezbollah launches rocket barrage Some Israeli strikes also hit other parts of the Lebanese capital, with",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1773319502.753388,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -149,33 +176,6 @@
     "icono": "⚔️",
     "titulo": "Pope mourns Lebanese priest reportedly killed by IDF while aiding wounded villagers",
     "trigger": "evacuation",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773200702.2976782,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran fires 3 overnight missile salvos at Israel; IDF hits Hezbollah’s Beirut stronghold",
-    "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773197102.5072725,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran fires overnight missile volleys at Israel; IDF hits Hezbollah’s Beirut stronghold",
-    "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773189902.584357,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran fires overnight missile salvo at Israel; IDF hits Hezbollah’s Beirut stronghold",
-    "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
   }
