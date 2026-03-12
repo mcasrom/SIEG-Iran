@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773312302.5393314,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF admits error in not notifying public ahead of major Hezbollah barrage",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773312302.5393314,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Under a rain of Hezbollah missiles, determined northern farmers still sow for the future",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773301502.2008214,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1773168302.035383,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "War expands to central Beirut as Israeli strike kills Iranians in luxury hotel Israel's military says it targeted Quds Force operatives afte",
-    "trigger": "hezbollah",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1773168302.035383,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Air strikes cause black rain and 'unprecedented' pollution in Tehran, scientists say Air strikes have damaged at least four oil facilities s",
-    "trigger": "air strike",
-    "score": 65,
-    "cf": 0.9
   }
 ]
