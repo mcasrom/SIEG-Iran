@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773319502.753388,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran hits 2 oil tankers in Gulf as IDF reports striking ‘critical’ nuclear site near Tehran",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773315902.609286,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Iran fires overnight missile salvo at Israel; IDF hits Hezbollah’s Beirut stronghold",
     "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773175502.3585541,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah rationing munitions as it braces for full-scale Israeli invasion – sources",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
