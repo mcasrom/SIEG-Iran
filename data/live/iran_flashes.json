@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773330302.5208843,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Katz threatens to take territory in Lebanon if attacks persist; evacuation warnings expand",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773326702.5121648,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Iran’s new leader said ‘safe and sound’ despite reports of injury on war’s first day",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773211502.9086704,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Pope mourns Lebanese priest reportedly killed by IDF while aiding wounded villagers",
-    "trigger": "evacuation",
     "score": 72,
     "cf": 0.8
   }
