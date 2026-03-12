@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773276302.717721,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Lebanon calls for talks with Israel on plan to end Hezbollah conflict President Aoun outlines a path towards \"permanent security and stabili",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1773272702.7809908,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Iran vows to fight ‘as long as it takes,’ threatens Trump with ‘elimination’",
     "trigger": "oil blockade",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773146702.378372,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Second victim dies after Monday’s Iranian cluster missile strike in central Israel",
-    "trigger": "missile strike",
     "score": 72,
     "cf": 0.8
   }
