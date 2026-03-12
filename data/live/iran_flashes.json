@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773344702.2518623,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Rocket barrages underscore remaining potency of Hezbollah’s gutted arsenal",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773337502.7090557,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "air strike",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1773218702.3289404,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF targets Hezbollah command centers, weapons sites in strikes on Beirut suburbs",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
