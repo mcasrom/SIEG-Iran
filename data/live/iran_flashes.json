@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773337502.7090557,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran’s new supreme leader purportedly issues defiant first statement, without appearing",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773330302.5208843,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF targets Hezbollah command centers, weapons sites in strikes on Beirut suburbs",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773215102.6954083,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran’s new leader said ‘safe and sound’ despite reports of injury on war’s first day",
-    "trigger": "killed in",
     "score": 72,
     "cf": 0.8
   }
