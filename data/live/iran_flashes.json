@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773283502.2494469,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "FM Sa’ar to ToI: Only Iranians can bring down regime, but they need outside help",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773283502.2494469,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "UN Security Council demands Iran halt attacks on Gulf states",
+    "trigger": "un security council",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773279901.9281676,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1773161102.502863,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "War expands to central Beirut as Israel says Iranians hit in luxury hotel The Israeli military says it targeted a meeting of Quds Force oper",
-    "trigger": "hezbollah",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1773150302.6764073,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "The final voyage of the Iranian warship sunk by the US The sinking of an Iranian ship by the US near Sri Lanka brings the conflict uncomfort",
-    "trigger": "warship",
-    "score": 65,
-    "cf": 0.9
   }
 ]
