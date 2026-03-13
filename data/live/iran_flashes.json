@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773391502.6508877,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "'There's no hiding place on a ship': The sailors stranded near Iran Drones, cruise missiles and fighter jets have become a common sight for ",
+    "trigger": "fighter jet",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
+    "ts": 1773391502.6508877,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "'Follow the smoke': BBC spends day with emergency teams as Israel strikes south Lebanon The BBC visited the city of Nabatieh, witnessing the",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
     "ts": 1773355501.9235172,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -157,24 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Parts of Beirut will ‘look like Gaza’ if Lebanon doesn’t stop Hezbollah, warns senior official",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773272702.7809908,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah fires at least 150 rockets at north, Iran launches missiles in ‘integrated operation’",
-    "trigger": "iran launches",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773254702.160042,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Backlash against Hezbollah grows as still-reeling Lebanon again battered by war",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
