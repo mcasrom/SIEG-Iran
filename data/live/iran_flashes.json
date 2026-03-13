@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773438302.0962582,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Michigan synagogue attacker’s brothers said to be Hezbollah members killed in IDF strike",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773423902.018541,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1773312302.5393314,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF admits error in not notifying public ahead of major Hezbollah barrage",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
