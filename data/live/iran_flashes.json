@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773423902.018541,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hegseth says Mojtaba Khamenei ‘wounded, likely disfigured,’ questions if he’s governing",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773413102.3039393,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "IDF admits error in not notifying public ahead of major Hezbollah barrage",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773312302.5393314,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Under a rain of Hezbollah missiles, determined northern farmers still sow for the future",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
