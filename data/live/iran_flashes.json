@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773413102.3039393,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Michigan synagogue attacker was US-Lebanese citizen with relatives said killed in IDF strike",
+    "trigger": "airstrike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773405901.9956841,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Under a rain of Hezbollah missiles, determined northern farmers still sow for the future",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773301502.2008214,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "‘We don’t see a future’: Northern farmers again find themselves under Hezbollah fire",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
