@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773402302.8708744,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated The seamen died when Iranian warship the Iris Dena was sunk on 4 ",
+    "trigger": "warship",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1773398702.4669063,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "UN Security Council demands Iran halt attacks on Gulf states",
     "trigger": "un security council",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773279901.9281676,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF says dozens of sites struck in Tehran as it moves to ‘deepen the blow’ against regime",
-    "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
   }
