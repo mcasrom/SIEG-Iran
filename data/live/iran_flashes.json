@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773405901.9956841,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Katz threatens to destroy infrastructure as ‘price’ of Lebanon not disarming Hezbollah",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773405901.9956841,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran’s security chief, top officials appear in public at annual Quds Day rally in Tehran",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773402302.8708744,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "‘We don’t see a future’: Northern farmers again find themselves under Hezbollah fire",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773283502.2494469,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "FM Sa’ar to ToI: Only Iranians can bring down regime, but they need outside help",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773283502.2494469,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "UN Security Council demands Iran halt attacks on Gulf states",
-    "trigger": "un security council",
     "score": 72,
     "cf": 0.8
   }
