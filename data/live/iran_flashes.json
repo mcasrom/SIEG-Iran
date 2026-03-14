@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773528302.2880347,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "'There's no hiding place on a ship': The sailors stranded near Iran Drones, cruise missiles and fighter jets have become a common sight for ",
+    "trigger": "fighter jet",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1773524702.780274,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Woman wounded by shrapnel, dozens lightly hurt as Iranian missile hits northern town",
-    "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773398702.4669063,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Katz threatens destruction of Lebanese infrastructure as ‘price’ of not disarming Hezbollah",
     "trigger": "idf strikes",
     "score": 72,
     "cf": 0.8
