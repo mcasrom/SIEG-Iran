@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773521102.6919441,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iranian missiles wound 3 in Eilat, including child; Israel hits hundreds of Iran sites",
+    "trigger": "shot down",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773513902.0073144,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "'There's no hiding place on a ship': The sailors stranded near Iran Drones, cruise missiles and fighter jets have become a common sight for ",
     "trigger": "fighter jet",
-    "score": 72,
-    "cf": 0.9
-  },
-  {
-    "ts": 1773391502.6508877,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "'Follow the smoke': BBC spends day with emergency teams as Israel strikes south Lebanon The BBC visited the city of Nabatieh, witnessing the",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.9
   }
