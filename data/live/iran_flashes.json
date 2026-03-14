@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773499502.76994,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "‘Like Gaza’: Israel said planning ‘massive’ south Lebanon ground invasion to uproot Hezbollah",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773495902.2757614,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1773344702.2518623,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Rocket barrages underscore remaining potency of Hezbollah’s gutted arsenal",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
