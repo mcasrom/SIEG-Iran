@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773524702.780274,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Man reported killed in W. Bank settler attack; separately, 3 said hurt by settler gunfire",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773521102.6919441,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "idf strikes",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1773391502.6508877,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "'There's no hiding place on a ship': The sailors stranded near Iran Drones, cruise missiles and fighter jets have become a common sight for ",
-    "trigger": "fighter jet",
-    "score": 72,
-    "cf": 0.9
   }
 ]
