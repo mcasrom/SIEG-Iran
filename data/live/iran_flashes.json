@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773495902.2757614,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "More US Marines and warships being moved to Middle East, reports say The reinforcements will come from an amphibious ready group that is usu",
+    "trigger": "warship",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
     "ts": 1773492302.5635006,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Rocket barrages underscore remaining potency of Hezbollah’s gutted arsenal",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773337502.7090557,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran’s new supreme leader purportedly issues defiant first statement, without appearing",
-    "trigger": "killed in",
     "score": 72,
     "cf": 0.8
   }
