@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773492302.5635006,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah goes ‘all in’ on an ‘existential’ war against Israel. It could be its last",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773492302.5635006,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "More US Marines and warships to be moved to Middle East, reports say The reinforcements will come from an amphibious ready group that is usu",
+    "trigger": "warship",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1773477902.1052752,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "Iran’s new supreme leader purportedly issues defiant first statement, without appearing",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773330302.5208843,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Katz threatens to take territory in Lebanon if attacks persist; evacuation warnings expand",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773326702.5121648,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Joining Iran’s war, Hezbollah opens up a rift with its Lebanese Shiite base",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
