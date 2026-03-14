@@ -1,5 +1,32 @@
 [
   {
+    "ts": 1773456302.619461,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Protesters chant for Hamas and Hezbollah at Al Quds Day rally in New York City",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773456302.619461,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "‘Existential battle’: Hezbollah chief says terror group ready for ‘long confrontation’",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773456302.619461,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Trump says US ‘obliterated every military target’ on island key to Iran’s oil industry",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773438302.0962582,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -151,32 +178,5 @@
     "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1773326702.5121648,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Israel pounds Beirut suburbs after Hezbollah launches rocket barrage Some Israeli strikes also hit other parts of the Lebanese capital, with",
-    "trigger": "hezbollah",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1773319502.753388,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran hits 2 oil tankers in Gulf as IDF reports striking ‘critical’ nuclear site near Tehran",
-    "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773315902.609286,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "War expands to central Beirut as Israeli strike kills Iranians in luxury hotel Israel's military says it targeted Quds Force operatives afte",
-    "trigger": "hezbollah",
-    "score": 65,
-    "cf": 0.9
   }
 ]
