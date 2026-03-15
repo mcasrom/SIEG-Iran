@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773614702.9064581,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF launches fresh wave of airstrikes targeting Hezbollah sites in Beirut",
+    "trigger": "airstrike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773614702.9064581,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "More US Marines and warships being moved to Middle East, reports say The reinforcements will come from an amphibious ready group that is usu",
+    "trigger": "warship",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1773611102.8798516,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "Trump and Iran both reject international efforts to launch ceasefire talks",
     "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773513902.0073144,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump vows to open Strait of Hormuz ‘one way or the other’ as Iran threatens area’s ports",
-    "trigger": "warship",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773499502.76994,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "‘Like Gaza’: Israel said planning ‘massive’ south Lebanon ground invasion to uproot Hezbollah",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
