@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773611102.8798516,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran FM claims Tehran never sought ceasefire or talks with US amid war",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773596701.9711056,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1773495902.2757614,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "More US Marines and warships being moved to Middle East, reports say The reinforcements will come from an amphibious ready group that is usu",
-    "trigger": "warship",
-    "score": 72,
-    "cf": 0.9
   }
 ]
