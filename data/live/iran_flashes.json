@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773560702.0174258,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran targets Israel with 6 ballistic missile salvos since midnight; Hezbollah fires rockets, drones",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773557102.7433944,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Michigan synagogue attacker’s brothers said to be Hezbollah members killed in IDF strike",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773423902.018541,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hegseth says Mojtaba Khamenei ‘wounded, likely disfigured,’ questions if he’s governing",
-    "trigger": "killed in",
     "score": 72,
     "cf": 0.8
   }
