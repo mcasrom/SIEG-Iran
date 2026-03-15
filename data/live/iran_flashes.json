@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773571502.8955085,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran targets Israel with 7 ballistic missile salvos since midnight; Hezbollah fires rockets, drones",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773571502.8955085,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "US names six crew killed in refuelling plane crash in Iraq The aircraft was on a combat mission as part of ongoing US operations against Ira",
+    "trigger": "killed in",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1773560702.0174258,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -157,24 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "‘Existential battle’: Hezbollah chief says terror group ready for ‘long confrontation’",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773456302.619461,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump says US ‘obliterated every military target’ on island key to Iran’s oil industry",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773438302.0962582,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Michigan synagogue attacker’s brothers said to be Hezbollah members killed in IDF strike",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
