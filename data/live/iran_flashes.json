@@ -1,5 +1,32 @@
 [
   {
+    "ts": 1773557102.7433944,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "After years of hesitation, more Druze of the Golan Heights seek Israeli citizenship",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773557102.7433944,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Israel targeted with 6 ballistic missile salvos from Iran since midnight, Hezbollah rocket fire",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773557102.7433944,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated The seamen died when Iranian warship the Iris Dena was sunk on 4 ",
+    "trigger": "warship",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1773553502.2398453,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -149,33 +176,6 @@
     "icono": "⚔️",
     "titulo": "Hegseth says Mojtaba Khamenei ‘wounded, likely disfigured,’ questions if he’s governing",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773413102.3039393,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Michigan synagogue attacker was US-Lebanese citizen with relatives said killed in IDF strike",
-    "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773405901.9956841,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Katz threatens to destroy infrastructure as ‘price’ of Lebanon not disarming Hezbollah",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773405901.9956841,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran’s security chief, top officials appear in public at annual Quds Day rally in Tehran",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
