@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773582302.06699,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Daily Briefing March 15 — ToI reporter on life under Hezbollah’s rain of rockets",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773578702.709472,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "warship",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1773477902.1052752,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Israel said planning ‘massive’ ground invasion of southern Lebanon to uproot Hezbollah",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
