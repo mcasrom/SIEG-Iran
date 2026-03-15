@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773593102.767064,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Sa’ar denies reports of talks with Lebanon as Hezbollah keeps up fire on Israel",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773582302.06699,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1773492302.5635006,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "More US Marines and warships to be moved to Middle East, reports say The reinforcements will come from an amphibious ready group that is usu",
-    "trigger": "warship",
-    "score": 65,
-    "cf": 0.9
   }
 ]
