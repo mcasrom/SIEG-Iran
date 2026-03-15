@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773578702.709472,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Daily Briefing March 15 — ToI reporter on life under Hezbollah’s rain of missiles",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773578702.709472,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran fires 7 more missile salvos at Israel, attacks Gulf; IDF launches ‘extensive’ strikes",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773571502.8955085,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -157,24 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Israel said planning ‘massive’ ground invasion of southern Lebanon to uproot Hezbollah",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773456302.619461,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Protesters chant for Hamas and Hezbollah at Al Quds Day rally in New York City",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773456302.619461,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "‘Existential battle’: Hezbollah chief says terror group ready for ‘long confrontation’",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
