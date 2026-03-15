@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773596701.9711056,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF says slain brother of Michigan synagogue attacker was a Hezbollah commander",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773593102.767064,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "warship",
     "score": 72,
     "cf": 0.9
-  },
-  {
-    "ts": 1773492302.5635006,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah goes ‘all in’ on an ‘existential’ war against Israel. It could be its last",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
