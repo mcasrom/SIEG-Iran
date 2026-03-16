@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773643502.8536158,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF begins ‘targeted ground operation’ in south Lebanon to expand buffer against Hezbollah",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773639902.8308089,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "fighter jet",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1773524702.780274,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Man reported killed in W. Bank settler attack; separately, 3 said hurt by settler gunfire",
-    "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
   }
 ]
