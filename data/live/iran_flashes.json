@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773661502.1601539,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF begins ‘targeted ground operation’ to expand south Lebanon buffer against Hezbollah",
+    "trigger": "airstrike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773654302.3244176,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1773557102.7433944,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated The seamen died when Iranian warship the Iris Dena was sunk on 4 ",
-    "trigger": "warship",
-    "score": 65,
-    "cf": 0.9
   }
 ]
