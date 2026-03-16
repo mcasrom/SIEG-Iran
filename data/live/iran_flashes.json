@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773621902.6824064,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Trump says Israel working with US to secure Strait of Hormuz, demands other countries pitch in",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773614702.9064581,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Iranian missiles wound 3 in Eilat, including child; Israel hits hundreds of Iran sites",
     "trigger": "shot down",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773513902.0073144,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump and Iran both reject international efforts to launch ceasefire talks",
-    "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
   }
