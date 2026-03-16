@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773675902.392801,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Injuries and heavy damage to homes as Iran fires multiple missile salvos at Israel",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773668702.1471891,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "killed in",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1773560702.0174258,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran targets Israel with 6 ballistic missile salvos since midnight; Hezbollah fires rockets, drones",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
