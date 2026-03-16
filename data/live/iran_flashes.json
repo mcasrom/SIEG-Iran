@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773697502.1983404,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Security commander of Iraq’s Kataeb Hezbollah said killed in airstrike",
+    "trigger": "airstrike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773697502.1983404,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran’s new supreme leader issues fresh statement as questions linger over his health",
+    "trigger": "airstrike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773675902.392801,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1773571502.8955085,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran targets Israel with 7 ballistic missile salvos since midnight; Hezbollah fires rockets, drones",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773571502.8955085,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "US names six crew killed in refuelling plane crash in Iraq The aircraft was on a combat mission as part of ongoing US operations against Ira",
-    "trigger": "killed in",
-    "score": 65,
-    "cf": 0.9
   }
 ]
