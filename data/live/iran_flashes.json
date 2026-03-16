@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773639902.8308089,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF strikes series of Iranian regime targets in Tehran, Hezbollah sites in Beirut",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773621902.6824064,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Man reported killed in W. Bank settler attack; separately, 3 said hurt by settler gunfire",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773521102.6919441,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iranian missiles wound 3 in Eilat, including child; Israel hits hundreds of Iran sites",
-    "trigger": "shot down",
     "score": 72,
     "cf": 0.8
   }
