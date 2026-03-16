@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773665102.0116947,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Experts unpack the Iran war’s Lebanon front on a new podcast - Sponsored Content",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773661502.1601539,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "After years of hesitation, more Druze of the Golan Heights seek Israeli citizenship",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773557102.7433944,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Israel targeted with 6 ballistic missile salvos from Iran since midnight, Hezbollah rocket fire",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
