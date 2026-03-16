@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773701102.190504,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "US names six crew killed in refuelling plane crash in Iraq The aircraft was on a combat mission as part of ongoing US operations against Ira",
+    "trigger": "killed in",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1773697502.1983404,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Daily Briefing March 15 — ToI reporter on life under Hezbollah’s rain of missiles",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773578702.709472,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran fires 7 more missile salvos at Israel, attacks Gulf; IDF launches ‘extensive’ strikes",
-    "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
   }
