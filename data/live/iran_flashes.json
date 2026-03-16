@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773654302.3244176,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "As Hezbollah strongholds crop back up, northern farmers regrow destroyed fields",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773650701.9583032,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "warship",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1773553502.2398453,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Israel targeted overnight with 5 ballistic missile salvos from Iran, Hezbollah rocket fire",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
