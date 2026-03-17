@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773791102.1463997,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Two people killed in Ramat Gan by Iranian ballistic missile",
+    "trigger": "iran launches",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773787502.2292628,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Experts unpack the Iran war’s Lebanon front on a new podcast - Sponsored Content",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773661502.1601539,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF begins ‘targeted ground operation’ to expand south Lebanon buffer against Hezbollah",
-    "trigger": "airstrike",
     "score": 72,
     "cf": 0.8
   }
