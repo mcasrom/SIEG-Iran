@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773751502.647073,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Knesset advances 5.1% deficit and spending hike amid Iran war",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773744302.499748,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1773643502.8536158,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF begins ‘targeted ground operation’ in south Lebanon to expand buffer against Hezbollah",
-    "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
   }
 ]
