@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773740702.568599,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF pushes deeper into south Lebanon as Hezbollah keeps up fire at northern Israel",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773737102.0889685,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Trump says Israel working with US to secure Strait of Hormuz, demands other countries pitch in",
     "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773614702.9064581,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF launches fresh wave of airstrikes targeting Hezbollah sites in Beirut",
-    "trigger": "airstrike",
     "score": 72,
     "cf": 0.8
   }
