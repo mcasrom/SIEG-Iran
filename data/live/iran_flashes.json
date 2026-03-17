@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773744302.499748,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "One killed in Abu Dhabi as Iran keeps up strikes on beleaguered Gulf states",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773744302.499748,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Knesset passes 5.1% deficit and spending hike amid Iran war, in first of 3 votes",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773740702.568599,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF begins ‘targeted ground operation’ in south Lebanon to expand buffer against Hezbollah",
     "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773639902.8308089,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF strikes series of Iranian regime targets in Tehran, Hezbollah sites in Beirut",
-    "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773621902.6824064,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump says Israel working with US to secure Strait of Hormuz, demands other countries pitch in",
-    "trigger": "idf strikes",
     "score": 72,
     "cf": 0.8
   }
