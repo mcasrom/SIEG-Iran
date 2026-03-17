@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773787502.2292628,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah fires dozens of rockets at north, hitting home but no injuries; IDF pounds Lebanon",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773773102.142842,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF begins ‘targeted ground operation’ to expand south Lebanon buffer against Hezbollah",
     "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773654302.3244176,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "As Hezbollah strongholds crop back up, northern farmers regrow destroyed fields",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
