@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773715501.962178,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran fires missiles at Israel as IDF carries out simultaneous strikes in Tehran, Beirut",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773715501.962178,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Herzog: Europe should back effort to ‘eradicate’ Hezbollah, Iran war a ‘historical juncture’",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773704702.067897,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "Iran FM claims Tehran never sought ceasefire or talks with US amid war",
     "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773596701.9711056,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF says slain brother of Michigan synagogue attacker was a Hezbollah commander",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773593102.767064,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Sa’ar denies reports of talks with Lebanon as Hezbollah keeps up fire on Israel",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
