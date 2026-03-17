@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773719102.8741353,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "US diplomats told to push allies to blacklist Iran’s Revolutionary Guards, Hezbollah",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773715501.962178,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "warship",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1773611102.8798516,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran FM claims Tehran never sought ceasefire or talks with US amid war",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
   }
 ]
