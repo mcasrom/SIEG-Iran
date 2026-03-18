@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773841502.3111782,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Israel says Iran’s intelligence minister Esmaeil Khatib killed in Tehran strike",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773834302.670179,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Herzog: Europe should back effort to ‘eradicate’ Hezbollah, Iran war a ‘historical juncture’",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773704702.067897,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Two Arab men killed in separate shootings, following earlier homicide",
-    "trigger": "killed in",
     "score": 72,
     "cf": 0.8
   }
