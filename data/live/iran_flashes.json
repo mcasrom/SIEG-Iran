@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773812702.3027163,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "US encouraging Syria to assist with disarming Hezbollah in Lebanon — sources",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773798302.9126797,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Injuries and heavy damage to homes as Iran fires multiple missile salvos at Israel",
     "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773668702.1471891,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Man shot dead in central Israel town amid crime wave plaguing Arab community",
-    "trigger": "killed in",
     "score": 72,
     "cf": 0.8
   }
