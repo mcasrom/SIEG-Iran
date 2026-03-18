@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773827102.169124,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Ramat Gan couple in their 70s killed by Iranian cluster missile",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773827102.169124,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF strikes in Iran target intelligence minister, internal security forces",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773812702.3027163,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "Security commander of Iraq’s Kataeb Hezbollah said killed in airstrike",
     "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773697502.1983404,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran’s new supreme leader issues fresh statement as questions linger over his health",
-    "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773675902.392801,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Injuries and heavy damage to homes as Iran fires multiple missile salvos at Israel",
-    "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
   }
