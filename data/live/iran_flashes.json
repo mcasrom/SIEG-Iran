@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773798302.9126797,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Two people killed in Ramat Gan by Iranian multiple-warhead ballistic missile",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773791102.1463997,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Man shot dead in central Israel town amid crime wave plaguing Arab community",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773665102.0116947,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Experts unpack the Iran war’s Lebanon front on a new podcast - Sponsored Content",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
