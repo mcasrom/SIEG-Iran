@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773830702.7399685,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "3,500 people evacuated, 10,946 damage claims filed since start of latest Iran war",
+    "trigger": "evacuation",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773830702.7399685,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Israel acknowledges tank fire mistakenly hit UNIFIL base in Lebanon, apologizes",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773827102.169124,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -157,24 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Iran’s new supreme leader purportedly issues fresh statement as questions linger over his health",
-    "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773701102.190504,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "US names six crew killed in refuelling plane crash in Iraq The aircraft was on a combat mission as part of ongoing US operations against Ira",
-    "trigger": "killed in",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1773697502.1983404,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Security commander of Iraq’s Kataeb Hezbollah said killed in airstrike",
     "trigger": "airstrike",
     "score": 72,
     "cf": 0.8
