@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773852302.3824348,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Matti Friedman: Israel’s forever wars in Lebanon",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773852302.3824348,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF strikes Hezbollah financial, military sites; Lebanese authorities report 14 dead",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773841502.3111782,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -157,24 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "US diplomats told to push allies to blacklist Iran’s Revolutionary Guards, Hezbollah",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773715501.962178,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran fires missiles at Israel as IDF carries out simultaneous strikes in Tehran, Beirut",
-    "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773715501.962178,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Herzog: Europe should back effort to ‘eradicate’ Hezbollah, Iran war a ‘historical juncture’",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
