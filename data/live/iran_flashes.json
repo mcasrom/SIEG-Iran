@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773859503.4252942,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Israel says 'limited' ground operations under way in Lebanon Troops are targeting \"Hezbollah strongholds\" in south Lebanon, where strikes re",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1773855902.7036428,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Knesset passes 5.1% deficit and spending hike amid Iran war, in first of 3 votes",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773740702.568599,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF pushes deeper into south Lebanon as Hezbollah keeps up fire at northern Israel",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
