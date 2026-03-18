@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773834302.670179,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "US names six crew killed in refuelling plane crash in Iraq The aircraft was on a combat mission as part of ongoing US operations against Ira",
+    "trigger": "killed in",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1773830702.7399685,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Two Arab men killed in separate shootings, following earlier homicide",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773704702.067897,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran’s new supreme leader purportedly issues fresh statement as questions linger over his health",
-    "trigger": "airstrike",
     "score": 72,
     "cf": 0.8
   }
