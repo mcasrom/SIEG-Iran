@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773855902.7036428,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Iran's intelligence minister Esmail Khatib killed in air strike Israel said it had killed Khatib, whose death was confirmed by Iranian Presi",
+    "trigger": "air strike",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
+    "ts": 1773855902.7036428,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Israel strikes and destroys building in heart of Beirut There are no known casualties so far from the strike near downtown, as Israel said i",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1773852302.3824348,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -157,24 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "IDF pushes deeper into south Lebanon as Hezbollah keeps up fire at northern Israel",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773737102.0889685,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Israel says 'limited' ground operations under way in Lebanon Troops are targeting \"Hezbollah strongholds\" in south Lebanon, where strikes re",
-    "trigger": "hezbollah",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1773719102.8741353,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "US diplomats told to push allies to blacklist Iran’s Revolutionary Guards, Hezbollah",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
