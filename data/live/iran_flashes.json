@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773935102.5503912,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hegseth calls IDF strike on Iranian gas field a ‘warning’ as Israel hits Iran’s navy",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773935102.5503912,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Three Palestinian women killed in beauty salon during Iranian missile attack Others were injured when the salon in the southern West Bank wa",
+    "trigger": "killed in",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1773931502.4346325,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "hezbollah",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1773852302.3824348,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Matti Friedman: Israel’s forever wars in Lebanon",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773852302.3824348,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF strikes Hezbollah financial, military sites; Lebanese authorities report 14 dead",
-    "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
   }
 ]
