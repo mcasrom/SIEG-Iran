@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773931502.4346325,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Rafah Crossing between Gaza and Egypt reopens for first time since start of Iran war",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773927903.026578,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF strikes Hezbollah financial, military sites; Lebanese authorities report 14 dead",
     "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773841502.3111782,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Israel says Iran’s intelligence minister Esmaeil Khatib killed in Tehran strike",
-    "trigger": "killed in",
     "score": 72,
     "cf": 0.8
   }
