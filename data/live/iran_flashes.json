@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773902702.6358578,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Trump: Israel won’t strike Iranian gas field again, but US will if Qatari energy sites attacked",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773895502.3238788,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1773773102.142842,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah A relative tells BBC those killed were civilia",
-    "trigger": "hezbollah",
-    "score": 65,
-    "cf": 0.9
   }
 ]
