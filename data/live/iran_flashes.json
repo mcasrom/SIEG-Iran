@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773917102.8072815,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "These are the key Iranian figures killed in the US-Israeli bombing campaign",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773917102.8072815,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Damage in central Israel as Iran fires 8th barrage since midnight; Hezbollah targets north",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773913502.7710252,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "3,500 people evacuated, 10,946 damage claims filed since start of latest Iran war",
     "trigger": "evacuation",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773830702.7399685,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Israel acknowledges tank fire mistakenly hit UNIFIL base in Lebanon, apologizes",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773827102.169124,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Ramat Gan couple in their 70s killed by Iranian cluster missile",
-    "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
   }
