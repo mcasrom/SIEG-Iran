@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773888302.0747914,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Gas facilities targeted in Qatar and UAE as Iran keeps up attacks on Gulf states",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773888302.0747914,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iranian cluster bombs kill foreign worker in central Israel, 3 West Bank Palestinians",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773859503.4252942,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -157,24 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Knesset advances 5.1% deficit and spending hike amid Iran war",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773744302.499748,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "One killed in Abu Dhabi as Iran keeps up strikes on beleaguered Gulf states",
-    "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773744302.499748,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Knesset passes 5.1% deficit and spending hike amid Iran war, in first of 3 votes",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
