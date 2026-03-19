@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773891901.9769697,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Trump: Israel won’t again strike Iranian gas field but US will if Qatari energy sites attacked",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773888302.0747914,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Damage but no injuries as Iranian cluster bomb fragments impact in central Israel",
     "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773751502.647073,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Knesset advances 5.1% deficit and spending hike amid Iran war",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
