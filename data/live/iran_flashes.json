@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773920702.623028,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Oil, gas prices soar after strikes on energy sites; Iran fires 8th barrage at Israel since midnight",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773917102.8072815,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "killed in",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1773830702.7399685,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "3,500 people evacuated, 10,946 damage claims filed since start of latest Iran war",
-    "trigger": "evacuation",
-    "score": 72,
-    "cf": 0.8
   }
 ]
