@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773927903.026578,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Daily Briefing Mar. 19 – Israelis grapple with Iran’s attritional missile fire",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773920702.623028,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "killed in",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1773834302.670179,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "US names six crew killed in refuelling plane crash in Iraq The aircraft was on a combat mission as part of ongoing US operations against Ira",
-    "trigger": "killed in",
-    "score": 65,
-    "cf": 0.9
   }
 ]
