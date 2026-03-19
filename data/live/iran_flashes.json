@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773913502.7710252,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "7th Iranian missile barrage since midnight causes damage in Tel Aviv; Hezbollah bombards north",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773913502.7710252,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iranian cluster bombs kill foreign worker in Israel, 3 Palestinian women in West Bank",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773909901.9743798,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "Ramat Gan couple in their 70s killed by Iranian cluster missile",
     "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773827102.169124,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF strikes in Iran target intelligence minister, internal security forces",
-    "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773812702.3027163,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "US encouraging Syria to assist with disarming Hezbollah in Lebanon — sources",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
