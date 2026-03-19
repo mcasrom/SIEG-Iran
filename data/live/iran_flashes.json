@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773963902.7860513,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "4 hurt as Hezbollah rocket hits Kiryat Shmona; Iran missile fragment hits Haifa oil refinery",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773949502.3100345,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Kuwait says 10 Hezbollah operatives nabbed for alleged plot to attack ‘vital installations’",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773891901.9769697,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump: Israel won’t again strike Iranian gas field but US will if Qatari energy sites attacked",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
