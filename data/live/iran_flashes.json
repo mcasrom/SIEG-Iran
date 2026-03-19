@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773938702.049937,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Israel hits Iran’s navy as Hegseth calls IDF strike on gas field a ‘warning’",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773935102.5503912,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "🕸",
     "titulo": "Iran's intelligence minister Esmail Khatib killed in air strike Israel said it had killed Khatib, whose death was confirmed by Iranian Presi",
     "trigger": "air strike",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1773855902.7036428,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Israel strikes and destroys building in heart of Beirut There are no known casualties so far from the strike near downtown, as Israel said i",
-    "trigger": "hezbollah",
     "score": 65,
     "cf": 0.9
   }
