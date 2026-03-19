@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773906302.354959,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iranian cluster bombs kill foreign worker in Israel, 3 Palestinian women in W. Bank",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773906302.354959,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "'There's no hiding place on a ship': The sailors stranded near Iran Drones, cruise missiles and fighter jets have become a common sight for ",
+    "trigger": "fighter jet",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1773902702.6358578,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "Two people killed in Ramat Gan by Iranian multiple-warhead ballistic missile",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773791102.1463997,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Two people killed in Ramat Gan by Iranian ballistic missile",
-    "trigger": "iran launches",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773787502.2292628,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah fires dozens of rockets at north, hitting home but no injuries; IDF pounds Lebanon",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
