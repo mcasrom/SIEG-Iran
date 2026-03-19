@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773909901.9743798,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah fires rockets at north; Iran launches 6th missile salvo at Israel since midnight",
+    "trigger": "iran launches",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773906302.354959,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "US encouraging Syria to assist with disarming Hezbollah in Lebanon — sources",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773798302.9126797,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Two people killed in Ramat Gan by Iranian multiple-warhead ballistic missile",
-    "trigger": "killed in",
     "score": 72,
     "cf": 0.8
   }
