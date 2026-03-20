@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774046702.512903,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Trump rules out ceasefire with Iran, says Israel will agree to end war when he’s ready",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774014302.1736927,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Damage in central Israel as Iran fires 8th barrage since midnight; Hezbollah targets north",
     "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773913502.7710252,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "7th Iranian missile barrage since midnight causes damage in Tel Aviv; Hezbollah bombards north",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
