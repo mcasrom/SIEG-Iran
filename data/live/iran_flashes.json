@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774010702.1283588,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Two Rehovot homes hit in repeated Iranian missile strikes; two lightly wounded",
+    "trigger": "missile strike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773989102.6622155,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Iranian cluster bombs kill foreign worker in Israel, 3 Palestinian women in West Bank",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773909901.9743798,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah fires rockets at north; Iran launches 6th missile salvo at Israel since midnight",
-    "trigger": "iran launches",
     "score": 72,
     "cf": 0.8
   }
