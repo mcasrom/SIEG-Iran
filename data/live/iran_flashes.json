@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774014302.1736927,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Despite IDF strikes, Iran’s feared Basij security forces still patrol Tehran’s streets",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774010702.1283588,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "7th Iranian missile barrage since midnight causes damage in Tel Aviv; Hezbollah bombards north",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773913502.7710252,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iranian cluster bombs kill foreign worker in Israel, 3 Palestinian women in West Bank",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
