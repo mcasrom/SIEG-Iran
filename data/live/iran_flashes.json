@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1773974702.6962235,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF launches new wave of airstrikes on Tehran after missile fire targets Jerusalem, northern Israel",
+    "trigger": "airstrike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773963902.7860513,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Trump: Israel won’t strike Iranian gas field again, but US will if Qatari energy sites attacked",
     "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773895502.3238788,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Kuwait says 10 Hezbollah operatives nabbed for alleged plot to attack ‘vital installations’",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
