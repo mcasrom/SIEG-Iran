@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1773985502.1852689,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Traumatized by their last evacuation, many in Israel’s north are staying put despite renewed danger",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1773985502.1852689,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF launches new wave of airstrikes on Tehran after missile fire targets Jerusalem, north",
+    "trigger": "airstrike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1773974702.6962235,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "Iranian cluster bombs kill foreign worker in Israel, 3 Palestinian women in W. Bank",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773906302.354959,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "'There's no hiding place on a ship': The sailors stranded near Iran Drones, cruise missiles and fighter jets have become a common sight for ",
-    "trigger": "fighter jet",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1773902702.6358578,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump: Israel won’t strike Iranian gas field again, but US will if Qatari energy sites attacked",
-    "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
   }
