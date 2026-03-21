@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774107902.680144,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah rockets damage buildings in north as IDF strikes Lebanon, kills gunmen",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774093502.048221,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -169,14 +178,5 @@
     "trigger": "air strike",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1773942302.7196789,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF strike injures journalists at Lebanon’s Litani, after army warning it would hit area",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
