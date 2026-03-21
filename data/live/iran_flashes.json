@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774053902.742056,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Trump rules out ceasefire with Iran, then says he’s considering ‘winding down’ campaign",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774046702.512903,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "These are the key Iranian figures killed in the US-Israeli bombing campaign",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773917102.8072815,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Damage in central Israel as Iran fires 8th barrage since midnight; Hezbollah targets north",
-    "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
   }
