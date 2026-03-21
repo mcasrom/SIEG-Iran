@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774061102.788048,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran fires ballistic missiles at US-UK Diego Garcia military base, does not hit it — report",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774057502.4170558,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Daily Briefing Mar. 19 – Israelis grapple with Iran’s attritional missile fire",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773920702.623028,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Oil, gas prices soar after strikes on energy sites; Iran fires 8th barrage at Israel since midnight",
-    "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
   }
