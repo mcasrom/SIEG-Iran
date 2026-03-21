@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1774089902.0227792,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "How Iran’s IRGC rebuilt Lebanon’s Hezbollah to be ready for war",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774089902.0227792,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Natanz enrichment facility targeted in US-Israeli attack, Iranian media reports",
+    "trigger": "fighter jet",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774086302.287763,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1773935102.5503912,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hegseth calls IDF strike on Iranian gas field a ‘warning’ as Israel hits Iran’s navy",
-    "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773935102.5503912,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Three Palestinian women killed in beauty salon during Iranian missile attack Others were injured when the salon in the southern West Bank wa",
-    "trigger": "killed in",
-    "score": 65,
-    "cf": 0.9
   }
 ]
