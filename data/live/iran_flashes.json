@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774093502.048221,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Three Palestinian women killed in beauty salon during Iranian missile attack Others were injured when the salon in the southern West Bank wa",
+    "trigger": "killed in",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1774089902.0227792,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF strike injures journalists at Lebanon’s Litani, after army warning it would hit area",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773938702.049937,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Israel hits Iran’s navy as Hegseth calls IDF strike on gas field a ‘warning’",
-    "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
   }
