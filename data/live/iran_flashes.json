@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1774115102.930949,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "US said to strike Iran’s Natanz enrichment site, IDF hits missile production sites",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774115102.930949,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah rocket injures 5 in north, buildings damaged in barrages as IDF strikes Lebanon",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774107902.680144,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "🕸",
     "titulo": "Israel says 'limited' ground operations under way in Lebanon Troops are targeting \"Hezbollah strongholds\" in south Lebanon, where strikes re",
     "trigger": "hezbollah",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1773945902.8314629,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hegseth calls IDF strike on gas field a ‘warning,’ as Trump says he told Netanyahu: ‘Don’t do that’",
-    "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773945902.8314629,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Iran's intelligence minister Esmail Khatib killed in air strike Israel said it had killed Khatib, whose death was confirmed by Iranian Presi",
-    "trigger": "air strike",
     "score": 65,
     "cf": 0.9
   }
