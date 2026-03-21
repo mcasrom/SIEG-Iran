@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774086302.287763,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Empty daycare among sites hit in Rishon Lezion cluster missile attack; no injuries",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774068302.7872996,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "killed in",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1773931502.4346325,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Rafah Crossing between Gaza and Egypt reopens for first time since start of Iran war",
-    "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
   }
 ]
