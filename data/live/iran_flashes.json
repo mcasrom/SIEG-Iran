@@ -169,14 +169,5 @@
     "trigger": "airstrike",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1773974702.6962235,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF launches new wave of airstrikes on Tehran after missile fire targets Jerusalem, northern Israel",
-    "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
   }
 ]
