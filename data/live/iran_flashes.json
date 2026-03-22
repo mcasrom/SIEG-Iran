@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774205102.6807911,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Gulf states opposed war with Iran. Most are now pushing to keep the fight going",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774201502.9168131,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "idf strikes",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1774093502.048221,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Three Palestinian women killed in beauty salon during Iranian missile attack Others were injured when the salon in the southern West Bank wa",
-    "trigger": "killed in",
-    "score": 65,
-    "cf": 0.9
   }
 ]
