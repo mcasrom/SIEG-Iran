@@ -1,5 +1,32 @@
 [
   {
+    "ts": 1774183502.8673246,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Daily Briefing Mar. 22 — Amid missile strikes and rainstorms, IAF hunts Iranian launchers",
+    "trigger": "missile strike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774183502.8673246,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "60-year-old avocado farmer and kibbutz spokesman killed by Hezbollah rocket",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774183502.8673246,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Dozens of extremist settlers beat Palestinians; burn homes, cars in revenge attacks",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774179902.2843916,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -149,33 +176,6 @@
     "icono": "⚔️",
     "titulo": "Iran fires ballistic missiles at US-UK Diego Garcia military base, does not hit it — report",
     "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774057502.4170558,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "US hails Lebanon’s proposal for talks with Israel as Hezbollah keeps up rocket fire",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774053902.742056,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump rules out ceasefire with Iran, then says he’s considering ‘winding down’ campaign",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774046702.512903,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump rules out ceasefire with Iran, says Israel will agree to end war when he’s ready",
-    "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
   }
