@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1774161902.9486227,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Over 150 injured, 11 seriously, in Iranian missile strikes on southern cities of Arad, Dimona",
+    "trigger": "missile strike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774161902.9486227,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "'There's no hiding place on a ship': The sailors stranded near Iran Drones, cruise missiles and fighter jets have become a common sight for ",
+    "trigger": "fighter jet",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1774140302.2858002,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -142,14 +160,5 @@
     "trigger": "missile strike",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1773989102.6622155,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "'There's no hiding place on a ship': The sailors stranded near Iran Drones, cruise missiles and fighter jets have become a common sight for ",
-    "trigger": "fighter jet",
-    "score": 65,
-    "cf": 0.9
   }
 ]
