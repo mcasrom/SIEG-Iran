@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774140302.2858002,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Over 100 injured, 11 seriously, in Iranian missile strikes on southern cities of Arad, Dimona",
+    "trigger": "missile strike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774118702.0614016,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF launches new wave of airstrikes on Tehran after missile fire targets Jerusalem, northern Israel",
     "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773963902.7860513,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "4 hurt as Hezbollah rocket hits Kiryat Shmona; Iran missile fragment hits Haifa oil refinery",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
