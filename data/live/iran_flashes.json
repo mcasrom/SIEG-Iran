@@ -151,23 +151,5 @@
     "trigger": "fighter jet",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1773985502.1852689,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Traumatized by their last evacuation, many in Israel’s north are staying put despite renewed danger",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1773985502.1852689,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF launches new wave of airstrikes on Tehran after missile fire targets Jerusalem, north",
-    "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
   }
 ]
