@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774201502.9168131,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "The Iran War’s Second Front: Israel vs. Hezbollah - Sponsored Content",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774197902.6984663,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -169,14 +178,5 @@
     "trigger": "killed in",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1774089902.0227792,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "How Iran’s IRGC rebuilt Lebanon’s Hezbollah to be ready for war",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
