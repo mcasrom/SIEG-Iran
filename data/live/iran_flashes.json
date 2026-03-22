@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1774187101.9571803,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Doha says 4 Qataris, 3 Turks killed in helicopter crash, cites ‘malfunction’",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774187101.9571803,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Hezbollah attack kills one in north Israel as assault on Lebanon continues Hezbollah has been launching attacks in response to US-Israel war",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.7
+  },
+  {
     "ts": 1774183502.8673246,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "Empty daycare among sites hit in Rishon Lezion cluster missile attack; no injuries",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774068302.7872996,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "UAE says it dismantled terrorist network funded by Iran and Hezbollah",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774061102.788048,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran fires ballistic missiles at US-UK Diego Garcia military base, does not hit it — report",
-    "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
   }
