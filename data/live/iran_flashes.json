@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774179902.2843916,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Several hurt in Iranian cluster bomb attack around Tel Aviv; Hezbollah rocket kills avocado farmer in north",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774176302.7927203,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Trump rules out ceasefire with Iran, says Israel will agree to end war when he’s ready",
     "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774014302.1736927,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Despite IDF strikes, Iran’s feared Basij security forces still patrol Tehran’s streets",
-    "trigger": "idf strikes",
     "score": 72,
     "cf": 0.8
   }
