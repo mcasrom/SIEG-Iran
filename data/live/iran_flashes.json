@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774284302.6755466,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Two injured, one seriously, as Hezbollah pounds north with rockets",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774280702.8567734,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Ofer Moskovitz, killed by Hezbollah rocket, poured heart and soul into his beloved north",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774187101.9571803,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Doha says 4 Qataris, 3 Turks killed in helicopter crash, cites ‘malfunction’",
-    "trigger": "killed in",
     "score": 72,
     "cf": 0.8
   }
