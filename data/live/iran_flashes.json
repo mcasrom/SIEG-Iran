@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774273502.0902727,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF probe finds farmer killed in north was hit by Israeli shelling, not Hezbollah",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774266302.9104993,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "60-year-old avocado farmer and kibbutz spokesman killed by Hezbollah rocket",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774183502.8673246,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Dozens of extremist settlers beat Palestinians; burn homes, cars in revenge attacks",
-    "trigger": "killed in",
     "score": 72,
     "cf": 0.8
   }
