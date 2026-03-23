@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774266302.9104993,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Trump says he’s held productive discussions with Iran on ending all hostilities; has postponed plans to bomb Iran energy sites",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774259102.0127103,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Dozens of extremist settlers beat Palestinians; burn homes, cars in revenge attacks",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774179902.2843916,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Several hurt in Iranian cluster bomb attack around Tel Aviv; Hezbollah rocket kills avocado farmer in north",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
