@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774233902.4415398,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF strikes Tehran after Iranian cluster missile impacts cause damage in central Israel",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774230302.5465658,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -169,14 +178,5 @@
     "trigger": "missile strike",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1774161902.9486227,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "'There's no hiding place on a ship': The sailors stranded near Iran Drones, cruise missiles and fighter jets have become a common sight for ",
-    "trigger": "fighter jet",
-    "score": 65,
-    "cf": 0.9
   }
 ]
