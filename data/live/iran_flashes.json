@@ -1,5 +1,32 @@
 [
   {
+    "ts": 1774280702.8567734,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "As Trump steers away from war with Iran, Israel rediscovers cost of riding with him",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774280702.8567734,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "'There's no hiding place on a ship': The sailors stranded near Iran Drones, cruise missiles and fighter jets have become a common sight for ",
+    "trigger": "fighter jet",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
+    "ts": 1774280702.8567734,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "'Follow the smoke': BBC spends day with emergency teams as Israel strikes south Lebanon The BBC visited the city of Nabatieh, witnessing the",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1774273502.0902727,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -149,33 +176,6 @@
     "icono": "⚔️",
     "titulo": "Doha says 4 Qataris, 3 Turks killed in helicopter crash, cites ‘malfunction’",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774187101.9571803,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Hezbollah attack kills one in north Israel as assault on Lebanon continues Hezbollah has been launching attacks in response to US-Israel war",
-    "trigger": "hezbollah",
-    "score": 65,
-    "cf": 0.7
-  },
-  {
-    "ts": 1774183502.8673246,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Daily Briefing Mar. 22 — Amid missile strikes and rainstorms, IAF hunts Iranian launchers",
-    "trigger": "missile strike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774183502.8673246,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "60-year-old avocado farmer and kibbutz spokesman killed by Hezbollah rocket",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
