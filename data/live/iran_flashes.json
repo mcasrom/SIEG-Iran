@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1774241102.2487912,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "US said planning weeks-long operation to reopen Hormuz Strait; IDF strikes Tehran overnight",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774241102.2487912,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Citing continued attacks, Israel to slash outbound flights to 1 per hour, with 50 onboard",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774233902.4415398,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "One killed in Hezbollah attack near northern border; Iran renews fire on center, south",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774165502.2804685,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "One killed in apparent Hezbollah attack near northern border; Iran renews fire on center, south",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774161902.9486227,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Over 150 injured, 11 seriously, in Iranian missile strikes on southern cities of Arad, Dimona",
-    "trigger": "missile strike",
     "score": 72,
     "cf": 0.8
   }
