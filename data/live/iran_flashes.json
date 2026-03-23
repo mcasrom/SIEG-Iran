@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774291502.556168,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Trump speaks after announcing delay on Iran attacks President Donald Trump has spoken to reporters after announcing the US was postponing at",
+    "trigger": "iran attacks",
+    "score": 65,
+    "cf": 0.7
+  },
+  {
     "ts": 1774284302.6755466,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "drone strike",
     "score": 65,
     "cf": 0.7
-  },
-  {
-    "ts": 1774190702.1934214,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Ofer Moskovitz, killed by Hezbollah rocket, poured heart and soul into his beloved north",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
