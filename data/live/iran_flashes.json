@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774302302.5241694,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Moment missile strikes shortly after Israeli president’s visit Israel&#039;s president was forced to take cover as a missile struck nearby s",
+    "trigger": "missile strike",
+    "score": 65,
+    "cf": 0.7
+  },
+  {
     "ts": 1774298702.710818,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Gulf states opposed war with Iran. Most are now pushing to keep the fight going",
     "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774201502.9168131,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "The Iran War’s Second Front: Israel vs. Hezbollah - Sponsored Content",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
