@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774313102.258422,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Smotrich says Litani River should be Israel’s new border with Lebanon",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774309501.9952796,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Israel to expand ground and air attacks against Hezbollah in Lebanon There are fears in Lebanon that Israel is preparing for a large-scale g",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.9
-  },
-  {
-    "ts": 1774208701.9933212,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Three Palestinian women killed in beauty salon during Iranian missile attack Others were injured when the salon in the southern West Bank wa",
-    "trigger": "killed in",
     "score": 72,
     "cf": 0.9
   }
