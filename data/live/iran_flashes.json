@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774370702.3990238,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Woman shot dead in Galilee, taking 2026 toll in Arab community to 74",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774367102.8520794,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1774273502.0902727,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF probe finds farmer killed in north was hit by Israeli shelling, not Hezbollah",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
