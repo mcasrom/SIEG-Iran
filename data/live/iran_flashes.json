@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774359902.2024972,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Airstrikes kill 15 Iran-backed troops in Iraq, targeting HQ and leader",
+    "trigger": "airstrike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774352702.041192,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Trump says he’s held productive discussions with Iran on ending all hostilities; has postponed plans to bomb Iran energy sites",
-    "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774259102.0127103,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "El Al ‘reviewing continued operations’ at Ben Gurion as Israel slashes traffic amid missile fire",
     "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
