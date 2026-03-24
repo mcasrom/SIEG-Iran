@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774334702.3136044,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF says it struck Islamic Guards HQ in Tehran; man lightly wounded as Iran keeps up strikes",
+    "trigger": "un security council",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774327502.6669126,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -169,14 +178,5 @@
     "trigger": "idf strikes",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1774230302.5465658,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Iran's intelligence minister Esmail Khatib killed in air strike Israel said it had killed Khatib, whose death was confirmed by Iranian Presi",
-    "trigger": "air strike",
-    "score": 65,
-    "cf": 0.9
   }
 ]
