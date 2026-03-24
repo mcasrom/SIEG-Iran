@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774341902.2257993,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "4 people lightly hurt, buildings mangled as Tel Aviv hit in Iranian missile attack",
+    "trigger": "un security council",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774334702.3136044,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Citing continued attacks, Israel to slash outbound flights to 1 per hour, with 50 onboard",
-    "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774233902.4415398,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF strikes Tehran after Iranian cluster missile impacts cause damage in central Israel",
     "trigger": "idf strikes",
     "score": 72,
     "cf": 0.8
