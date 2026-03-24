@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1774352702.041192,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Polymarket bets on US-Iran ceasefire appear to suggest insider trading",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774352702.041192,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Katz says Israel will hold ‘security zone’ in Lebanon until Hezbollah threat removed",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774345502.6217337,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -157,24 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "El Al ‘reviewing continued operations’ at Ben Gurion as Israel slashes traffic amid missile fire",
-    "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774244702.4208903,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran threatens to hit power plants in Israel, Gulf if its electricity sector is targeted",
-    "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774241102.2487912,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "US said planning weeks-long operation to reopen Hormuz Strait; IDF strikes Tehran overnight",
     "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
