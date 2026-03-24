@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774367102.8520794,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "‘Persona non grata’: Lebanon boots Iran’s ambassador amid Hezbollah-Israel war",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774359902.2024972,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF probe finds farmer killed in north was hit by Israeli shelling, not Hezbollah",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774266302.9104993,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump says he’s held productive discussions with Iran on ending all hostilities; has postponed plans to bomb Iran energy sites",
-    "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
   }
