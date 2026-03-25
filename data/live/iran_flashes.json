@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774475102.2779038,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Israel to expand ground and air attacks against Hezbollah in Lebanon There are fears in Lebanon that Israel is preparing for a large-scale g",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1774471502.867253,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "4 people lightly hurt, buildings mangled as Tel Aviv hit in Iranian missile attack",
-    "trigger": "un security council",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774334702.3136044,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF says it struck Islamic Guards HQ in Tehran; man lightly wounded as Iran keeps up strikes",
     "trigger": "un security council",
     "score": 72,
     "cf": 0.8
