@@ -1,5 +1,41 @@
 [
   {
+    "ts": 1774424702.1170416,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "After decades, terror victims to receive proceeds from sale of Iran-linked NYC skyscraper",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774424702.1170416,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Nine people wounded in Bnei Brak by Iranian cluster bomb munitions",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774424702.1170416,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Board of Peace envoy lays out principles of disarmament plan presented to Hamas",
+    "trigger": "un security council",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774424702.1170416,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "'There's no hiding place on a ship': The sailors stranded near Iran Drones, cruise missiles and fighter jets have become a common sight for ",
+    "trigger": "fighter jet",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1774385102.2782648,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -142,41 +178,5 @@
     "trigger": "missile strike",
     "score": 65,
     "cf": 0.7
-  },
-  {
-    "ts": 1774298702.710818,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Four wounded as Hezbollah pounds north with rockets, IDF strikes in Beirut",
-    "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774291502.556168,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Trump speaks after announcing delay on Iran attacks President Donald Trump has spoken to reporters after announcing the US was postponing at",
-    "trigger": "iran attacks",
-    "score": 65,
-    "cf": 0.7
-  },
-  {
-    "ts": 1774284302.6755466,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Two injured, one seriously, as Hezbollah pounds north with rockets",
-    "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774280702.8567734,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "As Trump steers away from war with Iran, Israel rediscovers cost of riding with him",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
