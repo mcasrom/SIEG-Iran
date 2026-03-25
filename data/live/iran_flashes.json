@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774482302.5265214,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran officials reply coldly to truce offer, as US warns of harsher strikes if rejected",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774475102.2779038,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "4 people lightly hurt, buildings mangled as Iranian missile attack hits Tel Aviv",
-    "trigger": "un security council",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774341902.2257993,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "4 people lightly hurt, buildings mangled as Tel Aviv hit in Iranian missile attack",
     "trigger": "un security council",
     "score": 72,
     "cf": 0.8
