@@ -1,5 +1,32 @@
 [
   {
+    "ts": 1774460702.3392801,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah chief rejects Israel talks as ‘surrender’ amid continued IDF strikes",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774460702.3392801,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Cyprus begins talks with UK over future of British bases after Iranian drone strike",
+    "trigger": "drone strike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774460702.3392801,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Total repression and air strikes bring unrelenting dread for Iranians Tehran residents tell the BBC they're caught between US-Israeli bombin",
+    "trigger": "air strike",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1774442702.4371612,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -151,32 +178,5 @@
     "trigger": "missile strike",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1774313102.258422,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Smotrich says Litani River should be Israel’s new border with Lebanon",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774309501.9952796,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iranian cluster munition strikes home in suburb of Haifa, no injuries reported",
-    "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774309501.9952796,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "A committed pharmacist and a homesick blogger – the Iranian civilians killed in the war The toll on civilians is mounting fast as the US-Isr",
-    "trigger": "killed in",
-    "score": 65,
-    "cf": 0.9
   }
 ]
