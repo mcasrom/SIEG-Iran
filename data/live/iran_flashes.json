@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774471502.867253,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran officials reply coldly to truce offer as US warns of harsher strikes if rejected",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774464302.9063303,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "un security council",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1774327502.6669126,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Israel to expand ground and air attacks against Hezbollah in Lebanon There are fears in Lebanon that Israel is preparing for a large-scale g",
-    "trigger": "hezbollah",
-    "score": 65,
-    "cf": 0.9
   }
 ]
