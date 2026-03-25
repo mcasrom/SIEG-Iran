@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774442702.4371612,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran targets major Israeli power plant in missile attacks, no injuries or damage",
+    "trigger": "state of emergency",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774424702.1170416,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "killed in",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1774302302.5241694,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Moment missile strikes shortly after Israeli president’s visit Israel&#039;s president was forced to take cover as a missile struck nearby s",
-    "trigger": "missile strike",
-    "score": 65,
-    "cf": 0.7
   }
 ]
