@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1774503902.856115,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah fires missiles at central Israel; 2 soldiers seriously hurt in Lebanon",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774503902.856115,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "After 14-hour lull, Iran fires successive missile salvos at central Israel",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774500302.3703184,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "Woman shot dead in Galilee, taking 2026 toll in Arab community to 74",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774367102.8520794,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "‘Persona non grata’: Lebanon boots Iran’s ambassador amid Hezbollah-Israel war",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774359902.2024972,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Airstrikes kill 15 Iran-backed troops in Iraq, targeting HQ and leader",
-    "trigger": "airstrike",
     "score": 72,
     "cf": 0.8
   }
