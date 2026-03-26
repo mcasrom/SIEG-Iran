@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774529102.3143702,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "In mixed Haifa, weary residents face near-constant Iranian and Hezbollah missile fire",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774525502.8232653,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "air strike",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1774442702.4371612,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran targets major Israeli power plant in missile attacks, no injuries or damage",
-    "trigger": "state of emergency",
-    "score": 72,
-    "cf": 0.8
   }
 ]
