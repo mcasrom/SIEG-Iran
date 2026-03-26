@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774500302.3703184,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah fires rockets at central Israel; woman moderately injured running to shelter",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774493102.955592,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Airstrikes kill 15 Iran-backed troops in Iraq, targeting HQ and leader",
     "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774352702.041192,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Polymarket bets on US-Iran ceasefire appear to suggest insider trading",
-    "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
   }
