@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774568702.6773283,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Father-of-four killed, another man seriously hurt in Hezbollah rocket attack on Nahariya",
+    "trigger": "rocket attack",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774554302.1391413,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Trump: Iran wants deal ‘so badly’; White House says campaign ‘very close’ to meeting goals",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774489502.1326742,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah fires 6 rockets at central Israel; woman moderately injured running to shelter",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
