@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774511102.494884,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "6 injured in central Israel, West Bank settlement as Iran fires wave of missile salvos",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774507501.951885,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Woman killed, 2 injured in Hezbollah rocket attack on northern Israel",
     "trigger": "rocket attack",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774377902.592769,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Arabic-language Wikipedia filled with terrorist propaganda, bias – report",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
