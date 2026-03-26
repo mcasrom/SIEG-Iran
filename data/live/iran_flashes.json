@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774543502.9402173,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Houthis threaten to join Mideast war, raising specter of renewed Red Sea attacks",
+    "trigger": "red sea attack",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774536301.9442818,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -169,14 +178,5 @@
     "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1774464302.9063303,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "A committed pharmacist and a homesick blogger – the Iranian civilians killed in the war The toll on civilians is mounting fast as the US-Isr",
-    "trigger": "killed in",
-    "score": 72,
-    "cf": 0.9
   }
 ]
