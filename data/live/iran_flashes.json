@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774514702.597014,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF soldier killed in Lebanon gunfight; Iran fires 4 missile salvos at Israel in 2 hours, injuring 7",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774511102.494884,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "fighter jet",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1774385102.2782648,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Woman killed, 2 injured in Hezbollah rocket attack on northern Israel",
-    "trigger": "rocket attack",
-    "score": 72,
-    "cf": 0.8
   }
 ]
