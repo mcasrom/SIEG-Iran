@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774489502.1326742,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah fires 6 rockets at central Israel; woman moderately injured running to shelter",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774482302.5265214,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Katz says Israel will hold ‘security zone’ in Lebanon until Hezbollah threat removed",
     "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774345502.6217337,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "4 people lightly hurt, buildings mangled as Iranian missile attack hits Tel Aviv",
-    "trigger": "un security council",
     "score": 72,
     "cf": 0.8
   }
