@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1774525502.8232653,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Anger mounts in northern communities as Netanyahu urges residents stay put",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774525502.8232653,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "9 injured as Iran fires 6 missile salvos at Israel within hours, many with cluster warheads",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774521902.848925,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "Iran targets major Israeli power plant in missile attacks, no injuries or damage",
     "trigger": "state of emergency",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774424702.1170416,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "After decades, terror victims to receive proceeds from sale of Iran-linked NYC skyscraper",
-    "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774424702.1170416,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Nine people wounded in Bnei Brak by Iranian cluster bomb munitions",
-    "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
   }
