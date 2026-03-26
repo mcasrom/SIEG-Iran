@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774518302.6277013,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF soldier killed in Lebanon gunfight; Iran fires 6 missile salvos at Israel within hours, injuring 10",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774514702.597014,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "un security council",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1774424702.1170416,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "'There's no hiding place on a ship': The sailors stranded near Iran Drones, cruise missiles and fighter jets have become a common sight for ",
-    "trigger": "fighter jet",
-    "score": 65,
-    "cf": 0.9
   }
 ]
