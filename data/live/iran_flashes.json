@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774554302.1391413,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Israel to expand ground and air attacks against Hezbollah in Lebanon There are fears in Lebanon that Israel is preparing for a large-scale g",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1774550702.6777816,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Hezbollah fires 6 rockets at central Israel; woman moderately injured running to shelter",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774482302.5265214,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran officials reply coldly to truce offer, as US warns of harsher strikes if rejected",
-    "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
   }
