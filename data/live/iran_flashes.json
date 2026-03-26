@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774521902.848925,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "9 injured as Iran fires 7 missile salvos at Israel within hours, many with cluster warheads",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774518302.6277013,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Nine people wounded in Bnei Brak by Iranian cluster bomb munitions",
     "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774424702.1170416,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Board of Peace envoy lays out principles of disarmament plan presented to Hamas",
-    "trigger": "un security council",
     "score": 72,
     "cf": 0.8
   }
