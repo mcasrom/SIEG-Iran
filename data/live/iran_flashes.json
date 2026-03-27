@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774572302.7155206,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Israeli soldier killed, 4 wounded in southern Lebanon by Hezbollah anti-tank missile",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774568702.6773283,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Hezbollah fires rockets at central Israel; woman moderately injured running to shelter",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774493102.955592,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump: Iran wants deal ‘so badly’; White House says campaign ‘very close’ to meeting goals",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
