@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774615502.5836325,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Katz warns strikes on Iran to intensify amid unrelenting missile fire at civilian areas",
+    "trigger": "israel bombs iran",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774604702.2145743,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "9 injured as Iran fires 7 missile salvos at Israel within hours, many with cluster warheads",
-    "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774518302.6277013,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF soldier killed in Lebanon gunfight; Iran fires 6 missile salvos at Israel within hours, injuring 10",
     "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
