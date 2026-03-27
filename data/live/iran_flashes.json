@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1774583102.3943279,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Cheap and elusive, drones put incessant pressure on Israel’s evolving air defenses",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774583102.3943279,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "US said weighing deployment of another 10,000 ground troops to Mideast; IDF strikes in Tehran",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774572302.7155206,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -157,24 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Hezbollah fires missiles at central Israel; 2 soldiers seriously hurt in Lebanon",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774503902.856115,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "After 14-hour lull, Iran fires successive missile salvos at central Israel",
-    "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774500302.3703184,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah fires rockets at central Israel; woman moderately injured running to shelter",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
