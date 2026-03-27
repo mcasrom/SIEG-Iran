@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774640702.5085816,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "In tense call, Vance knocked PM for overselling Iran regime change likelihood — report",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774629902.1067924,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Anger mounts in northern communities as Netanyahu urges residents stay put",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774525502.8232653,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "9 injured as Iran fires 6 missile salvos at Israel within hours, many with cluster warheads",
-    "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
   }
