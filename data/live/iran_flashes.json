@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774601102.1804972,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Beyond oil: The crucial exports blocked by Hormuz closure The price of a wide range of goods - from food, to smartphones, to medicines - cou",
+    "trigger": "hormuz closure",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
     "ts": 1774593902.5173428,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "6 injured in central Israel, West Bank settlement as Iran fires wave of missile salvos",
-    "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774507501.951885,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "6 injured in central Israel, West Bank settlement as Iran fires wave of missiles salvos",
     "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
