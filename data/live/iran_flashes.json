@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774593902.5173428,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Police, Shin Bet: ‘Suspicion growing’ that settler activist killed in terror ramming",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774583102.3943279,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "6 injured in central Israel, West Bank settlement as Iran fires wave of missiles salvos",
     "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774503902.856115,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah fires missiles at central Israel; 2 soldiers seriously hurt in Lebanon",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
