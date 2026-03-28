@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774712701.964768,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF kills Hezbollah-linked journalist, says he was part of elite Radwan Force",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774705502.3104148,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -169,14 +178,5 @@
     "trigger": "rocket attack",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1774547102.773753,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "A committed pharmacist and a homesick blogger – the Iranian civilians killed in the war The toll on civilians is mounting fast as the US-Isr",
-    "trigger": "killed in",
-    "score": 65,
-    "cf": 0.9
   }
 ]
