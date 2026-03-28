@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774716302.7732801,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "A committed pharmacist and a homesick blogger – the Iranian civilians killed in the war The toll on civilians is mounting fast as the US-Isr",
+    "trigger": "killed in",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1774712701.964768,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1774550702.6777816,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Man killed, another seriously hurt in Hezbollah rocket attack on Nahariya",
-    "trigger": "rocket attack",
-    "score": 72,
-    "cf": 0.8
   }
 ]
