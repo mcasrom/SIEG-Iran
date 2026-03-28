@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1774734302.3929722,
+    "vector": "Teatro_Regional",
+    "icono": "🗺",
+    "titulo": "Three Lebanese journalists killed in Israeli strike, say broadcasters The Israeli military confirms it killed Ali Shoeib from the Hezbollah-",
+    "trigger": "hezbollah",
+    "score": 62,
+    "cf": 0.9
+  },
+  {
+    "ts": 1774734302.3929722,
+    "vector": "Teatro_Regional",
+    "icono": "🗺",
+    "titulo": "Tears and defiance as Lebanese family bury child, 11, killed in Israeli strike Jawad Younes and his uncle Ragheb were laid to rest on Saturd",
+    "trigger": "killed in",
+    "score": 62,
+    "cf": 0.9
+  },
+  {
     "ts": 1774727102.5248473,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -157,24 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Cheap and elusive, drones put incessant pressure on Israel’s evolving air defenses",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774583102.3943279,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "US said weighing deployment of another 10,000 ground troops to Mideast; IDF strikes in Tehran",
-    "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774572302.7155206,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Israeli soldier killed, 4 wounded in southern Lebanon by Hezbollah anti-tank missile",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
