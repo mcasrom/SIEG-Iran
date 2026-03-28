@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774669502.5068834,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Northern residents concerned IDF won’t be allowed to ‘finish the job’ against Hezbollah",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774651502.4752195,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF soldier killed in Hezbollah gunfight; terror group fires rockets, drones at north",
     "trigger": "rocket attack",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774529102.3143702,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "In mixed Haifa, weary residents face near-constant Iranian and Hezbollah missile fire",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
