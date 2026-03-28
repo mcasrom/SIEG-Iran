@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774683902.9232392,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "2 soldiers seriously hurt in Lebanon clashes, as Hezbollah rockets and drones pound north",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774669502.5068834,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Daily Briefing Mar. 26 – Premature ceasefire will not neutralize Iran’s potent threat",
     "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774532702.0225096,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF soldier killed in Hezbollah gunfight; terror group fires rockets, drones at north",
-    "trigger": "rocket attack",
     "score": 72,
     "cf": 0.8
   }
