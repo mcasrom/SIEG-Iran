@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774777502.1226978,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "How the Hormuz closure could affect food, medicines and smartphones The price of a wide range of goods - from food, to smartphones, to medic",
+    "trigger": "hormuz closure",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1774773902.8331683,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Katz warns strikes on Iran to intensify amid unrelenting missile fire at civilian areas",
     "trigger": "israel bombs iran",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774604702.2145743,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "As Hezbollah rockets fall, emergency medics in the north work double shifts",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
