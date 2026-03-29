@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774766702.1266255,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF soldier Sgt. Moshe Yitzhak Katz, from Connecticut, killed in south Lebanon",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774759502.5924296,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hormuz closure",
     "score": 72,
     "cf": 0.9
-  },
-  {
-    "ts": 1774593902.5173428,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Police, Shin Bet: ‘Suspicion growing’ that settler activist killed in terror ramming",
-    "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
   }
 ]
