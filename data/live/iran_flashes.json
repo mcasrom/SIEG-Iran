@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774781102.0549195,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran’s parliament speaker: US ‘secretly’ plotting ground op despite diplomatic efforts",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774777502.1226978,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF to extend Lebanon rocket warning time as Hezbollah pushed from border zone",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774615502.5836325,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Katz warns strikes on Iran to intensify amid unrelenting missile fire at civilian areas",
-    "trigger": "israel bombs iran",
     "score": 72,
     "cf": 0.8
   }
