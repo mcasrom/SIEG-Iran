@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774809902.3501172,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Endless War. Kharg Island. Hormuz. Hezbollah. - Sponsored Content",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774784702.4212277,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Northern residents concerned IDF won’t be allowed to ‘finish the job’ against Hezbollah",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774651502.4752195,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "In tense call, Vance knocked PM for overselling likelihood of Iran regime change — report",
-    "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
   }
