@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774759502.5924296,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF soldier Sgt. Moshe Yitzhak HaCohen Katz, from Connecticut, killed in south Lebanon",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774734302.3929722,
     "vector": "Teatro_Regional",
     "icono": "🗺",
