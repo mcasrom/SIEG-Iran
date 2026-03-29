@@ -169,14 +169,5 @@
     "trigger": "killed in",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1774583102.3943279,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Cheap and elusive, drones put incessant pressure on Israel’s evolving air defenses",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
