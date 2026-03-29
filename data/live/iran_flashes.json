@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1774784702.4212277,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Daily Briefing Mar. 29 – Northerners feel grim amid war but firm on need to defeat Hezbollah",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774784702.4212277,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Two Arab men killed in separate incidents as police fail to rein in soaring crime",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774781102.0549195,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "In tense call, Vance knocked PM for overselling likelihood of Iran regime change — report",
     "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774640702.5085816,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "In tense call, Vance knocked PM for overselling Iran regime change likelihood — report",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774629902.1067924,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF to extend Lebanon rocket warning time as Hezbollah pushed from border zone",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
