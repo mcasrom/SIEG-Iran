@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1774871102.0492463,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF hammers Iranian weapons production sites; Iran files salvos of missiles at south",
+    "trigger": "iran launches",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774871102.0492463,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Daily Briefing Mar. 30 – IDF set to vastly expand buffer zone in Lebanon",
+    "trigger": "missile strike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774867502.1143436,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "hezbollah",
     "score": 62,
     "cf": 0.9
-  },
-  {
-    "ts": 1774734302.3929722,
-    "vector": "Teatro_Regional",
-    "icono": "🗺",
-    "titulo": "Tears and defiance as Lebanese family bury child, 11, killed in Israeli strike Jawad Younes and his uncle Ragheb were laid to rest on Saturd",
-    "trigger": "killed in",
-    "score": 62,
-    "cf": 0.9
-  },
-  {
-    "ts": 1774727102.5248473,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Houthi missile attack on Israel stokes fears of renewed strikes on Red Sea shipping",
-    "trigger": "houthi missile",
-    "score": 72,
-    "cf": 0.8
   }
 ]
