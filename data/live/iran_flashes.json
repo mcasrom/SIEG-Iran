@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774881902.6949105,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF hammers Iranian weapons production sites; Iran fires salvos of missiles at south",
+    "trigger": "iran launches",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774874702.6507728,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Key US early warning and control plane said heavily damaged in Iranian attack on Saudi base",
-    "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774766702.1266255,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF soldier Sgt. Moshe Yitzhak Katz, from Connecticut, killed in south Lebanon",
     "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
