@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1774899902.381501,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Moshe Yitzchak Katz, Israeli-US soldier killed in Lebanon, laid to rest in Jerusalem",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774899902.381501,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Two Indonesian UN peacekeepers killed in explosion in Lebanon It is the second fatal incident in the last 24 hours, Unifil says, after Israe",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
     "ts": 1774881902.6949105,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "hormuz closure",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1774773902.8331683,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF soldier Moshe Yitzchak Katz, 22, from Connecticut, killed in south Lebanon",
-    "trigger": "rocket attack",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774773902.8331683,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Key US early warning and control plane said heavily damaged in Iranian attack on Saudi base",
-    "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
   }
 ]
