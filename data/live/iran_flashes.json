@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774914302.6945941,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Facing a resurgent Hezbollah, Israel slouches back to a security zone in Lebanon",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774910702.6860876,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Two Arab men killed in separate incidents as police fail to rein in soaring crime",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774781102.0549195,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran’s parliament speaker: US ‘secretly’ plotting ground op despite diplomatic efforts",
-    "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
   }
