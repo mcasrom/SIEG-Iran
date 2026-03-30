@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1774863902.013139,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Fire breaks out at Haifa oil refinery after Iran, Hezbollah launch missiles at north",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774863902.013139,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Three Lebanese journalists killed in Israeli strike, say broadcasters The Israeli military confirms it killed Ali Shoeib and Mohamed Ftouni,",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1774860301.9762099,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -157,24 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Several hurt as Iranian missile hits Jerusalem-area town; Hezbollah continues to strike north",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774716302.7732801,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "A committed pharmacist and a homesick blogger – the Iranian civilians killed in the war The toll on civilians is mounting fast as the US-Isr",
-    "trigger": "killed in",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1774712701.964768,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF kills Hezbollah-linked journalist, says he was part of elite Radwan Force",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
