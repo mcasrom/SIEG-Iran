@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774867502.1143436,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF soldier killed by Hezbollah in south Lebanon; Haifa oil refinery hit by missile debris, sparking fire",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774863902.013139,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Houthi missile attack on Israel stokes fears of renewed strikes on Red Sea shipping",
     "trigger": "houthi missile",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774727102.5248473,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Several hurt as Iranian missile hits Jerusalem-area town; Hezbollah continues to strike north",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
