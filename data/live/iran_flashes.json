@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1774874702.6507728,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF soldier killed in Lebanon; blaze at Haifa refinery after Iran, Hezbollah missile attack",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774874702.6507728,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Tears and defiance as Lebanese family bury child, 11, killed in Israeli strike Jawad Younes and his uncle Ragheb were laid to rest on Saturd",
+    "trigger": "killed in",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1774871102.0492463,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1774759502.5924296,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF soldier Sgt. Moshe Yitzhak HaCohen Katz, from Connecticut, killed in south Lebanon",
-    "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774734302.3929722,
-    "vector": "Teatro_Regional",
-    "icono": "🗺",
-    "titulo": "Three Lebanese journalists killed in Israeli strike, say broadcasters The Israeli military confirms it killed Ali Shoeib from the Hezbollah-",
-    "trigger": "hezbollah",
-    "score": 62,
-    "cf": 0.9
   }
 ]
