@@ -1,13 +1,13 @@
 {
   "score": 45,
   "disonancia": false,
-  "timestamp": 1774889102.685082,
-  "noticias": 110,
-  "fuentes_activas": 5,
+  "timestamp": 1774892702.2899036,
+  "noticias": 0,
+  "fuentes_activas": 0,
   "version": "V1.1",
-  "calidad_nivel": "VERDE",
-  "calidad_emoji": "\ud83d\udfe2",
-  "calidad_css": "green",
-  "uso_fallback": false,
-  "uso_web": false
+  "calidad_nivel": "ROJO",
+  "calidad_emoji": "\ud83d\udd34",
+  "calidad_css": "red",
+  "uso_fallback": true,
+  "uso_web": true
 }
