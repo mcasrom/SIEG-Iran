@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774849502.6740248,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Indonesian peacekeeper killed in Lebanon explosion, 2nd critically injured",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774817102.636248,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Visiting UAE, Zelensky announces defense cooperation with Abu Dhabi amid Iran attacks",
     "trigger": "iran attacks",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774694702.2820861,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "2 soldiers seriously hurt in Lebanon clashes as Hezbollah rockets and drones pound north",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
