@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774939502.366052,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Seizing Kharg Island would risk US troops and may not end Iran war, experts say",
+    "trigger": "drone strike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774932302.3199656,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Indonesian peacekeeper killed in Lebanon explosion, 2nd critically injured",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774817102.636248,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran’s envoy to remain in Lebanon in defiance of expulsion by Beirut — diplomatic source",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
