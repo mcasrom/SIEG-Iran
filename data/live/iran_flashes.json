@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1775000702.6392245,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Lapid: Netanyahu incapable of reaching victory, is dismantling Israel from within",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775000702.6392245,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Funerals held for 3 of the soldiers killed fighting Hezbollah in southern Lebanon",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774993502.3264837,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "Moshe Yitzchak Katz, Israeli-US soldier killed in Lebanon, laid to rest in Jerusalem",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774899902.381501,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Two Indonesian UN peacekeepers killed in explosion in Lebanon It is the second fatal incident in the last 24 hours, Unifil says, after Israe",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.9
-  },
-  {
-    "ts": 1774881902.6949105,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF hammers Iranian weapons production sites; Iran fires salvos of missiles at south",
-    "trigger": "iran launches",
     "score": 72,
     "cf": 0.8
   }
