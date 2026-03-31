@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1774964702.2339473,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "8 lightly hurt by cluster bombs in central Israel as Iranian attacks persist across region",
+    "trigger": "drone strike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774964702.2339473,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran using children in security roles in war, reports and witnesses say An 11-year-old is reported to have been killed in an air strike whil",
+    "trigger": "air strike",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
     "ts": 1774961102.326894,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "Fire breaks out at Haifa oil refinery after Iran, Hezbollah launch missiles at north",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774863902.013139,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Three Lebanese journalists killed in Israeli strike, say broadcasters The Israeli military confirms it killed Ali Shoeib and Mohamed Ftouni,",
-    "trigger": "hezbollah",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1774860301.9762099,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF airstrike hits south Beirut; 3 soldiers seriously hurt in Hezbollah attacks",
-    "trigger": "airstrike",
     "score": 72,
     "cf": 0.8
   }
