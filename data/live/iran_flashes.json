@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774993502.3264837,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "US journalist Shelly Kittleson kidnapped in Baghdad The US state department says a suspect in her abduction has ties to an Iran-backed milit",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
     "ts": 1774986302.1189432,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF hammers Iranian weapons production sites; Iran fires salvos of missiles at south",
     "trigger": "iran launches",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774874702.6507728,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF soldier killed in Lebanon; blaze at Haifa refinery after Iran, Hezbollah missile attack",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
