@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774928702.7149453,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Lebanon asks Ukraine for alleged Mossad spy who escaped Hezbollah detention in Beirut",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774925102.8121116,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Endless War. Kharg Island. Hormuz. Hezbollah. - Sponsored Content",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774784702.4212277,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Daily Briefing Mar. 29 – Northerners feel grim amid war but firm on need to defeat Hezbollah",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
