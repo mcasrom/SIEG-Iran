@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774946702.0993357,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Four soldiers killed, 2 wounded in south Lebanon clash with Hezbollah",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774939502.366052,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Trump: Killing Iran’s leaders is ‘regime change,’ deal to end war ‘could be soon’",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774849502.6740248,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Indonesian peacekeeper killed in Lebanon explosion, 2nd critically injured",
-    "trigger": "killed in",
     "score": 72,
     "cf": 0.8
   }
