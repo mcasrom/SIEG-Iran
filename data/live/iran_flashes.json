@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774925102.8121116,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "3 UN observers killed within 24 hours in south Lebanon; IDF says it’s investigating",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774914302.6945941,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Daily Briefing Mar. 29 – Northerners feel grim amid war but firm on need to defeat Hezbollah",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774784702.4212277,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Two Arab men killed in separate incidents as police fail to rein in soaring crime",
-    "trigger": "killed in",
     "score": 72,
     "cf": 0.8
   }
