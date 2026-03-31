@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1774975502.324517,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends Defence Minister Israel Katz also says houses i",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
     "ts": 1774968302.6415563,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "killed in",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1774871102.0492463,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF hammers Iranian weapons production sites; Iran files salvos of missiles at south",
-    "trigger": "iran launches",
-    "score": 72,
-    "cf": 0.8
   }
 ]
