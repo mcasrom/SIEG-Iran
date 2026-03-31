@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1774932302.3199656,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Alleged Mossad spy escapes Hezbollah detention thanks to IDF strike in Beirut — report",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774932302.3199656,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Four soldiers killed, 2 wounded in south Lebanon clash with Hezbollah — IDF",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1774928702.7149453,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -157,24 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Iran’s envoy to remain in Lebanon in defiance of expulsion by Beirut — diplomatic source",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774817102.636248,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "PM says Israel to expand south Lebanon buffer zone as IDF pushes deeper into territory",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774809902.3501172,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Endless War. Kharg Island. Hormuz. Hezbollah. - Sponsored Content",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
