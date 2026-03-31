@@ -1,5 +1,32 @@
 [
   {
+    "ts": 1774968302.6415563,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iranian media says desalination plant on Gulf island non-functional after airstrikes",
+    "trigger": "airstrike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774968302.6415563,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Four soldiers killed, 3 wounded in south Lebanon clash with Hezbollah",
+    "trigger": "rocket attack",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1774968302.6415563,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Two Indonesian UN peacekeepers killed in explosion in Lebanon Initial findings suggest a roadside explosion struck their convoy, the UN's pe",
+    "trigger": "killed in",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1774964702.2339473,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -149,33 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF hammers Iranian weapons production sites; Iran files salvos of missiles at south",
     "trigger": "iran launches",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774871102.0492463,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Daily Briefing Mar. 30 – IDF set to vastly expand buffer zone in Lebanon",
-    "trigger": "missile strike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774867502.1143436,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF soldier killed by Hezbollah in south Lebanon; Haifa oil refinery hit by missile debris, sparking fire",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774863902.013139,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Fire breaks out at Haifa oil refinery after Iran, Hezbollah launch missiles at north",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
