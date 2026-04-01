@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1775054702.4190044,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Israel strikes drug factory in Iran, says it made fentanyl for chemical weapons R&D",
+    "trigger": "airstrike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775054702.4190044,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Slain soldier considered missing since 1948 found in mass grave in north — IDF",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775040301.9644556,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -157,24 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "8 lightly hurt by cluster bomb in central Israel as Iranian attacks persist across region",
-    "trigger": "drone strike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774946702.0993357,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Four soldiers killed, 2 wounded in south Lebanon clash with Hezbollah",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774939502.366052,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Seizing Kharg Island would risk US troops and may not end Iran war, experts say",
     "trigger": "drone strike",
     "score": 72,
     "cf": 0.8
