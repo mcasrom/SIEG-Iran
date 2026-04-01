@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775004302.3183,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Trump: No deal needed to end the war, Iran won’t be able to obtain a nuke ‘for years’",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775000702.6392245,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "FBI: Armed man who rammed pickup into Michigan synagogue was inspired by Hezbollah",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774899902.381501,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Moshe Yitzchak Katz, Israeli-US soldier killed in Lebanon, laid to rest in Jerusalem",
-    "trigger": "killed in",
     "score": 72,
     "cf": 0.8
   }
