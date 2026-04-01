@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775040301.9644556,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Trump says he’s seriously weighing bolting NATO after it failed to join Iran war",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775033102.8372076,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Seizing Kharg Island would risk US troops and may not end Iran war, experts say",
     "trigger": "drone strike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774932302.3199656,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Alleged Mossad spy escapes Hezbollah detention thanks to IDF strike in Beirut — report",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
