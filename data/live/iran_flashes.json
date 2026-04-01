@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775018702.6520755,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Yemen’s Iran-backed Houthis fire missile at southern Israel; no injuries reported",
+    "trigger": "weaponize",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775015102.7413971,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Lebanon asks Ukraine for alleged Mossad spy who escaped Hezbollah detention in Beirut",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774925102.8121116,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "3 UN observers killed within 24 hours in south Lebanon; IDF says it’s investigating",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
