@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775058302.6801503,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Top Hezbollah commander killed in Beirut as IDF presses deeper into Lebanon",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775054702.4190044,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "air strike",
     "score": 72,
     "cf": 0.9
-  },
-  {
-    "ts": 1774961102.326894,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "8 lightly hurt by cluster bomb in central Israel as Iranian attacks persist across region",
-    "trigger": "drone strike",
-    "score": 72,
-    "cf": 0.8
   }
 ]
