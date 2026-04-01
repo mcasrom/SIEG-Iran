@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1775033102.8372076,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "UAE said pushing for military op to reopen Strait of Hormuz, is willing to take part",
+    "trigger": "un security council",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775033102.8372076,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Funerals held for 3 of the 4 soldiers killed fighting Hezbollah in southern Lebanon",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775018702.6520755,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -157,24 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Alleged Mossad spy escapes Hezbollah detention thanks to IDF strike in Beirut — report",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774932302.3199656,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Four soldiers killed, 2 wounded in south Lebanon clash with Hezbollah — IDF",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774928702.7149453,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Lebanon asks Ukraine for alleged Mossad spy who escaped Hezbollah detention in Beirut",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
