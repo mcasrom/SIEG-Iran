@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775015102.7413971,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Sirens sound in south as Yemen’s Iran-backed Houthis launch missile attack on Israel",
+    "trigger": "weaponize",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775007902.5768695,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "3 UN observers killed within 24 hours in south Lebanon; IDF says it’s investigating",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774914302.6945941,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Facing a resurgent Hezbollah, Israel slouches back to a security zone in Lebanon",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
