@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775069102.402223,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran, Hezbollah launch attacks as Israelis host Passover Seders, sending millions to shelters",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775065502.5487163,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -169,14 +178,5 @@
     "trigger": "rocket attack",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1774968302.6415563,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Two Indonesian UN peacekeepers killed in explosion in Lebanon Initial findings suggest a roadside explosion struck their convoy, the UN's pe",
-    "trigger": "killed in",
-    "score": 65,
-    "cf": 0.9
   }
 ]
