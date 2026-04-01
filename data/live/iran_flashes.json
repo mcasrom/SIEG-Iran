@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775076302.510734,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Fourth soldier killed in southern Lebanon clash on Monday laid to rest in Modiin",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775072702.6422694,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.9
-  },
-  {
-    "ts": 1774968302.6415563,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iranian media says desalination plant on Gulf island non-functional after airstrikes",
-    "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
   }
 ]
