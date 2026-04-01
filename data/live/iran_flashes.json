@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775007902.5768695,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "After factory strike, IDF says Iran trying to weaponize opioid at least 50x stronger than heroin",
+    "trigger": "weaponize",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775004302.3183,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Facing a resurgent Hezbollah, Israel slouches back to a security zone in Lebanon",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774910702.6860876,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "FBI: Armed man who rammed pickup into Michigan synagogue was inspired by Hezbollah",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
