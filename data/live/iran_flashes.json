@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775155502.9008071,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah fires some 130 rockets at north on Passover; 4 lightly injured",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775151902.5688353,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "UAE said pushing for military op to reopen Strait of Hormuz, is willing to take part",
     "trigger": "un security council",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775033102.8372076,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Funerals held for 3 of the 4 soldiers killed fighting Hezbollah in southern Lebanon",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
