@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775169901.965301,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Rights group head warns of ‘alarming’ risk of long-term mass displacement in Lebanon",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775162702.246106,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Israel strikes drug factory in Iran, says it made fentanyl for chemical weapons R&D",
     "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775054702.4190044,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Slain soldier considered missing since 1948 found in mass grave in north — IDF",
-    "trigger": "killed in",
     "score": 72,
     "cf": 0.8
   }
