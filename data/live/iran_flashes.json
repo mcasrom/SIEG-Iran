@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775144702.8622954,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Tehran vows ‘crushing’ blows to US after Trump threats to send Iran to ‘stone age’",
+    "trigger": "iran launches",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775133902.58611,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Sirens sound in south as Yemen’s Iran-backed Houthis launch missile attack on Israel",
-    "trigger": "weaponize",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775007902.5768695,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "After factory strike, IDF says Iran trying to weaponize opioid at least 50x stronger than heroin",
     "trigger": "weaponize",
     "score": 72,
     "cf": 0.8
