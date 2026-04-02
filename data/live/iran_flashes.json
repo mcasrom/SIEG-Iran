@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1775115902.269139,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "After Trump threats, Iran’s military vows ‘crushing’ attacks until US, Israel ‘surrender’",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775115902.269139,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends Defence Minister Israel Katz also says houses i",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1775112302.6897204,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -157,24 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Funerals held for 3 of the soldiers killed fighting Hezbollah in southern Lebanon",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1774993502.3264837,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "US journalist Shelly Kittleson kidnapped in Baghdad The US state department says a suspect in her abduction has ties to an Iran-backed milit",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.9
-  },
-  {
-    "ts": 1774986302.1189432,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "UN probe shows roadside blast killed 2 UNIFIL troops; IDF: Hezbollah planted bombs",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
