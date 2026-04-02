@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775151902.5688353,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah fires some 130 rockets at north on 1st day of Passover; 4 lightly injured",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775148302.6724498,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Funerals held for 3 of the 4 soldiers killed fighting Hezbollah in southern Lebanon",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775018702.6520755,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Yemen’s Iran-backed Houthis fire missile at southern Israel; no injuries reported",
-    "trigger": "weaponize",
     "score": 72,
     "cf": 0.8
   }
