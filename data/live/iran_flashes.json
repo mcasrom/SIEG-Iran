@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775133902.58611,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah fires around 80 rockets at north on 1st day of Passover; 2 lightly injured",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775119502.784641,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "After factory strike, IDF says Iran trying to weaponize opioid at least 50x stronger than heroin",
     "trigger": "weaponize",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775004302.3183,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump: No deal needed to end the war, Iran won’t be able to obtain a nuke ‘for years’",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
