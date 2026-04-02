@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775148302.6724498,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Tehran vows ‘crushing’ blows to US after Trump threatens to send Iran to ‘stone age’",
+    "trigger": "iran launches",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775144702.8622954,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Yemen’s Iran-backed Houthis fire missile at southern Israel; no injuries reported",
-    "trigger": "weaponize",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775015102.7413971,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Sirens sound in south as Yemen’s Iran-backed Houthis launch missile attack on Israel",
     "trigger": "weaponize",
     "score": 72,
     "cf": 0.8
