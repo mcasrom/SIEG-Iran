@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1775119502.784641,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "2 lightly wounded as Hezbollah fires barrages of over 50 rockets at northern Israel",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775119502.784641,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "US journalist Shelly Kittleson kidnapped in Baghdad The US state department says a suspect in her abduction has ties to an Iran-backed milit",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1775115902.269139,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -157,24 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Trump: No deal needed to end the war, Iran won’t be able to obtain a nuke ‘for years’",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775000702.6392245,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Lapid: Netanyahu incapable of reaching victory, is dismantling Israel from within",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775000702.6392245,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Funerals held for 3 of the soldiers killed fighting Hezbollah in southern Lebanon",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
