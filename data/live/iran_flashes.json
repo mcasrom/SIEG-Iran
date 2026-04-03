@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1775209502.2073374,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF official says disarming Hezbollah unrealistic, not a goal of Lebanon operation",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775209502.2073374,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "One lightly hurt by cluster bomb impact in Kiryat Ata during Iranian attack on northern Israel",
+    "trigger": "fighter jet",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775205902.7324414,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "Iran, Hezbollah launch attacks as Israelis host Passover Seders, sending millions to shelters",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775065502.5487163,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Iran using children in security roles in war, reports and witnesses say An 11-year-old is reported to have been killed in an air strike whil",
-    "trigger": "air strike",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1775061901.9716206,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran fires largest missile barrage in weeks as Israelis set to sit down for Passover Seder",
-    "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
   }
