@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775205902.7324414,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Disarming Hezbollah no longer a ‘required goal’ of Lebanon operation, IDF official says",
+    "trigger": "fighter jet",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775198702.0196795,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Iran fires largest missile barrage in weeks as Israelis set to sit down for Passover Seder",
     "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775058302.6801503,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Top Hezbollah commander killed in Beirut as IDF presses deeper into Lebanon",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
