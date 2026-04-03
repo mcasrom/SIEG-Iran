@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775198702.0196795,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "US intelligence said to assess around half of Iran’s missile launchers are still intact",
+    "trigger": "fighter jet",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775169901.965301,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Top Hezbollah commander killed in Beirut as IDF presses deeper into Lebanon",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775054702.4190044,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Israel strikes drug factory in Iran, says it made fentanyl for chemical weapons R&D",
-    "trigger": "airstrike",
     "score": 72,
     "cf": 0.8
   }
