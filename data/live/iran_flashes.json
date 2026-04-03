@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775238302.4823244,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Crew member rescued after US fighter jet downed over Iran, US media reports Iranian media reports a reward is being offered for finding a US",
+    "trigger": "fighter jet",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
     "ts": 1775231102.8144872,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.9
-  },
-  {
-    "ts": 1775076302.510734,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Fourth soldier killed in southern Lebanon clash on Monday laid to rest in Modiin",
-    "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
   }
 ]
