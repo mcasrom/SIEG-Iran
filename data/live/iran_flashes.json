@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775231102.8144872,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "In Lebanon, displaced Shiites feared over potential Hezbollah ties amid IDF strikes",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775227502.8260162,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Fourth soldier killed in southern Lebanon clash on Monday laid to rest in Modiin",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775072702.6422694,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump claims Iran wants truce, but set to say war will last 2-3 more weeks",
-    "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
   }
