@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775227502.8260162,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran fires multiple cluster munitions at Israel, wounding 1; Tehran claims to down US jet",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775209502.2073374,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Trump claims Iran wants truce, but set to say war will last 2-3 more weeks",
     "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775069102.402223,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran, Hezbollah launch attacks as Israelis host Passover Seders, sending millions to shelters",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
