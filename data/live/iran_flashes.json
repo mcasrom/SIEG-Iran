@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775288702.214467,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "How does a fighter pilot survive being shot down in enemy territory?",
+    "trigger": "shot down",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775274302.0082252,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Hezbollah fires some 130 rockets at north on Passover; 4 lightly injured",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775151902.5688353,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah fires some 130 rockets at north on 1st day of Passover; 4 lightly injured",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
