@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775263502.3989873,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Regional effort to broker ceasefire between US and Iran reportedly hits dead end",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775252702.4623785,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Tehran vows ‘crushing’ blows to US after Trump threats to send Iran to ‘stone age’",
     "trigger": "iran launches",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775133902.58611,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah fires around 80 rockets at north on 1st day of Passover; 2 lightly injured",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
