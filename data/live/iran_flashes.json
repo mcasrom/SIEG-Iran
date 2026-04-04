@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775331902.5110226,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "What we know so far about the US fighter jet shot down over Iran The pilot of the downed jet has been safely rescued, but a search and rescu",
+    "trigger": "shot down",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
     "ts": 1775317502.3707464,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1775162702.246106,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran's two largest steel plants shut down due to air strikes, companies say The strikes, which Iran says were first launched by Israel in co",
-    "trigger": "air strike",
-    "score": 72,
-    "cf": 0.9
   }
 ]
