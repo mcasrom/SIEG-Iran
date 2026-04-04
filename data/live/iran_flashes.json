@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775317502.3707464,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Russia said coordinating with IDF on evacuation of workers from Iran nuclear plant",
+    "trigger": "evacuation",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775288702.214467,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "air strike",
     "score": 72,
     "cf": 0.9
-  },
-  {
-    "ts": 1775155502.9008071,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah fires some 130 rockets at north on Passover; 4 lightly injured",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
