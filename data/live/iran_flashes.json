@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775335502.1752784,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Iran's two largest steel plants shut down due to air strikes, companies say The strikes, which Iran says were first launched by Israel in co",
+    "trigger": "air strike",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1775331902.5110226,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Rights group head warns of ‘alarming’ risk of long-term mass displacement in Lebanon",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775162702.246106,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Israel comes under repeated missile fire on Passover as Tehran vows ‘crushing’ blows",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
