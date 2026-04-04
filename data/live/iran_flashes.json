@@ -169,14 +169,5 @@
     "trigger": "fighter jet",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1775169901.965301,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Rights group head warns of ‘alarming’ risk of long-term mass displacement in Lebanon",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
