@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775274302.0082252,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF extends time reservists must serve this year, amid Iran and Hezbollah wars",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775267102.0285802,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Hezbollah fires some 130 rockets at north on 1st day of Passover; 4 lightly injured",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775148302.6724498,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Tehran vows ‘crushing’ blows to US after Trump threatens to send Iran to ‘stone age’",
-    "trigger": "iran launches",
     "score": 72,
     "cf": 0.8
   }
