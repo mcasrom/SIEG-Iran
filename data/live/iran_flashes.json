@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775267102.0285802,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah attacks damage homes in north; IDF said to destroy east Lebanon bridge",
+    "trigger": "airstrike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775263502.3989873,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Tehran vows ‘crushing’ blows to US after Trump threatens to send Iran to ‘stone age’",
-    "trigger": "iran launches",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775144702.8622954,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Tehran vows ‘crushing’ blows to US after Trump threats to send Iran to ‘stone age’",
     "trigger": "iran launches",
     "score": 72,
     "cf": 0.8
