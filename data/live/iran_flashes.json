@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775353502.2762916,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF Northern Command chief admits Israel overestimated damage to Hezbollah after 2024 war",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775335502.1752784,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
