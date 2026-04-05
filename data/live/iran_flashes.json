@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775375102.1450412,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "What we know so far about rescue of US airman in Iran The US has rescued the missing crew member of the US F-15 fighter jet which was shot d",
+    "trigger": "shot down",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1775364302.1677368,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "One lightly hurt by cluster bomb impact in Kiryat Ata during Iranian attack on northern Israel",
-    "trigger": "fighter jet",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775205902.7324414,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Disarming Hezbollah no longer a ‘required goal’ of Lebanon operation, IDF official says",
     "trigger": "fighter jet",
     "score": 72,
     "cf": 0.8
