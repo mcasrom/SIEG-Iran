@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775429102.9127595,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Israeli air strike hits crowd in Gaza City Several Palestinians were rushed to hospital with severe injuries after an Israeli air strike hit",
+    "trigger": "air strike",
+    "score": 65,
+    "cf": 0.7
+  },
+  {
     "ts": 1775425503.0166297,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
