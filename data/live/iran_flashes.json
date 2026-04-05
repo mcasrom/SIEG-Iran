@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775378702.2009118,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Second US airman from downed fighter jet rescued in commando raid inside Iran",
+    "trigger": "fighter jet",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775375102.1450412,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF official says disarming Hezbollah unrealistic, not a goal of Lebanon operation",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775209502.2073374,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "One lightly hurt by cluster bomb impact in Kiryat Ata during Iranian attack on northern Israel",
-    "trigger": "fighter jet",
     "score": 72,
     "cf": 0.8
   }
