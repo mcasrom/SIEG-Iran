@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775385902.2569387,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah appears to step up fire on north as Israeli strikes target Beirut stronghold",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775378702.2009118,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
