@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775364302.1677368,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Second American crewman from downed fighter jet rescued in commando raid inside Iran",
+    "trigger": "fighter jet",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775353502.2762916,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Disarming Hezbollah no longer a ‘required goal’ of Lebanon operation, IDF official says",
-    "trigger": "fighter jet",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775198702.0196795,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "US intelligence said to assess around half of Iran’s missile launchers are still intact",
     "trigger": "fighter jet",
     "score": 72,
     "cf": 0.8
