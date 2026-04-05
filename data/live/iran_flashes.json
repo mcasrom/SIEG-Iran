@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775393102.6554422,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Daily Briefing April 5 – IDF soldiers absorb Hezbollah rockets in Lebanon push",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775389501.9641016,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "fighter jet",
     "score": 72,
     "cf": 0.9
-  },
-  {
-    "ts": 1775231102.8144872,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "In Lebanon, displaced Shiites feared over potential Hezbollah ties amid IDF strikes",
-    "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
   }
 ]
