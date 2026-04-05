@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775425503.0166297,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "US warns its citizens to leave Lebanon citing escalating security risks The advisory follows recent military developments, including a US je",
+    "trigger": "shot down",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1775421902.3353696,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +169,5 @@
     "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1775252702.4623785,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "3 UNIFIL peacekeepers hurt in south Lebanon blast; IDF blames Hezbollah rocket",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775252702.4623785,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "US warns its citizens to leave Lebanon citing escalating security risks The advisory follows recent military developments, including a US je",
-    "trigger": "shot down",
-    "score": 65,
-    "cf": 0.9
   }
 ]
