@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1775511902.2357051,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Netanyahu said to ask Trump not to move forward with Iran ceasefire at this stage",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775511902.2357051,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Israeli air strike kills at least 10 Palestinians near Gaza school Drones are reported to have fired missiles into an area near Maghazi refu",
+    "trigger": "air strike",
+    "score": 65,
+    "cf": 0.7
+  },
+  {
     "ts": 1775508302.436429,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -160,23 +178,5 @@
     "trigger": "fighter jet",
     "score": 72,
     "cf": 0.9
-  },
-  {
-    "ts": 1775447102.0437777,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Iran war live: Tehran rejects Trump’s Hormuz deadline; 2 killed in Haifa Iranian officials dismiss Trump&#039;s ultimatum, condemn latest th",
-    "trigger": "killed in",
-    "score": 65,
-    "cf": 0.7
-  },
-  {
-    "ts": 1775439902.5639017,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Search presses into night for 4 feared buried under Haifa building struck by missile",
-    "trigger": "iran fires",
-    "score": 72,
-    "cf": 0.8
   }
 ]
