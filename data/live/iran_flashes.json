@@ -1,5 +1,32 @@
 [
   {
+    "ts": 1775475902.6947966,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Man from Bedouin town Segev Shalom stabbed to death in nearby Ofakim; 5 arrested",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775475902.6947966,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Pakistan offers two-stage truce plan to end US-Israel war: Report Iran, while still reviewing the proposal, has said that it won&#039;t reop",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.7
+  },
+  {
+    "ts": 1775475902.6947966,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Trump’s ‘Bridge Day’ threat: Can a last-ditch ceasefire plan work? Mediators Pakistan, Turkiye and Egypt are proposing a 45-day ceasefire pl",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.7
+  },
+  {
     "ts": 1775472302.9618292,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -149,33 +176,6 @@
     "icono": "⚔️",
     "titulo": "Hezbollah appears to step up fire on north as Israeli strikes target Beirut stronghold",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775378702.2009118,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Second US airman from downed fighter jet rescued in commando raid inside Iran",
-    "trigger": "fighter jet",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775375102.1450412,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "What we know so far about rescue of US airman in Iran The US has rescued the missing crew member of the US F-15 fighter jet which was shot d",
-    "trigger": "shot down",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1775364302.1677368,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Second American crewman from downed fighter jet rescued in commando raid inside Iran",
-    "trigger": "fighter jet",
     "score": 72,
     "cf": 0.8
   }
