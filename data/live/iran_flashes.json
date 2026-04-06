@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1775508302.436429,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "US warns its citizens to leave Lebanon citing escalating security risks The advisory follows recent military developments, including a US je",
+    "trigger": "shot down",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
+    "ts": 1775508302.436429,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Lebanon’s Hezbollah and Yemen’s Houthis join Iran in strike on Israel The Houthis in Yemen say they attacked Israel alongside their backers ",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.7
+  },
+  {
     "ts": 1775504702.2677004,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -160,23 +178,5 @@
     "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1775436302.3040671,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Lebanon’s Christians mark Easter by praying for southern villages hit by war",
-    "trigger": "fighter jet",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775429102.9127595,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Israeli air strike hits crowd in Gaza City Several Palestinians were rushed to hospital with severe injuries after an Israeli air strike hit",
-    "trigger": "air strike",
-    "score": 65,
-    "cf": 0.7
   }
 ]
