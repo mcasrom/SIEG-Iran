@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775447102.0437777,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Iran war live: Tehran rejects Trump’s Hormuz deadline; 2 killed in Haifa Iranian officials dismiss Trump&#039;s ultimatum, condemn latest th",
+    "trigger": "killed in",
+    "score": 65,
+    "cf": 0.7
+  },
+  {
     "ts": 1775439902.5639017,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "How does a fighter pilot survive being shot down in enemy territory?",
     "trigger": "shot down",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775274302.0082252,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF extends time reservists must serve this year, amid Iran and Hezbollah wars",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
