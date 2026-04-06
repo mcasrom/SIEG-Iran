@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775436302.3040671,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Lebanon’s Christians mark Easter by praying for southern villages hit by war",
+    "trigger": "fighter jet",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775429102.9127595,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Hezbollah attacks damage homes in north; IDF said to destroy east Lebanon bridge",
     "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775263502.3989873,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Regional effort to broker ceasefire between US and Iran reportedly hits dead end",
-    "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
   }
