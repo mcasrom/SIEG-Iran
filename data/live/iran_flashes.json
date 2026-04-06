@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775501102.1346507,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Israel launches fresh strikes in Beirut as Hezbollah faces homegrown anger over new war",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775486701.9652293,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "shot down",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1775421902.3353696,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "4 injured, 4 feared trapped under rubble in Iranian missile strike on Haifa building",
-    "trigger": "missile strike",
-    "score": 72,
-    "cf": 0.8
   }
 ]
