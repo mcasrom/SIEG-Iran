@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775461502.668382,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "How the CIA Helped Locate a Missing Airman After Iran Downed a U.S. Fighter Jet The intelligence agency also executed a deception campaign a",
+    "trigger": "fighter jet",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
     "ts": 1775447102.0437777,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Russia said coordinating with IDF on evacuation of workers from Iran nuclear plant",
     "trigger": "evacuation",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775288702.214467,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "How does a fighter pilot survive being shot down in enemy territory?",
-    "trigger": "shot down",
     "score": 72,
     "cf": 0.8
   }
