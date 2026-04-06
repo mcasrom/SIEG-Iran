@@ -1,5 +1,32 @@
 [
   {
+    "ts": 1775472302.9618292,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran’s Revolutionary Guards intel chief killed in Israeli airstrike in Tehran",
+    "trigger": "airstrike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775472302.9618292,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Yemen’s civilians fear fallout after Houthis enter Iran war Fears of air strikes and rising prices dominate everyday life in Sanaa as Yemen ",
+    "trigger": "air strike",
+    "score": 65,
+    "cf": 0.7
+  },
+  {
+    "ts": 1775472302.9618292,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Iran war live: Tehran says response to ceasefire proposals formulated Iran says no direct talks during escalating US-Israeli attacks as Trum",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.7
+  },
+  {
     "ts": 1775465101.986057,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -151,32 +178,5 @@
     "trigger": "fighter jet",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1775353502.2762916,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF Northern Command chief admits Israel overestimated damage to Hezbollah after 2024 war",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775335502.1752784,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Iran's two largest steel plants shut down due to air strikes, companies say The strikes, which Iran says were first launched by Israel in co",
-    "trigger": "air strike",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1775331902.5110226,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "What we know so far about the US fighter jet shot down over Iran The pilot of the downed jet has been safely rescued, but a search and rescu",
-    "trigger": "shot down",
-    "score": 72,
-    "cf": 0.9
   }
 ]
