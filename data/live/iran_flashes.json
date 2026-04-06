@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775504702.2677004,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say The Israeli strikes reportedly targeted Hamas",
+    "trigger": "killed in",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1775501102.1346507,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "air strike",
     "score": 65,
     "cf": 0.7
-  },
-  {
-    "ts": 1775425503.0166297,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "US warns its citizens to leave Lebanon citing escalating security risks The advisory follows recent military developments, including a US je",
-    "trigger": "shot down",
-    "score": 65,
-    "cf": 0.9
   }
 ]
