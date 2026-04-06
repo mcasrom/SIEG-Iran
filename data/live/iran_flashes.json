@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775439902.5639017,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Search presses into night for 4 feared buried under Haifa building struck by missile",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775436302.3040671,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF extends time reservists must serve this year, amid Iran and Hezbollah wars",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775267102.0285802,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah attacks damage homes in north; IDF said to destroy east Lebanon bridge",
-    "trigger": "airstrike",
     "score": 72,
     "cf": 0.8
   }
