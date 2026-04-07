@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775598302.5880706,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "US journalist Shelly Kittleson to be released after kidnap in Iraq, militia says Kataib Hezbollah says the release comes on condition that s",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
     "ts": 1775594702.52784,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Israel launches fresh strikes in Beirut as Hezbollah faces homegrown anger over new war",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775486701.9652293,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran says won’t open Hormuz for temporary truce after Pakistan proposes 45-day ceasefire",
-    "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
   }
