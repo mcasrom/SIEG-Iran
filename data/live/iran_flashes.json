@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775562301.975976,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Palestine weekly wrap: Protests sweep West Bank after death penalty law Israeli strikes on Gaza escalate with children among the injured and",
+    "trigger": "killed in",
+    "score": 65,
+    "cf": 0.7
+  },
+  {
     "ts": 1775558702.2410533,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -166,15 +175,6 @@
     "vector": "Proxies_Regionales",
     "icono": "🕸",
     "titulo": "Pakistan offers two-stage truce plan to end US-Israel war: Report Iran, while still reviewing the proposal, has said that it won&#039;t reop",
-    "trigger": "ceasefire",
-    "score": 65,
-    "cf": 0.7
-  },
-  {
-    "ts": 1775475902.6947966,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Trump’s ‘Bridge Day’ threat: Can a last-ditch ceasefire plan work? Mediators Pakistan, Turkiye and Egypt are proposing a 45-day ceasefire pl",
     "trigger": "ceasefire",
     "score": 65,
     "cf": 0.7
