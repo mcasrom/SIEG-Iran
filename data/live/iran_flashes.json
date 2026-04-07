@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775558702.2410533,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Ukraine, Russia kill three civilians each in tit-for-tat drone attacks Drone attacks killed civilians in Russia and Ukraine, a day after Zel",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.7
+  },
+  {
     "ts": 1775547902.648837,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "ceasefire",
     "score": 65,
     "cf": 0.7
-  },
-  {
-    "ts": 1775472302.9618292,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran’s Revolutionary Guards intel chief killed in Israeli airstrike in Tehran",
-    "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
   }
 ]
