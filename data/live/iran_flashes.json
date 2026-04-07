@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775605502.164302,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Trump: US to ‘suspend bombing’ of Iran for 2 weeks as talks held on ‘longterm peace’ deal",
+    "trigger": "iran fires",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775601902.8642237,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 65,
     "cf": 0.7
-  },
-  {
-    "ts": 1775504702.2677004,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say The Israeli strikes reportedly targeted Hamas",
-    "trigger": "killed in",
-    "score": 65,
-    "cf": 0.9
   }
 ]
