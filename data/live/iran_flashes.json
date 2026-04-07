@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1775537102.3922575,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Mojtaba Khamenei being treated for ‘severe’ condition in Qom, unable to govern Iran — report",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775537102.3922575,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "‘Why would Iran agree to a ceasefire given US and Israeli track record?’ Political analyst Trita Parsi says no one should be surprised that ",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.7
+  },
+  {
     "ts": 1775522702.4509614,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "air strike",
     "score": 65,
     "cf": 0.7
-  },
-  {
-    "ts": 1775472302.9618292,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Iran war live: Tehran says response to ceasefire proposals formulated Iran says no direct talks during escalating US-Israeli attacks as Trum",
-    "trigger": "ceasefire",
-    "score": 65,
-    "cf": 0.7
-  },
-  {
-    "ts": 1775465101.986057,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran’s Revoutionary Guards intel chief killed in Israeli airstrike in Tehran",
-    "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
   }
 ]
