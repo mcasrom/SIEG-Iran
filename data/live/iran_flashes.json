@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1775573102.6746159,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran claims Tehran synagogue badly damaged in Israeli airstrike; Israeli official: We don’t target synagogues",
+    "trigger": "airstrike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775573102.6746159,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "WHO suspends Gaza medical evacuations after contractor killed by Israeli troops Israel's military says troops fired at a vehicle driven by t",
+    "trigger": "evacuation",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
     "ts": 1775569501.9719422,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "drone strike",
     "score": 65,
     "cf": 0.7
-  },
-  {
-    "ts": 1775483102.0863237,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "How US operation to rescue air officer from Iran unfolded President Trump says US service member whose fighter jet was shot down over Iran i",
-    "trigger": "shot down",
-    "score": 65,
-    "cf": 0.7
-  },
-  {
-    "ts": 1775479502.5546536,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iranian Intelligence Chief Killed in Overnight Attack Israel claimed responsibility for the death of Major General Seyed Majid Khademi, the ",
-    "trigger": "killed in",
-    "score": 72,
-    "cf": 0.9
   }
 ]
