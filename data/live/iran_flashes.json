@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775522702.4509614,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "UN Security Council expected to vote Tuesday on watered-down Hormuz resolution",
+    "trigger": "un security council",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775511902.2357051,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "airstrike",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1775461502.668382,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "How the CIA Helped Locate a Missing Airman After Iran Downed a U.S. Fighter Jet The intelligence agency also executed a deception campaign a",
-    "trigger": "fighter jet",
-    "score": 72,
-    "cf": 0.9
   }
 ]
