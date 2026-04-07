@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1775565902.8571827,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Gunman Killed in Shootout Near Israeli Consulate in Istanbul, Officials Say Two other armed men and two police officers were wounded in the ",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
+    "ts": 1775565902.8571827,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "What’s Iran’s 10-point peace plan that Trump says is ‘not good enough’? As US president&#039;s deadline looms, a ceasefire appears unlikely.",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.7
+  },
+  {
     "ts": 1775562301.975976,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -157,24 +175,6 @@
     "vector": "Proxies_Regionales",
     "icono": "🕸",
     "titulo": "Pakistan offers ‘two-phased’ truce deal to end US-Israel war on Iran Iran, while still reviewing the proposal, says it won&#039;t reopen Hor",
-    "trigger": "ceasefire",
-    "score": 65,
-    "cf": 0.7
-  },
-  {
-    "ts": 1775475902.6947966,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Man from Bedouin town Segev Shalom stabbed to death in nearby Ofakim; 5 arrested",
-    "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775475902.6947966,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Pakistan offers two-stage truce plan to end US-Israel war: Report Iran, while still reviewing the proposal, has said that it won&#039;t reop",
     "trigger": "ceasefire",
     "score": 65,
     "cf": 0.7
