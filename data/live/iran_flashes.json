@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775655902.645239,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Israel carries out large wave of air strikes across Lebanon Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bek",
+    "trigger": "air strike",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1775652302.7004242,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF says it has ‘completed deployment’ to anti-tank defensive line in south Lebanon",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775573102.6746159,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran claims Tehran synagogue badly damaged in Israeli airstrike; Israeli official: We don’t target synagogues",
-    "trigger": "airstrike",
     "score": 72,
     "cf": 0.8
   }
