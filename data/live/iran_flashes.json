@@ -1,5 +1,50 @@
 [
   {
+    "ts": 1775684702.3517327,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Report: Hungary offered Iran intel on Hezbollah pager attack by Israel",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775684702.3517327,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "School to reopen across most of Israel Thursday as wartime restrictions eased",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775684702.3517327,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "‘Everything will be worse’: Ceasefire leaves some Iranians fearful of greater crackdown",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775684702.3517327,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "At least 182 killed across Lebanon in large wave of Israeli strikes Attacks hit the southern suburbs of Beirut, southern Lebanon and the eas",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
+    "ts": 1775684702.3517327,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Israel backs US-Iran ceasefire but Netanyahu's war goals remain unfulfilled The Israeli prime minister's response to the ceasefire has been ",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1775677502.0529063,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -131,51 +176,6 @@
     "icono": "🕸",
     "titulo": "Israel strikes southern Lebanon after US-Iran ceasefire Air strikes hit the Tyre and Nabatieh areas hours after the US-Iran ceasefire was an",
     "trigger": "air strike",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1775645102.4202821,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Netanyahu backs Iran truce; opposition blames him for ‘diplomatic disaster’",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775645102.4202821,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF says no changes to Home Front guidelines yet, despite Iran ceasefire",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775637902.426037,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF says it has halted strikes in Iran, continues fighting Hezbollah in Lebanon",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775634302.7560554,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Iran ceasefire deal gives Trump a way out of war - but at a high cost The path to the two-week ceasefire with Iran may have fundamentally al",
-    "trigger": "ceasefire",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1775634302.7560554,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "What we know about the two-week ceasefire between the US and Iran",
-    "trigger": "ceasefire",
     "score": 65,
     "cf": 0.9
   }
