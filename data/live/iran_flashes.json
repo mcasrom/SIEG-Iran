@@ -1,5 +1,32 @@
 [
   {
+    "ts": 1775634302.7560554,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Iran ceasefire deal gives Trump a way out of war - but at a high cost The path to the two-week ceasefire with Iran may have fundamentally al",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
+    "ts": 1775634302.7560554,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "What we know about the two-week ceasefire between the US and Iran",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
+    "ts": 1775634302.7560554,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "How Pakistan helped secure a fragile ceasefire between the US and Iran Pakistan has a historic relationship with Iran, but an agreement was ",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1775630702.5270636,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -149,33 +176,6 @@
     "icono": "⚔️",
     "titulo": "Mojtaba Khamenei being treated in ‘severe’ condition in Qom, unable to govern Iran — report",
     "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775537102.3922575,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Mojtaba Khamenei being treated for ‘severe’ condition in Qom, unable to govern Iran — report",
-    "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775537102.3922575,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "‘Why would Iran agree to a ceasefire given US and Israeli track record?’ Political analyst Trita Parsi says no one should be surprised that ",
-    "trigger": "ceasefire",
-    "score": 65,
-    "cf": 0.7
-  },
-  {
-    "ts": 1775522702.4509614,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "UN Security Council expected to vote Tuesday on watered-down Hormuz resolution",
-    "trigger": "un security council",
     "score": 72,
     "cf": 0.8
   }
