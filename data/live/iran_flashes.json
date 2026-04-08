@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775630702.5270636,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Reports of fresh strikes in Lebanon after Iran truce; Israel orders new evacuations",
+    "trigger": "evacuation",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775623502.545722,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "UN Security Council expected to vote Tuesday on watered-down Hormuz resolution",
     "trigger": "un security council",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775511902.2357051,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Netanyahu said to ask Trump not to move forward with Iran ceasefire at this stage",
-    "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
   }
