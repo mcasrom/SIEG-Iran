@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1775666702.9504986,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Oil prices plunge, stocks surge against backdrop of Iran ceasefire",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775666702.9504986,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Ben Gurion Airport set to reopen as Israel eases flight restrictions after ceasefire",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775663102.9421172,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1775601902.8642237,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "US journalist in Iraq freed one week after she was kidnapped by Kataeb Hezbollah",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775598302.5880706,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "US journalist Shelly Kittleson to be released after kidnap in Iraq, militia says Kataib Hezbollah says the release comes on condition that s",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.9
   }
 ]
