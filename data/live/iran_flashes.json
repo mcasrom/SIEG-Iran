@@ -1,5 +1,41 @@
 [
   {
+    "ts": 1775670302.5514338,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF launches largest airstrikes yet on Hezbollah; Trump: Iran truce doesn’t cover Lebanon",
+    "trigger": "airstrike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775670302.5514338,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Bowen: Ceasefire means respite for civilians, but it might not last long Whether or not a lasting peace deal can be reached, the war and its",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
+    "ts": 1775670302.5514338,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Why ceasefire deal with US has unsettled Iran's hardliners The two-week truce opens up the prospect of direct talks with the US but has ange",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
+    "ts": 1775670302.5514338,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Iran Strait of Hormuz warning adds to shipping uncertainty Only a few vessels have crossed the strait since the US-Iran ceasefire deal, acco",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1775666702.9504986,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -140,42 +176,6 @@
     "icono": "⚔️",
     "titulo": "Reports of fresh strikes in Lebanon after Iran truce; Israel orders new evacuations",
     "trigger": "evacuation",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775623502.545722,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "US warns its citizens to leave Lebanon citing escalating security risks The advisory follows recent military developments, including a US je",
-    "trigger": "shot down",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1775619902.8946714,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump: US to ‘suspend bombing’ of Iran for 2 weeks while talks held on ‘longterm peace’ deal",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775609102.091152,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say The Israeli strikes reportedly targeted Hamas",
-    "trigger": "killed in",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1775605502.164302,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump: US to ‘suspend bombing’ of Iran for 2 weeks as talks held on ‘longterm peace’ deal",
-    "trigger": "iran fires",
     "score": 72,
     "cf": 0.8
   }
