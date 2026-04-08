@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1775648701.9246025,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Netanyahu backs Iran truce; opposition blames him for worst-ever ‘diplomatic disaster’",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775648701.9246025,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Israel strikes southern Lebanon after US-Iran ceasefire Air strikes hit the Tyre and Nabatieh areas hours after the US-Iran ceasefire was an",
+    "trigger": "air strike",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1775645102.4202821,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "idf strikes",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1775565902.8571827,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Gunman Killed in Shootout Near Israeli Consulate in Istanbul, Officials Say Two other armed men and two police officers were wounded in the ",
-    "trigger": "killed in",
-    "score": 72,
-    "cf": 0.9
-  },
-  {
-    "ts": 1775565902.8571827,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "What’s Iran’s 10-point peace plan that Trump says is ‘not good enough’? As US president&#039;s deadline looms, a ceasefire appears unlikely.",
-    "trigger": "ceasefire",
-    "score": 65,
-    "cf": 0.7
   }
 ]
