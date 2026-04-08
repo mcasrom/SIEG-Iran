@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1775652302.7004242,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "World leaders hail Iran truce as stocks rally, oil prices tumble",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775652302.7004242,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Despite ceasefire, Iran claims refinery hit, launches wave of attacks against UAE, Kuwait",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775648701.9246025,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "Iran claims Tehran synagogue badly damaged in Israeli airstrike; Israeli official: We don’t target synagogues",
     "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775573102.6746159,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "WHO suspends Gaza medical evacuations after contractor killed by Israeli troops Israel's military says troops fired at a vehicle driven by t",
-    "trigger": "evacuation",
-    "score": 72,
-    "cf": 0.9
-  },
-  {
-    "ts": 1775569501.9719422,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "US, IDF strikes hit Iranian rail and Kharg Island; Israel faces ongoing missile attacks",
-    "trigger": "idf strikes",
     "score": 72,
     "cf": 0.8
   }
