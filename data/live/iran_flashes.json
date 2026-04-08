@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775659502.6373122,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "US and Israel set out ambitious, vital war goals; as of the ceasefire, none have been achieved",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775655902.645239,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "US journalist in Iraq freed one week after kidnapping by Kataeb Hezbollah",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775580302.8146417,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF says it has ‘completed deployment’ to anti-tank defensive line in south Lebanon",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
