@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775688302.7310998,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Netanyahu says ‘finger on trigger’ to resume war at any time; Lapid accuses him of ‘strategic debacle’",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775684702.3517327,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1775648701.9246025,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Israel strikes southern Lebanon after US-Iran ceasefire Air strikes hit the Tyre and Nabatieh areas hours after the US-Iran ceasefire was an",
-    "trigger": "air strike",
-    "score": 65,
-    "cf": 0.9
   }
 ]
