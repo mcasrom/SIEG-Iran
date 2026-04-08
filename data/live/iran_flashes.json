@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775663102.9421172,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF launches largest airstrikes yet against Hezbollah, despite truce with Iran",
+    "trigger": "airstrike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775659502.6373122,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.9
-  },
-  {
-    "ts": 1775594702.52784,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "US journalist in Iraq freed one week after kidnapping by Kataeb Hezbollah",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
