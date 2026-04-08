@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1775645102.4202821,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Netanyahu backs Iran truce; opposition blames him for ‘diplomatic disaster’",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775645102.4202821,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF says no changes to Home Front guidelines yet, despite Iran ceasefire",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775637902.426037,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -157,24 +175,6 @@
     "vector": "Proxies_Regionales",
     "icono": "🕸",
     "titulo": "What’s Iran’s 10-point peace plan that Trump says is ‘not good enough’? As US president&#039;s deadline looms, a ceasefire appears unlikely.",
-    "trigger": "ceasefire",
-    "score": 65,
-    "cf": 0.7
-  },
-  {
-    "ts": 1775562301.975976,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Palestine weekly wrap: Protests sweep West Bank after death penalty law Israeli strikes on Gaza escalate with children among the injured and",
-    "trigger": "killed in",
-    "score": 65,
-    "cf": 0.7
-  },
-  {
-    "ts": 1775558702.2410533,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Ukraine, Russia kill three civilians each in tit-for-tat drone attacks Drone attacks killed civilians in Russia and Ukraine, a day after Zel",
     "trigger": "ceasefire",
     "score": 65,
     "cf": 0.7
