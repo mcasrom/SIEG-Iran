@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775720703.0028136,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Lebanese PM declares day of mourning after ‘unprecedented’ wave of IDF strikes",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775709902.9883683,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF launches largest airstrikes yet against Hezbollah, despite truce with Iran",
     "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775659502.6373122,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "US and Israel set out ambitious, vital war goals; as of the ceasefire, none have been achieved",
-    "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
   }
