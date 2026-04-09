@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775778302.127986,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah fires missile at southern city of Ashdod; debris from interception triggers sirens in Tel Aviv",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775774702.355924,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "School to reopen across most of Israel Thursday as wartime restrictions eased",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775684702.3517327,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "‘Everything will be worse’: Ceasefire leaves some Iranians fearful of greater crackdown",
-    "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
   }
