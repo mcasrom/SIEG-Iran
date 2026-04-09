@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1775695502.352142,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran media claims Hormuz closed again; maritime data shows oil tanker has been turned away",
+    "trigger": "hormuz closed",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775695502.352142,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Vance to lead US negotiators at first round of Islamabad talks with Iran on Saturday",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775688302.7310998,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "World leaders hail Iran truce as stocks rally, oil prices tumble",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775652302.7004242,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Despite ceasefire, Iran claims refinery hit, launches wave of attacks against UAE, Kuwait",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775648701.9246025,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Netanyahu backs Iran truce; opposition blames him for worst-ever ‘diplomatic disaster’",
-    "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
   }
