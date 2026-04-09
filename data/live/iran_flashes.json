@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775731502.518466,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "‘Unacceptable’: European countries slam IDF strikes on Hezbollah amid US-Iran truce",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775727902.3081994,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Oil prices plunge, stocks surge against backdrop of Iran ceasefire",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775666702.9504986,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Ben Gurion Airport set to reopen as Israel eases flight restrictions after ceasefire",
     "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
