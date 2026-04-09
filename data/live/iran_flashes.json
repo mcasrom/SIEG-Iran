@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775699102.1309292,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah claims responsibility for rocket fire on north, accuses Israel of breaching US-Iran truce",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775695502.352142,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "air strike",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1775652302.7004242,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "World leaders hail Iran truce as stocks rally, oil prices tumble",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
