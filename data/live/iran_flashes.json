@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1775763902.1696532,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Israel says peace talks with Lebanon to begin ASAP, rejects calls for truce first",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775763902.1696532,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "‘I live alone and I can’t run’: Elderly from the north turn social welfare hot potato",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775753102.0895603,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "ceasefire",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1775677502.0529063,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Netanyahu: Iran’s enriched uranium will be removed, by agreement or in resumed fighting",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775677502.0529063,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Ben Gurion Airport to fully reopen as Israel lifts flight restrictions after ceasefire",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
   }
 ]
