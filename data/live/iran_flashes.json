@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775753102.0895603,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF says it killed Hezbollah chief’s secretary as some 70 rockets fired from Lebanon",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775738702.5803342,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Ben Gurion Airport to fully reopen as Israel lifts flight restrictions after ceasefire",
     "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775670302.5514338,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF launches largest airstrikes yet on Hezbollah; Trump: Iran truce doesn’t cover Lebanon",
-    "trigger": "airstrike",
     "score": 72,
     "cf": 0.8
   }
