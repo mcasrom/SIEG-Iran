@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775771102.35099,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Israel to hold direct talks with Lebanon but no ceasefire, Netanyahu says Lebanese officials had called for a ceasefire before talks begin.",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
     "ts": 1775763902.1696532,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Proxies_Regionales",
     "icono": "🕸",
     "titulo": "At least 182 killed across Lebanon in large wave of Israeli strikes Attacks hit the southern suburbs of Beirut, southern Lebanon and the eas",
-    "trigger": "ceasefire",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1775684702.3517327,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Israel backs US-Iran ceasefire but Netanyahu's war goals remain unfulfilled The Israeli prime minister's response to the ceasefire has been ",
     "trigger": "ceasefire",
     "score": 65,
     "cf": 0.9
