@@ -1,5 +1,32 @@
 [
   {
+    "ts": 1775799902.509114,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "As ceasefire halts fighting, Iran war becomes a battlefield for votes",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775799902.509114,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah fires missile at southern port of Ashdod as IDF strikes launchers in Lebanon",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775799902.509114,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done Both sides have reason to end the war but share no common ground.",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1775789102.8873568,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -148,33 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Hezbollah claims responsibility for rocket fire on north, accuses Israel of breaching US-Iran truce",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775695502.352142,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran media claims Hormuz closed again; maritime data shows oil tanker has been turned away",
-    "trigger": "hormuz closed",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775695502.352142,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Vance to lead US negotiators at first round of Islamabad talks with Iran on Saturday",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775688302.7310998,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Netanyahu says ‘finger on trigger’ to resume war at any time; Lapid accuses him of ‘strategic debacle’",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
