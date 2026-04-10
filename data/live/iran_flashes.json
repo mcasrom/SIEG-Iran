@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775853902.2900217,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Direct Israel-Lebanon talks set for Tuesday in DC; US said pressing Israel for ceasefire",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775839502.305673,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Israel says peace talks with Lebanon to begin ASAP, rejects calls for truce first",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775763902.1696532,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "‘I live alone and I can’t run’: Elderly from the north turn social welfare hot potato",
-    "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
   }
