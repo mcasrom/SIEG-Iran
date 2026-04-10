@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1775807102.8599546,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "John Spencer: US can force open Strait of Hormuz if it decides to",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775807102.8599546,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Pakistan’s defense minister calls Israel ‘cancerous’ ahead of US-Iran talks in Islamabad",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775799902.509114,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "Lebanese PM declares day of mourning after ‘unprecedented’ wave of IDF strikes",
     "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775709902.9883683,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump threatens to renew war if Iran doesn’t comply with ‘real agreement’",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775699102.1309292,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah claims responsibility for rocket fire on north, accuses Israel of breaching US-Iran truce",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
