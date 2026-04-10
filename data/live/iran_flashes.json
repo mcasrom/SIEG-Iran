@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775817902.213066,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "With all quiet on the Iran front, Israel turns its sights on Hezbollah",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775807102.8599546,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF says it killed Hezbollah chief’s secretary as rocket fire from Lebanon persists",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775720703.0028136,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Lebanese PM declares day of mourning after ‘unprecedented’ wave of IDF strikes",
-    "trigger": "idf strikes",
     "score": 72,
     "cf": 0.8
   }
