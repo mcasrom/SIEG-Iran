@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775839502.305673,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz Israel says Lebanon is not included in the ceasefire the US agree",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1775835902.9461353,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "‘I live alone and I can’t run’: Elderly from the north turn social welfare hot potato",
     "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775753102.0895603,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF says it killed Hezbollah chief’s secretary as some 70 rockets fired from Lebanon",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
