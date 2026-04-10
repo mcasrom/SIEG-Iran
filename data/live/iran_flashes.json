@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775832302.2575982,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Wizz Air, Bluebird to resume Tel Aviv flights, while major carriers push off return",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775828702.2886736,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "🕸",
     "titulo": "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz Israel says Lebanon is not included in the ceasefire the US agree",
     "trigger": "ceasefire",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1775738702.5803342,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "BBC at the site of Israeli air strikes in Beirut At least 182 people were killed and 890 others wounded, according to the Lebanese health mi",
-    "trigger": "air strike",
     "score": 65,
     "cf": 0.9
   }
