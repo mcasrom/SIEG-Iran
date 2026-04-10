@@ -1,5 +1,32 @@
 [
   {
+    "ts": 1775828702.2886736,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Ukrainian forces shot down Shahed drones in Mideast amid Iran war, Zelensky says",
+    "trigger": "shot down",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775828702.2886736,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "With all quiet, for now, on the Iran front, Israel turns its sights on Hezbollah",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775828702.2886736,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Lebanon says ceasefire must be in place before Israel talks Lebanon will only take part in talks with Israel if a ceasefire is already in pl",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1775817902.213066,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -151,32 +178,5 @@
     "trigger": "air strike",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1775738702.5803342,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC Iran's deputy foreign minister says the US must choose be",
-    "trigger": "ceasefire",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1775731502.518466,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "‘Unacceptable’: European countries slam IDF strikes on Hezbollah amid US-Iran truce",
-    "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775727902.3081994,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF says it killed Hezbollah chief’s secretary as rocket fire from Lebanon persists",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
