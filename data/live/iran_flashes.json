@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1775835902.9461353,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "‘Anti-Israel obsession’: Israel boots Spanish representatives from Gaza ceasefire HQ",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775835902.9461353,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "High Court rules 1,000 allowed at Tel Aviv anti-government protest Saturday, 150 in Haifa",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775832302.2575982,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1775738702.5803342,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF says it killed Hezbollah chief’s secretary as dozens of rockets fired from Lebanon",
-    "trigger": "rocket attack",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775738702.5803342,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz Israel says Lebanon is not included in the ceasefire the US agree",
-    "trigger": "ceasefire",
-    "score": 65,
-    "cf": 0.9
   }
 ]
