@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775789102.8873568,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Commercial areas, tony seafront neighborhoods among parts of Beirut hit in Wednesday’s wave of strikes",
+    "trigger": "airstrike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775781902.5040896,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Netanyahu says ‘finger on trigger’ to resume war at any time; Lapid accuses him of ‘strategic debacle’",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775684702.3517327,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Report: Hungary offered Iran intel on Hezbollah pager attack by Israel",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
