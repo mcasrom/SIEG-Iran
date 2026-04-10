@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775861102.0629797,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "White House opted against announcing Iran ceasefire on TV, fearing it may not last",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775857502.3978252,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -169,14 +178,5 @@
     "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1775771102.35099,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Israel to hold direct talks with Lebanon but no ceasefire, Netanyahu says Lebanese officials had called for a ceasefire before talks begin.",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.9
   }
 ]
