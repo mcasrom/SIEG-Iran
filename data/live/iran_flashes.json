@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775875502.8769317,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "US intel said to assess Iran still has thousands of ballistic missiles, can recover launchers",
+    "trigger": "rocket attack",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775868302.665865,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Netanyahu’s Likud takes hit in polls, which show most Israelis oppose Iran ceasefire",
     "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775778302.127986,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah fires missile at southern city of Ashdod; debris from interception triggers sirens in Tel Aviv",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
