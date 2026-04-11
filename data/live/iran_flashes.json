@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775868302.665865,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Israel won’t discuss a truce with Hezbollah, envoy to US says he told Lebanese counterpart",
+    "trigger": "rocket attack",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775861102.0629797,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Hezbollah fires missile at southern city of Ashdod; debris from interception triggers sirens in Tel Aviv",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775774702.355924,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "‘I live alone and I can’t run’: Elderly from the north become social welfare hot potato",
-    "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
   }
