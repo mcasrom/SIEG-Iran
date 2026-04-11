@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775925902.0832703,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF and Hezbollah trade strikes, rockets as Israel and Lebanon gear up for direct talks",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775875502.8769317,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Commercial areas, tony seafront neighborhoods among parts of Beirut hit in Wednesday’s wave of strikes",
     "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775781902.5040896,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Netanyahu’s Likud takes hit in polls, which show most Israelis oppose Iran ceasefire",
-    "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
   }
