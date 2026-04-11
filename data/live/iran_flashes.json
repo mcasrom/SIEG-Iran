@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1775947502.4218638,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Five arrested as Syria says it foiled Hezbollah-linked plot to kill Damascus rabbi",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1775947502.4218638,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done Both sides have reason to end the war but share no common ground.",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1775943902.8193219,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "Pakistan’s defense minister calls Israel ‘cancerous’ ahead of US-Iran talks in Islamabad",
     "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775799902.509114,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "As ceasefire halts fighting, Iran war becomes a battlefield for votes",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775799902.509114,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah fires missile at southern port of Ashdod as IDF strikes launchers in Lebanon",
-    "trigger": "idf strikes",
     "score": 72,
     "cf": 0.8
   }
