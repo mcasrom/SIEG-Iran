@@ -142,14 +142,5 @@
     "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1775832302.2575982,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Wizz Air, Bluebird to resume Tel Aviv flights, while major carriers push off return",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
   }
 ]
