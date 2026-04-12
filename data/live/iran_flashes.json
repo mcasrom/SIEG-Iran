@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1775990702.781998,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "At least 11 reported killed in IDF strikes in Lebanon as Hezbollah rocket, drone fire continues",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775987102.2959075,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,14 +169,5 @@
     "trigger": "ceasefire",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1775817902.213066,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "With all quiet on the Iran front, Israel turns its sights on Hezbollah",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
