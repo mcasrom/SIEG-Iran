@@ -160,23 +160,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1775807102.8599546,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "John Spencer: US can force open Strait of Hormuz if it decides to",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775807102.8599546,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Pakistan’s defense minister calls Israel ‘cancerous’ ahead of US-Iran talks in Islamabad",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
   }
 ]
