@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1776026702.6320455,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah rocket hits remains of 1,500-year-old Byzantine church in Nahariya",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776026702.6320455,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "‘Feels like a blessing’: On Orthodox Easter, Christians flock back to the Holy Sepulchre",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776023102.475335,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "rocket attack",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1775861102.0629797,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "White House opted against announcing Iran ceasefire on TV, fearing it may not last",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775857502.3978252,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Lebanon and Israel officials to meet in US on Tuesday A senior Lebanese official earlier told the BBC that Lebanon would only take part in t",
-    "trigger": "ceasefire",
-    "score": 65,
-    "cf": 0.9
   }
 ]
