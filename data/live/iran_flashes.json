@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1776012302.6973374,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF says it raided hospital used by Hezbollah in group’s Bint Jbeil stronghold",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776012302.6973374,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz Israel says Lebanon is not included in the ceasefire the US agree",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1776008702.8452337,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -122,33 +140,6 @@
     "icono": "⚔️",
     "titulo": "Direct Israel-Lebanon talks set for Tuesday in DC; US said pressing Israel for ceasefire",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775839502.305673,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz Israel says Lebanon is not included in the ceasefire the US agree",
-    "trigger": "ceasefire",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1775835902.9461353,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "‘Anti-Israel obsession’: Israel boots Spanish representatives from Gaza ceasefire HQ",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775835902.9461353,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "High Court rules 1,000 allowed at Tel Aviv anti-government protest Saturday, 150 in Haifa",
-    "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
   }
