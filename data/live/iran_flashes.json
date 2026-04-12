@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776023102.475335,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Arab pressure reins in Hezbollah protests ahead of Israel-Lebanon talks",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776019502.3924298,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "ceasefire",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1775853902.2900217,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Direct Israel-Lebanon talks set for Tuesday in DC; US said pressing Israel for ceasefire",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
