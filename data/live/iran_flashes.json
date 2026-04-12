@@ -1,5 +1,32 @@
 [
   {
+    "ts": 1776015902.3786092,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Ceasefire? Israel’s Budget. Jewish Terrorism. - Sponsored Content",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776015902.3786092,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Revisiting Osirak: the airstrike that shocked the world - Sponsored Content",
+    "trigger": "airstrike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776015902.3786092,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF says it raided hospital used by Hezbollah in terror group’s Bint Jbeil stronghold",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776012302.6973374,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
