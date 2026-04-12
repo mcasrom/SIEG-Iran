@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776001502.8254514,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Yaakov Levitan Was Preparing a Hanukkah Celebration. Then the Attack Began. - Sponsored Content",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1775990702.781998,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -142,32 +151,5 @@
     "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1775828702.2886736,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Ukrainian forces shot down Shahed drones in Mideast amid Iran war, Zelensky says",
-    "trigger": "shot down",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775828702.2886736,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "With all quiet, for now, on the Iran front, Israel turns its sights on Hezbollah",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775828702.2886736,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Lebanon says ceasefire must be in place before Israel talks Lebanon will only take part in talks with Israel if a ceasefire is already in pl",
-    "trigger": "ceasefire",
-    "score": 65,
-    "cf": 0.9
   }
 ]
