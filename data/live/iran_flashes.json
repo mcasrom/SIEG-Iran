@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776019502.3924298,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF says Hamas terrorists who abducted, held hostages were killed in Gaza strike",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776015902.3786092,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
