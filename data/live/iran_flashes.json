@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776008702.8452337,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Several cities nix Independence Day parties due to shaky Iran truce, Hezbollah war",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776001502.8254514,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
