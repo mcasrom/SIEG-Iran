@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776033902.2365491,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah rocket hits remains of 1,500-year-old Byzantine church in northern Israel",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776030302.2693563,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF and Hezbollah trade strikes, rockets as Israel and Lebanon gear up for direct talks",
     "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775875502.8769317,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "US intel said to assess Iran still has thousands of ballistic missiles, can recover launchers",
-    "trigger": "rocket attack",
     "score": 72,
     "cf": 0.8
   }
