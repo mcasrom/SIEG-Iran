@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1776037502.3913748,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "After talks fail, IDF planning for return to war, Trump mulls strikes on Iran — reports",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776037502.3913748,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Two soldiers moderately hurt by Hezbollah rocket fire in southern Lebanon on Sunday — IDF",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776033902.2365491,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -157,24 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Several Gazans said killed in IDF strikes; soldier seriously hurt in operational accident",
-    "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775936702.0073915,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Orthodox Christian pilgrims flock to Jerusalem for Holy Fire ceremony",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775925902.0832703,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF and Hezbollah trade strikes, rockets as Israel and Lebanon gear up for direct talks",
     "trigger": "idf strikes",
     "score": 72,
     "cf": 0.8
