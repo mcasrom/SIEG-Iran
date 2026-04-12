@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776030302.2693563,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Lebanon and Israel officials to meet in US on Tuesday A senior Lebanese official earlier told the BBC that Lebanon would only take part in t",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1776026702.6320455,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "US intel said to assess Iran still has thousands of ballistic missiles, can recover launchers",
-    "trigger": "rocket attack",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775868302.665865,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Israel won’t discuss a truce with Hezbollah, envoy to US says he told Lebanese counterpart",
     "trigger": "rocket attack",
     "score": 72,
     "cf": 0.8
