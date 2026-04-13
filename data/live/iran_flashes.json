@@ -1,5 +1,32 @@
 [
   {
+    "ts": 1776073502.0777445,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "2025 toll of Diaspora Jews killed in antisemitic attacks was highest in three decades",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776073502.0777445,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF says close to capturing Hezbollah’s historic Bint Jbeil stronghold",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776073502.0777445,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done Both sides have reason to end the war but share no common ground.",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1776069902.8348632,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -149,33 +176,6 @@
     "icono": "⚔️",
     "titulo": "Yaakov Levitan Was Preparing a Hanukkah Celebration. Then the Attack Began. - Sponsored Content",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775990702.781998,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "At least 11 reported killed in IDF strikes in Lebanon as Hezbollah rocket, drone fire continues",
-    "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775987102.2959075,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "At least 11 reported killed in Israeli strikes in Lebanon; IDF says it attacked primed launcher",
-    "trigger": "shot down",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1775947502.4218638,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Five arrested as Syria says it foiled Hezbollah-linked plot to kill Damascus rabbi",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
