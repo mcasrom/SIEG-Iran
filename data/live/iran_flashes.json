@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776087901.9296734,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Netanyahu: Iran ceasefire could end at any moment, we back Trump’s blockade",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776084302.8674526,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "ceasefire",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1776008702.8452337,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Several cities nix Independence Day parties due to shaky Iran truce, Hezbollah war",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
