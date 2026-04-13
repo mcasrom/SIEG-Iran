@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776069902.8348632,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "As US military set to blockade Iranian ports, Tehran says move ‘amounts to piracy’",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776048301.9357562,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1775947502.4218638,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done Both sides have reason to end the war but share no common ground.",
-    "trigger": "ceasefire",
-    "score": 65,
-    "cf": 0.9
   }
 ]
