@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776095102.6621528,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Israel steps up strikes on Lebanon and Hezbollah attacks continue as talks loom More than 160 people have been killed since Friday in Lebano",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
     "ts": 1776087901.9296734,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1776012302.6973374,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz Israel says Lebanon is not included in the ceasefire the US agree",
-    "trigger": "ceasefire",
-    "score": 65,
-    "cf": 0.9
   }
 ]
