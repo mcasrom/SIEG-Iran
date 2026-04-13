@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776116702.7938025,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah chief demands Lebanon back out of ‘futile’ planned talks with Israel",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776105902.7196229,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Revisiting Osirak: the airstrike that shocked the world - Sponsored Content",
     "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776015902.3786092,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF says it raided hospital used by Hezbollah in terror group’s Bint Jbeil stronghold",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
