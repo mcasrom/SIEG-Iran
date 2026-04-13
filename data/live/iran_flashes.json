@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776105902.7196229,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Jewish Israelis, by large margin, support continued fighting Hezbollah; Arabs don’t",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776095102.6621528,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "IDF says it raided hospital used by Hezbollah in terror group’s Bint Jbeil stronghold",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776012302.6973374,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF says it raided hospital used by Hezbollah in group’s Bint Jbeil stronghold",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
