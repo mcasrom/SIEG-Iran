@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776048301.9357562,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "As Hormuz blockade looms, Trump says he is ‘fine’ if Iran doesn’t return to talks",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776037502.3913748,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "ceasefire",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1775943902.8193219,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Several Gazans said killed in IDF strikes; soldier seriously hurt in operational accident",
-    "trigger": "idf strikes",
-    "score": 72,
-    "cf": 0.8
   }
 ]
