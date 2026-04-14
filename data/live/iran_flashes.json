@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776145501.9975595,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Reservist Ayal Uriel Bianco killed in south Lebanon vehicle crash, IDF says",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776141902.4122412,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "ceasefire",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1776026702.6320455,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah rocket hits remains of 1,500-year-old Byzantine church in Nahariya",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
