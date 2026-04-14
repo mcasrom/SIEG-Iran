@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1776127501.9675264,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "US positions warships in region as it moves to enforce naval blockade of Iran",
+    "trigger": "warship",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776127501.9675264,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Vance: Lots of progress made in Pakistan talks, there could be ‘a grand deal’ but ball is in Iran’s court",
+    "trigger": "uranium enrichment",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776116702.7938025,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF says Hamas terrorists who abducted, held hostages were killed in Gaza strike",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776015902.3786092,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Ceasefire? Israel’s Budget. Jewish Terrorism. - Sponsored Content",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776015902.3786092,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Revisiting Osirak: the airstrike that shocked the world - Sponsored Content",
-    "trigger": "airstrike",
     "score": 72,
     "cf": 0.8
   }
