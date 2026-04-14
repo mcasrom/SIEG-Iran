@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776167102.789407,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF soldier killed as vehicle crashes in south Lebanon; 10 hurt in clash with Hezbollah",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776156302.5128338,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "As US military set to blockade Iranian ports, Tehran says move ‘amounts to piracy’",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776048301.9357562,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "As Hormuz blockade looms, Trump says he is ‘fine’ if Iran doesn’t return to talks",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
