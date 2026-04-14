@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776138302.6915731,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF announces that reservist Ayal Uriel Bianco was killed in southern Lebanon",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776131102.7994034,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "‘Feels like a blessing’: On Orthodox Easter, Christians flock back to the Holy Sepulchre",
     "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776023102.475335,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Arab pressure reins in Hezbollah protests ahead of Israel-Lebanon talks",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
