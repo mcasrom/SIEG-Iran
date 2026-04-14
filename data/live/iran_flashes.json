@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776131102.7994034,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Officials seek to temper expectations as Israel, Lebanon envoys set to hold historic meeting",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776127501.9675264,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Arab pressure reins in Hezbollah protests ahead of Israel-Lebanon talks",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776019502.3924298,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF says Hamas terrorists who abducted, held hostages were killed in Gaza strike",
-    "trigger": "killed in",
     "score": 72,
     "cf": 0.8
   }
