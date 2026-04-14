@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776177902.3236783,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "With memorial siren wailing, Israel remembers Holocaust victims in shadow of war tensions",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776170702.28666,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1776073502.0777445,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done Both sides have reason to end the war but share no common ground.",
-    "trigger": "ceasefire",
-    "score": 65,
-    "cf": 0.9
   }
 ]
