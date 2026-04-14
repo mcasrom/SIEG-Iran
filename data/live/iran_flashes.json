@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776185102.7360444,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Gaza shoe display in Amsterdam appears to appropriate Holocaust imagery ahead of Yom Hashoah",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776181502.0609744,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "These are the 20 people killed in Israel by Iranian ballistic missile attacks",
-    "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776073502.0777445,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "2025 toll of Diaspora Jews killed in antisemitic attacks was highest in three decades",
     "trigger": "killed in",
     "score": 72,
     "cf": 0.8
