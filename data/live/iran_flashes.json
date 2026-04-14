@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776181502.0609744,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "With no one to say Kaddish for many children killed in the Holocaust, a US synagogue steps up",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776177902.3236783,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "2025 toll of Diaspora Jews killed in antisemitic attacks was highest in three decades",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776073502.0777445,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF says close to capturing Hezbollah’s historic Bint Jbeil stronghold",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
