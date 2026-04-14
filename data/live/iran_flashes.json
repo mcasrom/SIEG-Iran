@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776195902.31692,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Israeli, Lebanese envoys hold historic summit in Washington to discuss peace deal",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776185102.7360444,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Netanyahu: Iran ceasefire could end at any moment, we back Trump’s blockade",
     "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776084302.8674526,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "These are the 20 people killed in Israel by Iranian ballistic missile attacks",
-    "trigger": "killed in",
     "score": 72,
     "cf": 0.8
   }
