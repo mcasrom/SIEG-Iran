@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776224702.7036598,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "‘Echoes the dark times’: Recent deadly antisemitism features heavily at March of the Living",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776221102.1652498,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1776095102.6621528,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Israel steps up strikes on Lebanon and Hezbollah attacks continue as talks loom More than 160 people have been killed since Friday in Lebano",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.9
   }
 ]
