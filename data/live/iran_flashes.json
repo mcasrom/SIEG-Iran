@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1776235501.9483964,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "The Israeli town on the frontline with Hezbollah BBC foreign correspondent Nick Beake visits Metula, an Israeli town surrounded on three sid",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
+    "ts": 1776235501.9483964,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "US blockade of Iran ports irresponsible and dangerous, China says China, the biggest buyer of Iranian oil, says the US naval blockade underm",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1776231902.090204,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "Officials seek to temper expectations as Israel, Lebanon envoys set to hold historic meeting",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776127501.9675264,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "US positions warships in region as it moves to enforce naval blockade of Iran",
-    "trigger": "warship",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776127501.9675264,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Vance: Lots of progress made in Pakistan talks, there could be ‘a grand deal’ but ball is in Iran’s court",
-    "trigger": "uranium enrichment",
     "score": 72,
     "cf": 0.8
   }
