@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776293102.7168477,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Security cabinet said to weigh one-week Lebanon ceasefire amid US pressure",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776289502.6081216,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "‘Echoes the dark times’: Recent deadly antisemitism features heavily at March of the Living",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776221102.1652498,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Israel-Lebanon talks unlikely to yield much until Iran undergoes fundamental change",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
