@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776275102.4491897,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "11 finance ministers, stung by Iran war’s economic damage, call for full ceasefire",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776267902.2226937,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "With memorial siren wailing, Israel remembers Holocaust victims in shadow of war tensions",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776170702.28666,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Daily Briefing April 14 – Lebanon and Israel get talking, with shared goal to disarm Hezbollah",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
