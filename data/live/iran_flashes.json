@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776285902.7969093,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hormuz traffic remains at a trickle as US blockade of Iranian ports appears to hold",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776282302.2193892,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Gaza shoe display in Amsterdam appears to appropriate Holocaust imagery ahead of Yom Hashoah",
-    "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776181502.0609744,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "With no one to say Kaddish for many children killed in the Holocaust, a US synagogue steps up",
     "trigger": "killed in",
     "score": 72,
     "cf": 0.8
