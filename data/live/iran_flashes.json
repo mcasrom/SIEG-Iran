@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776246302.3273668,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Trump says no need to extend Iran ceasefire, predicts ‘an amazing two days ahead’",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776239102.3731945,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Reservist Ayal Uriel Bianco killed in southern Lebanon, IDF says",
-    "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776138302.6915731,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF announces that reservist Ayal Uriel Bianco was killed in southern Lebanon",
     "trigger": "killed in",
     "score": 72,
     "cf": 0.8
