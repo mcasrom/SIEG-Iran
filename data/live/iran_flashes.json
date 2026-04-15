@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776231902.090204,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "CENTCOM says blockade of Iran ‘fully implemented,’ declares US ‘maritime superiority’ in Mideast",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776228302.22382,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Vance: Lots of progress made in Pakistan talks, there could be ‘a grand deal’ but ball is in Iran’s court",
     "trigger": "uranium enrichment",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776116702.7938025,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah chief demands Lebanon back out of ‘futile’ planned talks with Israel",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
