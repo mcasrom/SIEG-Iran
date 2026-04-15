@@ -1,5 +1,32 @@
 [
   {
+    "ts": 1776267902.2226937,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Will the ceasefire last? - Sponsored Content",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776267902.2226937,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Conflicting reactions to direct talks with Israel underscore Lebanon’s deep internal rift",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776267902.2226937,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Lebanon seeks peace, but Hezbollah needs to be convinced first The Lebanese government go into peace talks with limited influence over the g",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1776264302.5052705,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -151,32 +178,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1776167102.789407,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF soldier killed as vehicle crashes in south Lebanon; 10 hurt in clash with Hezbollah",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776156302.5128338,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF reservist killed, three injured as vehicle crashes in south Lebanon",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776156302.5128338,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Israelis war-weary but most oppose Iran ceasefire, poll suggests The vast majority did not believe Hezbollah or Iran had been severely weake",
-    "trigger": "hezbollah",
-    "score": 65,
-    "cf": 0.9
   }
 ]
