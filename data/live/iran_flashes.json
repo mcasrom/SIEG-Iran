@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1776289502.6081216,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Security cabinet said weighing one-week Lebanon ceasefire amid US pressure",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776289502.6081216,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done The BBC's chief international correspondent reports from Iran a",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1776285902.7969093,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "Israel-Lebanon talks unlikely to yield much until Iran undergoes fundamental change",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776195902.31692,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Israeli, Lebanese envoys hold historic summit in Washington to discuss peace deal",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776185102.7360444,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Gaza shoe display in Amsterdam appears to appropriate Holocaust imagery ahead of Yom Hashoah",
-    "trigger": "killed in",
     "score": 72,
     "cf": 0.8
   }
