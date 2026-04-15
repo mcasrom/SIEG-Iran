@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776282302.2193892,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Three paramedics killed in successive Israeli strikes in Lebanon, officials say Lebanon's government condemns as a \"flagrant crime\" the kill",
+    "trigger": "killed in",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1776275102.4491897,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "With no one to say Kaddish for many children killed in the Holocaust, a US synagogue steps up",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776177902.3236783,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "With memorial siren wailing, Israel remembers Holocaust victims in shadow of war tensions",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
