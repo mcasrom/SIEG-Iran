@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776329102.5441954,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Netanyahu, Lebanese president to speak today, Israeli minister says",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776325502.9490333,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Trump says no need to extend Iran ceasefire, predicts ‘an amazing two days ahead’",
     "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776239102.3731945,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran used Chinese spy satellite to target US military bases in Middle East – report",
-    "trigger": "drone strike",
     "score": 72,
     "cf": 0.8
   }
