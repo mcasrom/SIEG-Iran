@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1776383105.228702,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Senior Iran leader claims credit for truce as residents who fled Hezbollah’s Beirut stronghold start returning",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776383105.228702,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Trump-imposed truce between Israel and Hezbollah takes effect; 2 badly hurt by rocket fire hours before",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776379503.9241123,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -160,23 +178,5 @@
     "trigger": "killed in",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1776275102.4491897,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "11 finance ministers, stung by Iran war’s economic damage, call for full ceasefire",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776267902.2226937,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Will the ceasefire last? - Sponsored Content",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
   }
 ]
