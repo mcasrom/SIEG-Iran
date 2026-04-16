@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1776372302.8835032,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Full text of Israel-Lebanon 10-day ceasefire, sides aim for ‘lasting peace’",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776372302.8835032,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Opposition, northern mayors decry imposed ceasefires as Lebanon truce declared",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776357902.087304,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -157,24 +175,6 @@
     "vector": "Proxies_Regionales",
     "icono": "🕸",
     "titulo": "Lebanon seeks peace, but Hezbollah needs to be convinced first The Lebanese government go into peace talks with limited influence over the g",
-    "trigger": "hezbollah",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1776264302.5052705,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Israel boxes Paris out of Lebanon talks, halts arms buys as French disconnect grows",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776264302.5052705,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Israel and Hezbollah continue attacks after Israel-Lebanon talks in US Israel strikes hit southern Lebanon and Hezbollah fires rockets at Is",
     "trigger": "hezbollah",
     "score": 65,
     "cf": 0.9
