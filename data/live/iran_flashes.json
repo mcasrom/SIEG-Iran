@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776314702.0332017,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Trump says Israeli and Lebanese leaders will speak on Thursday",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776311102.2903461,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "ceasefire",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1776231902.090204,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "CENTCOM says blockade of Iran ‘fully implemented,’ declares US ‘maritime superiority’ in Mideast",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
   }
 ]
