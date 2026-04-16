@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776318302.4714508,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Trump says Israeli and Lebanese leaders will speak today",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776314702.0332017,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "🕸",
     "titulo": "The Israeli town on the frontline with Hezbollah BBC foreign correspondent Nick Beake visits Metula, an Israeli town surrounded on three sid",
     "trigger": "hezbollah",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1776235501.9483964,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "US blockade of Iran ports irresponsible and dangerous, China says China, the biggest buyer of Iranian oil, says the US naval blockade underm",
-    "trigger": "ceasefire",
     "score": 65,
     "cf": 0.9
   }
