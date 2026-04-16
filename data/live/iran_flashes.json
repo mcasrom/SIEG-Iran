@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776347102.320867,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Beirut said to balk as Trump pushes for 1st-ever call between leaders of Lebanon and Israel",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776343502.827922,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "One hurt as Hezbollah fires over 40 rockets at northern Israel",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776249902.8852577,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Daily Briefing April 15 — Hezbollah rockets continue to pummel Israel’s north",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
