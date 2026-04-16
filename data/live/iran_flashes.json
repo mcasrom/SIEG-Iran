@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776303902.6579528,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "US Senate nixes effort to halt arms sales to Israel, but 80% of Dems vote to block them",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776293102.7168477,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1776224702.7036598,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "‘Echoes the dark times’: Recent deadly antisemitism features heavily at March of the Living",
-    "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
   }
 ]
