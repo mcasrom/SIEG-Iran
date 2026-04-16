@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776343502.827922,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "US, Hamas reportedly hold direct talks on Gaza plan, first since ceasefire began",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776329102.5441954,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Daily Briefing April 15 — Hezbollah rockets continue to pummel Israel’s north",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776246302.3273668,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump says no need to extend Iran ceasefire, predicts ‘an amazing two days ahead’",
-    "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
   }
