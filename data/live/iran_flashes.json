@@ -1,5 +1,32 @@
 [
   {
+    "ts": 1776415508.8242238,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Syria’s Sharaa: Talks with Israel haven’t reached dead end, but it’s acting with ‘brutality’",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776415508.8242238,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "What we know about the Israel-Lebanon ceasefire A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicin",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
+    "ts": 1776415508.8242238,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done The BBC's chief international correspondent reports from Iran a",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1776411907.050665,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -148,33 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Trump says Israeli and Lebanese leaders will speak today",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776314702.0332017,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump says Israeli and Lebanese leaders will speak on Thursday",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776311102.2903461,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Security cabinet said to consider one-week Lebanon ceasefire amid US pressure",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776303902.6579528,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "US Senate nixes effort to halt arms sales to Israel, but 80% of Dems vote to block them",
     "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
