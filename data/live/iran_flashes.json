@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776386705.9727829,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "After ceasefire enters into force, Trump tells Hezbollah to ‘act nicely and well’",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776383105.228702,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1776282302.2193892,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Three paramedics killed in successive Israeli strikes in Lebanon, officials say Lebanon's government condemns as a \"flagrant crime\" the kill",
-    "trigger": "killed in",
-    "score": 65,
-    "cf": 0.9
   }
 ]
