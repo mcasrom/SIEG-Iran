@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776404707.6900833,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Ceasefire appears to hold overnight as Trump tells Hezbollah to ‘act nicely and well’",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776386705.9727829,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "ceasefire",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1776285902.7969093,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hormuz traffic remains at a trickle as US blockade of Iranian ports appears to hold",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
   }
 ]
