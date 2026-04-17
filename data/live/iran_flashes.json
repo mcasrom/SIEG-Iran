@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776426304.701207,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "No rockets but no relief: Nahariya residents see no end to war despite Lebanon ceasefire",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776422711.216809,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "US, Hamas reportedly hold direct talks on Gaza plan, first since ceasefire began",
     "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776329102.5441954,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Netanyahu, Lebanese president to speak today, Israeli minister says",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
