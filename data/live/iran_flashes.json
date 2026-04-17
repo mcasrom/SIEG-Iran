@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776422711.216809,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "As ceasefire holds, displaced Lebanese trickle home to find out what remains",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776419105.7250416,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Netanyahu, Lebanese president to speak today, Israeli minister says",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776325502.9490333,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump: Leaders of Israel, Lebanon to speak today; Lebanese source: ‘Not aware’ of planned contact",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
