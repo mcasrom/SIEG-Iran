@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776545105.4601848,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF reservist killed by Hezbollah explosive in Lebanon amid truce, 3 troops hurt",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776541506.6125832,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Ceasefire appears to hold overnight as Trump tells Hezbollah to ‘act nicely and well’",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776386705.9727829,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "After ceasefire enters into force, Trump tells Hezbollah to ‘act nicely and well’",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
