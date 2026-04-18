@@ -1,5 +1,32 @@
 [
   {
+    "ts": 1776512703.1568372,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Jewish groups urge Trump, during Iran ceasefire talks, to prioritize Americans held there",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776512703.1568372,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "A moment of risk and opportunity: How two ceasefires could boost US-Iran talks Some kind of diplomatic progress is now under way, but is it ",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
+    "ts": 1776512703.1568372,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain The halt to weeks of fighting is being celebrated in Lebanon,",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
     "ts": 1776426304.701207,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -149,33 +176,6 @@
     "icono": "⚔️",
     "titulo": "Opposition, northern mayors decry imposed ceasefires as Lebanon truce declared",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776357902.087304,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "US, Hamas reportedly hold direct talks, as Board of Peace disarmament plan stalls",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776347102.320867,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Beirut said to balk as Trump pushes for 1st-ever call between leaders of Lebanon and Israel",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776343502.827922,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "US, Hamas reportedly hold direct talks on Gaza plan, first since ceasefire began",
-    "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
   }
