@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1776537906.8619795,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Macron, UNIFIL blame Hezbollah for killing of French peacekeeper in Lebanon",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776537906.8619795,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran reimposes Hormuz closure after US maintains blockade; IRGC gunboats fire at ships",
+    "trigger": "hormuz closure",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776527108.4388096,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1776383105.228702,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump-imposed truce between Israel and Hezbollah takes effect; 2 badly hurt by rocket fire hours before",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776379503.9241123,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Lebanon seeks peace, but Hezbollah needs to be convinced first The Lebanese government go into peace talks with limited influence over the g",
-    "trigger": "hezbollah",
-    "score": 65,
-    "cf": 0.9
   }
 ]
