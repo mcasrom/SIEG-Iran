@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776555904.3002877,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Two water delivery contractors killed by Israeli forces in Gaza, UN says",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776552304.5933235,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "A week into Iran ceasefire, Israelis try to snap back as expected, but fear return to war",
     "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776411907.050665,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Ceasefire appears to hold as Trump tells Hezbollah to ‘act nicely and well’",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
