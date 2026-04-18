@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776523502.3806357,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran reimposes Hormuz closure after US maintains blockade; IRGC gunboats fire at tanker",
+    "trigger": "hormuz closure",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776512703.1568372,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Full text of Israel-Lebanon 10-day ceasefire, sides aim for ‘lasting peace’",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776372302.8835032,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Opposition, northern mayors decry imposed ceasefires as Lebanon truce declared",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
