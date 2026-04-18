@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776548710.0425663,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Strait of Hormuz closed again, Iran says, as ships attacked Tehran is blaming a US blockade for its actions, saying it breaches the ceasefir",
+    "trigger": "hormuz closed",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1776545105.4601848,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1776404707.6900833,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Ceasefire appears to hold overnight as Trump tells Hezbollah to ‘act nicely and well’",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
