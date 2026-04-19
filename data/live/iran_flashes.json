@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776609906.861539,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "A moment of risk and opportunity: How two ceasefires could boost US-Iran talks Some kind of diplomatic progress is now under way, but is it ",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
     "ts": 1776606307.282856,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF confirms strikes on Hezbollah operatives in Lebanon, in first since ceasefire",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776523502.3806357,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran reimposes Hormuz closure after US maintains blockade; IRGC gunboats fire at tanker",
-    "trigger": "hormuz closure",
     "score": 72,
     "cf": 0.8
   }
