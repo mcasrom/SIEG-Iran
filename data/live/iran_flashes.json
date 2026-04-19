@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776620705.947584,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Kiryat Shmona residents protest Lebanon ceasefire outside US embassy in Jerusalem",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776617107.2886279,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Macron, UNIFIL blame Hezbollah for killing of French peacekeeper in Lebanon",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776537906.8619795,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran reimposes Hormuz closure after US maintains blockade; IRGC gunboats fire at ships",
-    "trigger": "hormuz closure",
     "score": 72,
     "cf": 0.8
   }
