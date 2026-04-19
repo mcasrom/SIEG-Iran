@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776581107.4476411,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF reservist killed, nine wounded by explosive in southern Lebanon",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776570308.0739987,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1776415508.8242238,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "What we know about the Israel-Lebanon ceasefire A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicin",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.9
   }
 ]
