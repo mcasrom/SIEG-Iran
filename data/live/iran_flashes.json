@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776635106.3794901,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "West Bank settlement of Sa-Nur reestablished, 21 years after its evacuation",
+    "trigger": "evacuation",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776620705.947584,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hezbollah",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1776537906.8619795,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Macron, UNIFIL blame Hezbollah for killing of French peacekeeper in Lebanon",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
