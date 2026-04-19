@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776599108.1385186,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Daily Briefing Apr. 19 – 5 points of apparent failure in the Iran war",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776595508.2099156,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +169,5 @@
     "trigger": "ceasefire",
     "score": 72,
     "cf": 0.9
-  },
-  {
-    "ts": 1776426304.701207,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "No rockets but no relief: Nahariya residents see no end to war despite Lebanon ceasefire",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776422711.216809,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "As ceasefire holds, displaced Lebanese trickle home to find out what remains",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
   }
 ]
