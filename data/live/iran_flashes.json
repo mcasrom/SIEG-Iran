@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776595508.2099156,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "As ceasefire deadline looms, Iran says Trump can’t deprive it of its ‘nuclear rights’",
+    "trigger": "shot down",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776588307.1190076,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
