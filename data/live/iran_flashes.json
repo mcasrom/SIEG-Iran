@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776588307.1190076,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF reservist killed, nine wounded by explosion in southern Lebanon",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776581107.4476411,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "War-delayed marathon-less Jerusalem Marathon takes over capital amid ceasefire",
     "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776415508.8242238,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Syria’s Sharaa: Talks with Israel haven’t reached dead end, but it’s acting with ‘brutality’",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
