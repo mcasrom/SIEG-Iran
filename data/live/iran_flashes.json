@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776570308.0739987,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF reservist killed, nine others wounded by explosive in southern Lebanon",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776559504.3573794,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -168,15 +177,6 @@
     "titulo": "What we know about the Israel-Lebanon ceasefire A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicin",
     "trigger": "hezbollah",
     "score": 72,
-    "cf": 0.9
-  },
-  {
-    "ts": 1776415508.8242238,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done The BBC's chief international correspondent reports from Iran a",
-    "trigger": "ceasefire",
-    "score": 65,
     "cf": 0.9
   }
 ]
