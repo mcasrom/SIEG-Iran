@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776613506.4177434,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Syria says it foiled Hezbollah-linked cross-border attack planned from area near Israel",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776609906.861539,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Macron, UNIFIL blame Hezbollah after French peacekeeper killed in Lebanon",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776527108.4388096,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF confirms strikes on Hezbollah operatives in Lebanon, in first since ceasefire",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
