@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776667506.0364397,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF warns southern Lebanese residents not to return amid truce, hits Hezbollah rocket launcher",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776653105.4523444,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Proxies_Regionales",
     "icono": "🕸",
     "titulo": "Strait of Hormuz closed again, Iran says, as ships attacked Iran is blaming a US blockade for the closure, saying it breaches the ceasefire ",
-    "trigger": "hormuz closed",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1776548710.0425663,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Strait of Hormuz closed again, Iran says, as ships attacked Tehran is blaming a US blockade for its actions, saying it breaches the ceasefir",
     "trigger": "hormuz closed",
     "score": 65,
     "cf": 0.9
