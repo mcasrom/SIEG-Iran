@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776707104.6223671,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "New round of Israel-Lebanon talks set for Thursday as US said trying to extend truce",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776674704.1518629,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Iranian negotiator touts ‘progress’ in talks with US but says large gaps remain",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776555904.3002877,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Two water delivery contractors killed by Israeli forces in Gaza, UN says",
-    "trigger": "killed in",
     "score": 72,
     "cf": 0.8
   }
