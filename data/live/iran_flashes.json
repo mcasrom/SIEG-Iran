@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776653105.4523444,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "French peacekeeper killed in southern Lebanon President Macron blames the attack on Hezbollah. The Iran-backed armed group denies \"any conne",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
     "ts": 1776649504.856062,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "hormuz closed",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1776545105.4601848,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF reservist killed by Hezbollah explosive in Lebanon amid truce, 3 troops hurt",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
