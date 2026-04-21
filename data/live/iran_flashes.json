@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776797104.0799072,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Volunteer cook who pampers IDF troops under Hezbollah fire lights Independence Day torch",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776793504.334013,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "West Bank settlement of Sa-Nur reestablished, 21 years after its evacuation",
     "trigger": "evacuation",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776620705.947584,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Kiryat Shmona residents protest Lebanon ceasefire outside US embassy in Jerusalem",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
