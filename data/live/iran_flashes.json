@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776746704.539498,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Restrictions lifted, but war clouds put damper on Independence Day plans",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776739503.7489796,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "IDF reservist killed, nine wounded by explosion in southern Lebanon",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776581107.4476411,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF reservist killed, nine wounded by explosive in southern Lebanon",
     "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
