@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776757504.4660907,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "‘Another row of graves’: Families of slain soldiers mark Memorial Day in war’s shadow",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776746704.539498,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "As ceasefire deadline looms, Iran says Trump can’t deprive it of its ‘nuclear rights’",
     "trigger": "shot down",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776588307.1190076,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF reservist killed, nine wounded by explosion in southern Lebanon",
-    "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
   }
