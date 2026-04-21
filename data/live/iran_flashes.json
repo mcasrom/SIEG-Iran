@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776815104.8974454,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "French peacekeeper killed in southern Lebanon President Macron blames the attack on Hezbollah. The Iran-backed armed group denies \"any conne",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1776811504.8063653,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "New round of Israel-Lebanon talks set for Thursday as US said trying to extend truce",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776674704.1518629,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Pakistan intensifying diplomatic efforts to ensure US-Iran talks go ahead Tuesday",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
