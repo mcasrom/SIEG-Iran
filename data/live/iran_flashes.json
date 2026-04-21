@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1776768304.7869406,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran war creating worst energy crisis ‘in history,’ says International Energy Agency",
+    "trigger": "hormuz closure",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776768304.7869406,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Two Arab citizens, including young mother, killed in separate shootings",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776764704.5965276,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -157,24 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Daily Briefing Apr. 19 – Five points of apparent failure in the Iran war",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776602708.4304996,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump says US-Iran talks to take place Tuesday, Witkoff and Kushner heading to Pakistan",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776599108.1385186,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Daily Briefing Apr. 19 – 5 points of apparent failure in the Iran war",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
