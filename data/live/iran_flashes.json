@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776739503.7489796,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "‘Another row’: Families of slain soldiers mark Memorial Day in shadow of continued war",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776735904.0435307,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "IDF reservist killed, nine wounded by explosive in southern Lebanon",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776570308.0739987,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF reservist killed, nine others wounded by explosive in southern Lebanon",
     "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
