@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776764704.5965276,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Rachel Goldberg-Polin’s new memoir piercingly articulates the ordeal of losing a son",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776757504.4660907,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Daily Briefing Apr. 19 – 5 points of apparent failure in the Iran war",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776595508.2099156,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "As ceasefire deadline looms, Iran says Trump can’t deprive it of its ‘nuclear rights’",
-    "trigger": "shot down",
     "score": 72,
     "cf": 0.8
   }
