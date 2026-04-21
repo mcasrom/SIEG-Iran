@@ -169,14 +169,5 @@
     "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1776559504.3573794,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iranian negotiator touts ‘progress’ in talks with US but says large gaps remain",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
