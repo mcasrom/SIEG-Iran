@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776735904.0435307,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "‘Sailing over a ball of fire’: Iraqi captain keeps traversing Mideast waters amid threat of attack",
+    "trigger": "iran attacks",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776707104.6223671,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
