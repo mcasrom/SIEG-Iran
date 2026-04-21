@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1776811504.8063653,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Pakistani PM thanks Trump for agreeing to his ceasefire extension request",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776811504.8063653,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "In major about-face, Trump announces extension of Iran truce hours before deadline",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776807904.9190485,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1776667506.0364397,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF warns southern Lebanese residents not to return amid truce, hits Hezbollah rocket launcher",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776653105.4523444,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "French peacekeeper killed in southern Lebanon President Macron blames the attack on Hezbollah. The Iran-backed armed group denies \"any conne",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.9
   }
 ]
