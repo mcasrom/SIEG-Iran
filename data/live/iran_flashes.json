@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1776786304.865901,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "2 Palestinians, one of them 14, killed in alleged settler attack in West Bank",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776786304.865901,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "A moment of risk and opportunity: How two ceasefires could boost US-Iran talks Some kind of diplomatic progress is now under way, but is it ",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1776782704.207768,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -160,23 +178,5 @@
     "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1776613506.4177434,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Syria says it foiled Hezbollah-linked cross-border attack planned from area near Israel",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776609906.861539,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "A moment of risk and opportunity: How two ceasefires could boost US-Iran talks Some kind of diplomatic progress is now under way, but is it ",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.9
   }
 ]
