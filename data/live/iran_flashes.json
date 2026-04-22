@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776843904.343665,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Extension of US-Iran ceasefire gives 'breathing space' The BBC's chief international correspondent Lyse Doucet reports from Tehran as Trump ",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
     "ts": 1776840303.7995217,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "‘Another row’: Families of slain soldiers mark Memorial Day in shadow of continued war",
     "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776735904.0435307,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "‘Sailing over a ball of fire’: Iraqi captain keeps traversing Mideast waters amid threat of attack",
-    "trigger": "iran attacks",
     "score": 72,
     "cf": 0.8
   }
