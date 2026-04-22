@@ -1,5 +1,32 @@
 [
   {
+    "ts": 1776854704.415489,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Trump says Iran ‘collapsing’ over Hormuz blockade, as ships attacked in key waterway",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776854704.415489,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Daily Briefing April 22: Trump’s muddled messaging complicates talks with Iran",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776854704.415489,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Three cargo ships attacked in Strait of Hormuz after Trump extends ceasefire One of the cargo ships was 'heavily damaged' by Iranian forces,",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1776851104.938926,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -149,33 +176,6 @@
     "icono": "⚔️",
     "titulo": "Iran war creating worst energy crisis ‘in history,’ says International Energy Agency",
     "trigger": "hormuz closure",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776768304.7869406,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Two Arab citizens, including young mother, killed in separate shootings",
-    "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776764704.5965276,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Rachel Goldberg-Polin’s new memoir piercingly articulates the ordeal of losing a son",
-    "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776757504.4660907,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "‘Another row of graves’: Families of slain soldiers mark Memorial Day in war’s shadow",
-    "trigger": "killed in",
     "score": 72,
     "cf": 0.8
   }
