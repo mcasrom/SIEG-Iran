@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776897902.3196251,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Body of journalist for pro-Hezbollah paper pulled from rubble of building hit by IDF",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776879904.2231507,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Volunteer cook who pampers IDF troops under Hezbollah fire lights Independence Day torch",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776793504.334013,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF says Hezbollah breached truce, launching rockets at troops, drone at Israel",
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
