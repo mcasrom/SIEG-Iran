@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776879904.2231507,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "A moment of risk and opportunity: How two ceasefires could boost US-Iran talks Some kind of diplomatic progress is now under way, but is it ",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1776876304.0531225,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "IDF says Hezbollah breached truce, launching rockets at troops, drone at Israel",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776786304.865901,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "2 Palestinians, one of them 14, killed in alleged settler attack in West Bank",
-    "trigger": "killed in",
     "score": 72,
     "cf": 0.8
   }
