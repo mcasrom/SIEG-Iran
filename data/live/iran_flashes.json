@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776865503.6635156,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Trump says Iran ‘collapsing’ over Hormuz blockade as IRGC attacks ships in key waterway",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776861904.4600759,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "ceasefire",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1776779104.4763548,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "In bellicose Memorial Day speeches, leaders vow to keep fighting; Netanyahu heckled",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
