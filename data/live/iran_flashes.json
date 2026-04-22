@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1776851104.938926,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "As internal divisions simmer, Lebanese see echoes of last century’s civil war",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776851104.938926,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Two cargo ships attacked in Strait of Hormuz after Trump extends ceasefire One of the cargo ships was 'heavily damaged' by Iranian forces, a",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
     "ts": 1776843904.343665,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -157,24 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "‘Another row of graves’: Families of slain soldiers mark Memorial Day in war’s shadow",
-    "trigger": "killed in",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776746704.539498,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Restrictions lifted, but war clouds put damper on Independence Day plans",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776739503.7489796,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "‘Another row’: Families of slain soldiers mark Memorial Day in shadow of continued war",
     "trigger": "killed in",
     "score": 72,
     "cf": 0.8
