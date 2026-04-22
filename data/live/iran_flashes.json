@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776869104.2226107,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "A stroll through Tel Aviv on Independence Day: Amid fragile calm, a city exhales",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776865503.6635156,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -169,14 +178,5 @@
     "trigger": "bombing raid",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1776782704.207768,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain The halt to weeks of fighting is being celebrated in Lebanon,",
-    "trigger": "ceasefire",
-    "score": 65,
-    "cf": 0.9
   }
 ]
