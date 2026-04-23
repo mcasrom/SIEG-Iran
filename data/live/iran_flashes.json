@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1776944704.3142567,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Israel, Lebanon set for new round of US talks; Hezbollah fires at IDF troops again",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776944704.3142567,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran says it won’t reopen Strait of Hormuz as long as US is blockading ports",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776941104.2169409,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -158,24 +176,6 @@
     "icono": "⚔️",
     "titulo": "Daily Briefing April 22: Trump’s muddled messaging complicates talks with Iran",
     "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776854704.415489,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Three cargo ships attacked in Strait of Hormuz after Trump extends ceasefire One of the cargo ships was 'heavily damaged' by Iranian forces,",
-    "trigger": "ceasefire",
-    "score": 65,
-    "cf": 0.9
-  },
-  {
-    "ts": 1776851104.938926,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "As internal divisions simmer, Lebanese see echoes of last century’s civil war",
-    "trigger": "idf strikes",
     "score": 72,
     "cf": 0.8
   }
