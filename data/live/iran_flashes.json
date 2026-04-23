@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1776933904.7328768,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Iran says Strait of Hormuz cannot be opened due to ceasefire breaches Iran's chief negotiator says \"violations\" by the US and Israel make it",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
+    "ts": 1776933904.7328768,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "US and Iran in blockade standoff as Pakistan pushes for talks The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1776930304.288687,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -159,24 +177,6 @@
     "titulo": "Extension of US-Iran ceasefire gives 'breathing space' The BBC's chief international correspondent Lyse Doucet reports from Tehran as Trump ",
     "trigger": "ceasefire",
     "score": 72,
-    "cf": 0.9
-  },
-  {
-    "ts": 1776840303.7995217,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "After extending truce, Trump claims Iran ‘collapsing financially’ over Hormuz closure",
-    "trigger": "hormuz closure",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776815104.8974454,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "French peacekeeper killed in southern Lebanon President Macron blames the attack on Hezbollah. The Iran-backed armed group denies \"any conne",
-    "trigger": "hezbollah",
-    "score": 65,
     "cf": 0.9
   }
 ]
