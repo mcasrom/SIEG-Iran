@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1776926704.2448113,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Buried but not out, Iran’s ballistic missiles remain potent threat despite airstrikes",
+    "trigger": "airstrike",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1776926704.2448113,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Lebanon accuses Israel of targeting journalist killed in air strike Lebanon's prime minister accused Israel of war crimes after IDF attacks ",
+    "trigger": "air strike",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1776919504.5504746,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -157,24 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "In major about-face, Trump announces extension of Iran truce hours before deadline",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776807904.9190485,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF says Hezbollah breached truce by launching rockets at troops, drone at Israel",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776800704.4598367,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran undecided on talks as ceasefire enters final hours; Trump: ‘They have to negotiate’",
     "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
