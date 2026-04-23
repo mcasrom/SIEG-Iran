@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776919504.5504746,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Body of journalist for pro-Hezbollah daily pulled from rubble of home struck by IDF",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776897902.3196251,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -167,15 +176,6 @@
     "icono": "⚔️",
     "titulo": "Iran undecided on talks as ceasefire enters final hours; Trump: ‘They have to negotiate’",
     "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776797104.0799072,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Volunteer cook who pampers IDF troops under Hezbollah fire lights Independence Day torch",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
