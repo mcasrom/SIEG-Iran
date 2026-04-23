@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776966304.5984364,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran’s exiled crown prince splashed with red liquid after railing against ceasefire",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776959103.7378497,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Trump says Iran ‘collapsing’ over Hormuz blockade as it attacks ships in key waterway",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776854704.415489,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump says Iran ‘collapsing’ over Hormuz blockade, as ships attacked in key waterway",
     "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
