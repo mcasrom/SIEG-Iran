@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1776959103.7378497,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "2 IDF aircraft mechanics charged with spying for Iran, leaking fighter jet info",
+    "trigger": "fighter jet",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1776944704.3142567,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -166,15 +175,6 @@
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
     "titulo": "Trump says Iran ‘collapsing’ over Hormuz blockade, as ships attacked in key waterway",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776854704.415489,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Daily Briefing April 22: Trump’s muddled messaging complicates talks with Iran",
     "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
