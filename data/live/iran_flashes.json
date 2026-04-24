@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1777052703.8118231,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "EU agency extends warning on flights to Mideast, including Israel, through May 1",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1777020304.3093567,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
