@@ -169,14 +169,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1776897902.3196251,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Body of journalist for pro-Hezbollah paper pulled from rubble of building hit by IDF",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
