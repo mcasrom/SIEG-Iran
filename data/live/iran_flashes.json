@@ -169,14 +169,5 @@
     "trigger": "ceasefire",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1776876304.0531225,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Second French soldier dies of wounds sustained in Hezbollah attack on UN peacekeepers",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
