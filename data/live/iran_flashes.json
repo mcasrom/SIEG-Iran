@@ -160,14 +160,5 @@
     "trigger": "air strike",
     "score": 65,
     "cf": 0.9
-  },
-  {
-    "ts": 1776919504.5504746,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Body of journalist for pro-Hezbollah daily pulled from rubble of home struck by IDF",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
