@@ -97,14 +97,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1776966304.5984364,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran’s exiled crown prince splashed with red liquid after railing against ceasefire",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
   }
 ]
