@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1777103103.8760722,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Lebanon accuses Israel of targeting journalist killed in air strike Lebanon's prime minister accused Israel of war crimes after IDF attacks ",
+    "trigger": "air strike",
+    "score": 72,
+    "cf": 0.9
+  },
+  {
     "ts": 1777059904.2497005,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -142,23 +151,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1776926704.2448113,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Buried but not out, Iran’s ballistic missiles remain potent threat despite airstrikes",
-    "trigger": "airstrike",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776926704.2448113,
-    "vector": "Proxies_Regionales",
-    "icono": "🕸",
-    "titulo": "Lebanon accuses Israel of targeting journalist killed in air strike Lebanon's prime minister accused Israel of war crimes after IDF attacks ",
-    "trigger": "air strike",
-    "score": 65,
-    "cf": 0.9
   }
 ]
