@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1777131904.3081193,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah fires rockets at north, Israel hits terror targets in Lebanon amid shaky truce",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1777110303.7583566,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -86,15 +95,6 @@
     "icono": "⚔️",
     "titulo": "Iran’s exiled crown prince splashed with red liquid after railing against ceasefire",
     "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776959103.7378497,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "2 IDF aircraft mechanics charged with spying for Iran, leaking fighter jet info",
-    "trigger": "fighter jet",
     "score": 72,
     "cf": 0.8
   }
