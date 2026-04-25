@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1777160704.4584787,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "PM instructs IDF to strike Hezbollah targets ‘with force’ after repeated truce violations",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1777149904.03368,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -95,15 +104,6 @@
     "icono": "⚔️",
     "titulo": "Hezbollah fires rocket salvo at northern Israel shortly before ceasefire extended",
     "trigger": "rocket attack",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776984304.4944906,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Trump declares 3-week truce extension as Israel and Lebanon hold talks at White House",
-    "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
   }
