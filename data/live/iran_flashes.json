@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1777149904.03368,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF says Gaza strike killed Oct. 7 attacker; local officials report 13 dead in attacks",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1777135504.1674168,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
