@@ -97,23 +97,5 @@
     "trigger": "fighter jet",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1776944704.3142567,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Israel, Lebanon set for new round of US talks; Hezbollah fires at IDF troops again",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1776944704.3142567,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran says it won’t reopen Strait of Hormuz as long as US is blockading ports",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.8
   }
 ]
