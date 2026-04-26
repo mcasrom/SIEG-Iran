@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1777200304.6186385,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Daily Briefing April 26 – As both sides keep striking, is there still a Lebanon ceasefire?",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1777196704.0482364,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
