@@ -97,14 +97,5 @@
     "trigger": "air strike",
     "score": 72,
     "cf": 0.9
-  },
-  {
-    "ts": 1777059904.2497005,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Amid truce, Hezbollah attacks IDF in south Lebanon; troops kill 6 gunmen in Bint Jbeil",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
