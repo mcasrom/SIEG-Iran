@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1777229103.7625954,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF soldier killed in south Lebanon drone attack as Israel, Hezbollah trade blame",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1777200304.6186385,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
@@ -95,15 +104,6 @@
     "icono": "⚔️",
     "titulo": "Amid truce, Hezbollah attacks IDF in south Lebanon; troops kill 6 gunmen in Bint Jbeil",
     "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
-  },
-  {
-    "ts": 1777052703.8118231,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "EU agency extends warning on flights to Mideast, including Israel, through May 1",
-    "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
   }
