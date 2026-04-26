@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1777189504.3195002,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Father and son, 6, dead in suspected murder-suicide; 16-year-old stabbed, killed in north",
+    "trigger": "killed in",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1777160704.4584787,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
