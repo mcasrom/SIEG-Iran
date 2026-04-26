@@ -88,14 +88,5 @@
     "trigger": "ceasefire",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1777020304.3093567,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "IDF hits Hezbollah targets in south Lebanon after rocket barrage on northern Israel",
-    "trigger": "hezbollah",
-    "score": 72,
-    "cf": 0.8
   }
 ]
