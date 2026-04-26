@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1777196704.0482364,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Hezbollah claims to have launched 2 attacks on IDF troops in south Lebanon’s Taybeh",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1777189504.3195002,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
