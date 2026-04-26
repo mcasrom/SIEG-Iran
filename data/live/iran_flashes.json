@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1777243504.1165352,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF soldier killed in south Lebanon drone attack as Israel, Hezbollah trade fire and blame",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1777229103.7625954,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
