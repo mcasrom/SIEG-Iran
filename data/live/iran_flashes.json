@@ -97,14 +97,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1776987904.6455011,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Hezbollah fires rocket salvo at northern Israel shortly before ceasefire extended",
-    "trigger": "rocket attack",
-    "score": 72,
-    "cf": 0.8
   }
 ]
