@@ -1,5 +1,32 @@
 [
   {
+    "ts": 1777275904.6713927,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF says suspected Hezbollah drone triggered sirens in Western Galilee",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1777275904.6713927,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon The Israeli PM's directive comes as six people were killed by strikes in L",
+    "trigger": "hezbollah",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
+    "ts": 1777275904.6713927,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Trump says Israel-Lebanon ceasefire to be extended by three weeks Envoys from the two countries met in Washington as the fragile truce was d",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1777268704.3368907,
     "vector": "Proxies_Regionales",
     "icono": "🕸",
@@ -122,15 +149,6 @@
     "icono": "⚔️",
     "titulo": "US and Iran in blockade standoff as Pakistan pushes for talks The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire",
     "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.9
-  },
-  {
-    "ts": 1777103103.8760722,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Lebanon accuses Israel of targeting journalist killed in air strike Lebanon's prime minister accused Israel of war crimes after IDF attacks ",
-    "trigger": "air strike",
     "score": 72,
     "cf": 0.9
   }
