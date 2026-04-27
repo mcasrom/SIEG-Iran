@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1777268704.3368907,
+    "vector": "Proxies_Regionales",
+    "icono": "🕸",
+    "titulo": "Israeli strikes kill 14 in Lebanon amid ongoing ceasefire",
+    "trigger": "ceasefire",
+    "score": 65,
+    "cf": 0.9
+  },
+  {
     "ts": 1777261504.1721501,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
