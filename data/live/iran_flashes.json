@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1777322702.412554,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Fatal Hezbollah attack exposes gaps in IDF preparedness for first-person view drones",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1777311904.4550645,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
