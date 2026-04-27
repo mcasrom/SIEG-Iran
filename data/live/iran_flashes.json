@@ -151,14 +151,5 @@
     "trigger": "killed in",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1777135504.1674168,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Police said planning to probe attempt to storm High Court’s Oct. 7 inquiry hearing",
-    "trigger": "evacuation",
-    "score": 72,
-    "cf": 0.8
   }
 ]
