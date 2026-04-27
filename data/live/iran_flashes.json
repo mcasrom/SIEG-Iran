@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1777286704.2690508,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Netanyahu said holding security consultations on Hezbollah ceasefire violations",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1777279504.3150136,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
