@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1777257904.0369296,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Iran said to offer US deal to reopen Hormuz and end war, delay talks on nuclear program",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1777243504.1165352,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
