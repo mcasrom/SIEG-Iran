@@ -1,5 +1,23 @@
 [
   {
+    "ts": 1777311904.4550645,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Slain soldier’s girlfriend says at funeral that she saw his death in Lebanon in real time",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
+    "ts": 1777311904.4550645,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "IDF strikes Lebanon’s Beqaa Valley for first time in 3 weeks as some towns in north cancel school",
+    "trigger": "idf strikes",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1777304704.6610258,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
