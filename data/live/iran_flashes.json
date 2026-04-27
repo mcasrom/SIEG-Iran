@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1777261504.1721501,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Israel restores some restrictions in north amid Hezbollah fire, nixes major pilgrimage",
+    "trigger": "hezbollah",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1777257904.0369296,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
