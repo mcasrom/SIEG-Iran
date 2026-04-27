@@ -1,5 +1,14 @@
 [
   {
+    "ts": 1777279504.3150136,
+    "vector": "Conflicto_Directo",
+    "icono": "⚔️",
+    "titulo": "Netanyahu cancels major Lag B’Omer event at Mount Meron over security fears",
+    "trigger": "ceasefire",
+    "score": 72,
+    "cf": 0.8
+  },
+  {
     "ts": 1777275904.6713927,
     "vector": "Conflicto_Directo",
     "icono": "⚔️",
