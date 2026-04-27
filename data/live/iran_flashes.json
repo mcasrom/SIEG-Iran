@@ -142,23 +142,5 @@
     "trigger": "hezbollah",
     "score": 72,
     "cf": 0.8
-  },
-  {
-    "ts": 1777110303.7583566,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "Iran says Strait of Hormuz cannot be opened due to ceasefire breaches Iran's chief negotiator says \"violations\" by the US and Israel make it",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.9
-  },
-  {
-    "ts": 1777110303.7583566,
-    "vector": "Conflicto_Directo",
-    "icono": "⚔️",
-    "titulo": "US and Iran in blockade standoff as Pakistan pushes for talks The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire",
-    "trigger": "ceasefire",
-    "score": 72,
-    "cf": 0.9
   }
 ]
